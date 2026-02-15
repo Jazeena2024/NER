@@ -1,4006 +1,4001 @@
-Sentence #	Word	POS	Tag
-1	South	NNP	B-LOC
-1	Island	NNP	I-LOC
-1	Maoris	NNS	O
-1	less	JJR	O
-1	likely	JJ	O
-1	to	TO	O
-1	specify	VB	O
-1	iwi	NN	O
-2	WELLINGTON	NNP	B-LOC
-2	—	:	O
-2	Census	NNP	O
-2	figures	NNS	O
-2	on	IN	O
-2	iwi	NN	O
-2	,	,	O
-2	the	DT	O
-2	first	JJ	O
-2	to	TO	O
-2	be	VB	O
-2	collected	VBN	O
-2	since	IN	O
-2	1901	CD	B-DATE
-2	,	,	O
-2	show	VB	O
-2	-	:	O
-2	South	NNP	B-LOC
-2	Island	NNP	I-LOC
-2	Maoris	NNS	O
-2	are	VBP	O
-2	less	JJR	O
-2	likely	JJ	O
-2	to	TO	O
-2	report	VB	O
-2	affiliation	NN	O
-2	with	IN	O
-2	a	DT	O
-2	tribe	NN	O
-2	than	IN	O
-2	North	NNP	B-LOC
-2	Island	NNP	I-LOC
-2	counterparts	NNS	O
-3	In	IN	O
-3	a	DT	O
-3	report	NN	O
-3	released	VBN	O
-3	yesterday	NN	O
-3	by	IN	O
-3	Statistics	NNP	B-ORG
-3	NZ	NNP	I-ORG
-3	,	,	O
-3	60	CD	O
-3	per	NN	O
-3	cent	NN	O
-3	of	IN	O
-3	South	NNP	B-LOC
-3	Island	NNP	I-LOC
-3	Maoris	NNS	O
-3	specified	VBD	O
-3	a	DT	O
-3	main	JJ	O
-3	iwi	NN	O
-3	to	TO	O
-3	which	WDT	O
-3	they	PRP	O
-3	belonged	VBD	O
-3	,	,	O
-3	compared	VBN	O
-3	with	IN	O
-3	74	CD	O
-3	per	NN	O
-3	cent	NN	O
-3	in	IN	O
-3	the	DT	O
-3	North	NNP	B-LOC
-3	Island	NNP	I-LOC
-4	The	DT	O
-4	Government	NNP	B-ORG
-4	Statistician	NNP	I-ORG
-4	,	,	O
-4	Mr	NNP	O
-4	Len	NNP	B-PERSON
-4	Cook	NNP	I-PERSON
-4	,	,	O
-4	said	VBD	O
-4	that	IN	O
-4	87	CD	O
-4	per	NN	O
-4	cent	NN	O
-4	of	IN	O
-4	Maoris	NNS	O
-4	in	IN	O
-4	the	DT	O
-4	Gisborne	NNP	B-LOC
-4	area	NN	O
-4	specified	VBD	O
-4	a	DT	O
-4	main	JJ	O
-4	iwi	NN	O
-4	,	,	O
-4	the	DT	O
-4	highest	JJS	O
-4	proportion	NN	O
-4	in	IN	O
-4	the	DT	O
-4	country	NN	O
-5	The	DT	O
-5	lowest	JJS	O
-5	proportion	NN	O
-5	was	VBD	O
-5	54	CD	O
-5	per	NN	O
-5	cent	NN	O
-5	in	IN	O
-5	Otago	NNP	B-LOC
-6	He	PRP	O
-6	said	VBD	O
-6	an	DT	O
-6	iwi	NN	O
-6	question	NN	O
-6	in	IN	O
-6	the	DT	O
-6	1991	CD	B-DATE
-6	census	NN	O
-6	asked	VBD	O
-6	the	DT	O
-6	511,278	CD	O
-6	people	NNS	O
-6	who	WP	O
-6	stated	VBD	O
-6	they	PRP	O
-6	had	VBD	O
-6	Maori	NNP	O
-6	ancestry	NN	O
-6	to	TO	O
-6	which	WDT	O
-6	main	JJ	O
-6	iwi	NN	O
-6	they	PRP	O
-6	belonged	VBD	O
-6	,	,	O
-6	and	CC	O
-6	with	IN	O
-6	what	WP	O
-6	other	JJ	O
-6	iwi	NN	O
-6	they	PRP	O
-6	had	VBD	O
-6	strong	JJ	O
-6	ties	NNS	O
-7	Of	IN	O
-7	these,	DT	O
-7	72	CD	O
-7	per	NN	O
-7	cent	NN	O
-7	were	VBD	O
-7	affiliated	VBN	O
-7	with	IN	O
-7	an	DT	O
-7	iwi	NN	O
-8	Of	IN	O
-8	the	DT	O
-8	remaining	JJ	O
-8	144,351	CD	O
-8	people	NNS	O
-8	,	,	O
-8	78	CD	O
-8	per	NN	O
-8	cent	NN	O
-8	said	VBD	O
-8	they	PRP	O
-8	did	VBD	O
-8	not	RB	O
-8	know	VB	O
-8	their	PRP$	O
-8	iwi	NN	O
-8	,	,	O
-8	13	CD	O
-8	per	NN	O
-8	cent	NN	O
-8	said	VBD	O
-8	they	PRP	O
-8	did	VBD	O
-8	not	RB	O
-8	belong	VB	O
-8	to	TO	O
-8	any	DT	O
-8	iwi	NN	O
-8	,	,	O
-8	and	CC	O
-8	8	CD	O
-8	per	NN	O
-8	cent	NN	O
-8	did	VBD	O
-8	not	RB	O
-8	answer	VB	O
-8	the	DT	O
-8	question	NN	O
-9	The	DT	O
-9	report	NN	O
-9	found	VBD	O
-9	the	DT	O
-9	largest	JJS	O
-9	iwi	NN	O
-9	was	VBD	O
-9	Northland-based	NNP	B-LOC
-9	Ngapuhi	NNP	I-LOC
-9	with	IN	O
-9	92,973	CD	O
-9	members	NNS	O
-10	Two	CD	O
-10	other	JJ	O
-10	iwi	NN	O
-10	reported	VBD	O
-10	memberships	NNS	O
-10	of	IN	O
-10	more	JJR	O
-10	than	IN	O
-10	40,000	CD	O
-10	—	:	O
-10	Gisborne's	NNP	B-LOC
-10	Ngati	NNP	I-LOC
-10	Porou	NNP	I-LOC
-10	with	IN	O
-10	48,525	CD	O
-10	and	CC	O
-10	Nga	NNP	B-LOC
-10	Kahungunu	NNP	I-LOC
-10	in	IN	O
-10	Hawke's	NNP	B-LOC
-10	Bay	NNP	I-LOC
-10	Wairarapa	NNP	I-LOC
-10	with	IN	O
-10	43,614	CD	O
-10	members	NNS	O
-11	Ngai	NNP	B-LOC
-11	Tahu	NNP	I-LOC
-11	was	VBD	O
-11	the	DT	O
-11	largest	JJS	O
-11	South	NNP	B-LOC
-11	Island	NNP	I-LOC
-11	iwi	NN	O
-11	with	IN	O
-11	20,304	CD	O
-11	members	NNS	O
-12	After	IN	O
-12	consultation	NN	O
-12	with	IN	O
-12	iwi	NN	O
-12	authorities	NNS	O
-12	and	CC	O
-12	Maori	NNP	O
-12	agencies	NNS	O
-12	,	,	O
-12	the	DT	O
-12	department	NN	O
-12	eventually	RB	O
-12	identified	VBD	O
-12	82	CD	O
-12	iwi	NN	O
-12	in	IN	O
-12	its	PRP$	O
-12	report	NN	O
-13	Some	DT	O
-13	of	IN	O
-13	those	DT	O
-13	identified	VBN	O
-13	as	IN	O
-13	distinct	JJ	O
-13	iwi	NN	O
-13	share	VBP	O
-13	the	DT	O
-13	same	JJ	O
-13	ancestry	NN	O
-13	and	CC	O
-13	name	NN	O
-13	but	CC	O
-13	are	VBP	O
-13	located	VBN	O
-13	in	IN	O
-13	different	JJ	O
-13	areas	NNS	O
-13	of	IN	O
-13	the	DT	O
-13	country	NN	O
-13	.	.	O
-14	They	PRP	O
-14	have	VBP	O
-14	thus	RB	O
-14	evolved	VBN	O
-14	separate	JJ	O
-14	identities	NNS	O
-14	and	CC	O
-14	separate	JJ	O
-14	administrative	JJ	O
-14	structures	NNS	O
-14	,	,	O
-14	Mr	NNP	O
-14	Cook	NNP	B-PERSON
-14	said	VBD	O
-15	A	DT	O
-15	significant	JJ	O
-15	number	NN	O
-15	of	IN	O
-15	people	NNS	O
-15	were	VBD	O
-15	living	VBG	O
-15	in	IN	O
-15	their	PRP$	O
-15	iwi	NN	O
-15	district	NN	O
-15	,	,	O
-15	with	IN	O
-15	Whaingaroa	NNP	B-LOC
-15	being	VBG	O
-15	the	DT	O
-15	most	RBS	O
-15	regionally	RB	O
-15	concentrated	VBN	O
-15	iwi	NN	O
-15	—	:	O
-15	90	CD	O
-15	per	NN	O
-15	cent	NN	O
-15	of	IN	O
-15	people	NNS	O
-15	listing	VBG	O
-15	it	PRP	O
-15	as	IN	O
-15	their	PRP$	O
-15	main	JJ	O
-15	iwi	NN	O
-15	were	VBD	O
-15	living	VBG	O
-15	in	IN	O
-15	the	DT	O
-15	region	NN	O
-16	—	:	O
-16	NZPA	NNP	B-ORG
+0	1.0	South	NNP	B-LOC
+1	1.0	Island	NNP	I-LOC
+2	1.0	Maoris	NNS	O
+3	1.0	less	JJR	O
+4	1.0	likely	JJ	O
+5	1.0	to	TO	O
+6	1.0	specify	VB	O
+7	1.0	iwi	NN	O
+8	2.0	WELLINGTON	NNP	B-LOC
+9	2.0	—	:	O
+10	2.0	Census	NNP	O
+11	2.0	figures	NNS	O
+12	2.0	on	IN	O
+13	2.0	iwi	NN	O
+14	2.0	,	,	O
+15	2.0	the	DT	O
+16	2.0	first	JJ	O
+17	2.0	to	TO	O
+18	2.0	be	VB	O
+19	2.0	collected	VBN	O
+20	2.0	since	IN	O
+21	2.0	1901	CD	B-DATE
+22	2.0	,	,	O
+23	2.0	show	VB	O
+24	2.0	-	:	O
+25	2.0	South	NNP	B-LOC
+26	2.0	Island	NNP	I-LOC
+27	2.0	Maoris	NNS	O
+28	2.0	are	VBP	O
+29	2.0	less	JJR	O
+30	2.0	likely	JJ	O
+31	2.0	to	TO	O
+32	2.0	report	VB	O
+33	2.0	affiliation	NN	O
+34	2.0	with	IN	O
+35	2.0	a	DT	O
+36	2.0	tribe	NN	O
+37	2.0	than	IN	O
+38	2.0	North	NNP	B-LOC
+39	2.0	Island	NNP	I-LOC
+40	2.0	counterparts	NNS	O
+41	3.0	In	IN	O
+42	3.0	a	DT	O
+43	3.0	report	NN	O
+44	3.0	released	VBN	O
+45	3.0	yesterday	NN	O
+46	3.0	by	IN	O
+47	3.0	Statistics	NNP	B-ORG
+48	3.0	NZ	NNP	I-ORG
+49	3.0	,	,	O
+50	3.0	60	CD	O
+51	3.0	per	NN	O
+52	3.0	cent	NN	O
+53	3.0	of	IN	O
+54	3.0	South	NNP	B-LOC
+55	3.0	Island	NNP	I-LOC
+56	3.0	Maoris	NNS	O
+57	3.0	specified	VBD	O
+58	3.0	a	DT	O
+59	3.0	main	JJ	O
+60	3.0	iwi	NN	O
+61	3.0	to	TO	O
+62	3.0	which	WDT	O
+63	3.0	they	PRP	O
+64	3.0	belonged	VBD	O
+65	3.0	,	,	O
+66	3.0	compared	VBN	O
+67	3.0	with	IN	O
+68	3.0	74	CD	O
+69	3.0	per	NN	O
+70	3.0	cent	NN	O
+71	3.0	in	IN	O
+72	3.0	the	DT	O
+73	3.0	North	NNP	B-LOC
+74	3.0	Island	NNP	I-LOC
+75	4.0	The	DT	O
+76	4.0	Government	NNP	B-ORG
+77	4.0	Statistician	NNP	I-ORG
+78	4.0	,	,	O
+79	4.0	Mr	NNP	O
+80	4.0	Len	NNP	B-PERSON
+81	4.0	Cook	NNP	I-PERSON
+82	4.0	,	,	O
+83	4.0	said	VBD	O
+84	4.0	that	IN	O
+85	4.0	87	CD	O
+86	4.0	per	NN	O
+87	4.0	cent	NN	O
+88	4.0	of	IN	O
+89	4.0	Maoris	NNS	O
+90	4.0	in	IN	O
+91	4.0	the	DT	O
+92	4.0	Gisborne	NNP	B-LOC
+93	4.0	area	NN	O
+94	4.0	specified	VBD	O
+95	4.0	a	DT	O
+96	4.0	main	JJ	O
+97	4.0	iwi	NN	O
+98	4.0	,	,	O
+99	4.0	the	DT	O
+100	4.0	highest	JJS	O
+101	4.0	proportion	NN	O
+102	4.0	in	IN	O
+103	4.0	the	DT	O
+104	4.0	country	NN	O
+105	5.0	The	DT	O
+106	5.0	lowest	JJS	O
+107	5.0	proportion	NN	O
+108	5.0	was	VBD	O
+109	5.0	54	CD	O
+110	5.0	per	NN	O
+111	5.0	cent	NN	O
+112	5.0	in	IN	O
+113	5.0	Otago	NNP	B-LOC
+114	6.0	He	PRP	O
+115	6.0	said	VBD	O
+116	6.0	an	DT	O
+117	6.0	iwi	NN	O
+118	6.0	question	NN	O
+119	6.0	in	IN	O
+120	6.0	the	DT	O
+121	6.0	1991	CD	B-DATE
+122	6.0	census	NN	O
+123	6.0	asked	VBD	O
+124	6.0	the	DT	O
+125	6.0	511,278	CD	O
+126	6.0	people	NNS	O
+127	6.0	who	WP	O
+128	6.0	stated	VBD	O
+129	6.0	they	PRP	O
+130	6.0	had	VBD	O
+131	6.0	Maori	NNP	O
+132	6.0	ancestry	NN	O
+133	6.0	to	TO	O
+134	6.0	which	WDT	O
+135	6.0	main	JJ	O
+136	6.0	iwi	NN	O
+137	6.0	they	PRP	O
+138	6.0	belonged	VBD	O
+139	6.0	,	,	O
+140	6.0	and	CC	O
+141	6.0	with	IN	O
+142	6.0	what	WP	O
+143	6.0	other	JJ	O
+144	6.0	iwi	NN	O
+145	6.0	they	PRP	O
+146	6.0	had	VBD	O
+147	6.0	strong	JJ	O
+148	6.0	ties	NNS	O
+149	7.0	Of	IN	O
+150	7.0	these,	DT	O
+151	7.0	72	CD	O
+152	7.0	per	NN	O
+153	7.0	cent	NN	O
+154	7.0	were	VBD	O
+155	7.0	affiliated	VBN	O
+156	7.0	with	IN	O
+157	7.0	an	DT	O
+158	7.0	iwi	NN	O
+159	8.0	Of	IN	O
+160	8.0	the	DT	O
+161	8.0	remaining	JJ	O
+162	8.0	144,351	CD	O
+163	8.0	people	NNS	O
+164	8.0	,	,	O
+165	8.0	78	CD	O
+166	8.0	per	NN	O
+167	8.0	cent	NN	O
+168	8.0	said	VBD	O
+169	8.0	they	PRP	O
+170	8.0	did	VBD	O
+171	8.0	not	RB	O
+172	8.0	know	VB	O
+173	8.0	their	PRP$	O
+174	8.0	iwi	NN	O
+175	8.0	,	,	O
+176	8.0	13	CD	O
+177	8.0	per	NN	O
+178	8.0	cent	NN	O
+179	8.0	said	VBD	O
+180	8.0	they	PRP	O
+181	8.0	did	VBD	O
+182	8.0	not	RB	O
+183	8.0	belong	VB	O
+184	8.0	to	TO	O
+185	8.0	any	DT	O
+186	8.0	iwi	NN	O
+187	8.0	,	,	O
+188	8.0	and	CC	O
+189	8.0	8	CD	O
+190	8.0	per	NN	O
+191	8.0	cent	NN	O
+192	8.0	did	VBD	O
+193	8.0	not	RB	O
+194	8.0	answer	VB	O
+195	8.0	the	DT	O
+196	8.0	question	NN	O
+197	9.0	The	DT	O
+198	9.0	report	NN	O
+199	9.0	found	VBD	O
+200	9.0	the	DT	O
+201	9.0	largest	JJS	O
+202	9.0	iwi	NN	O
+203	9.0	was	VBD	O
+204	9.0	Northland-based	NNP	B-LOC
+205	9.0	Ngapuhi	NNP	I-LOC
+206	9.0	with	IN	O
+207	9.0	92,973	CD	O
+208	9.0	members	NNS	O
+209	10.0	Two	CD	O
+210	10.0	other	JJ	O
+211	10.0	iwi	NN	O
+212	10.0	reported	VBD	O
+213	10.0	memberships	NNS	O
+214	10.0	of	IN	O
+215	10.0	more	JJR	O
+216	10.0	than	IN	O
+217	10.0	40,000	CD	O
+218	10.0	—	:	O
+219	10.0	Gisborne's	NNP	B-LOC
+220	10.0	Ngati	NNP	I-LOC
+221	10.0	Porou	NNP	I-LOC
+222	10.0	with	IN	O
+223	10.0	48,525	CD	O
+224	10.0	and	CC	O
+225	10.0	Nga	NNP	B-LOC
+226	10.0	Kahungunu	NNP	I-LOC
+227	10.0	in	IN	O
+228	10.0	Hawke's	NNP	B-LOC
+229	10.0	Bay	NNP	I-LOC
+230	10.0	Wairarapa	NNP	I-LOC
+231	10.0	with	IN	O
+232	10.0	43,614	CD	O
+233	10.0	members	NNS	O
+234	11.0	Ngai	NNP	B-LOC
+235	11.0	Tahu	NNP	I-LOC
+236	11.0	was	VBD	O
+237	11.0	the	DT	O
+238	11.0	largest	JJS	O
+239	11.0	South	NNP	B-LOC
+240	11.0	Island	NNP	I-LOC
+241	11.0	iwi	NN	O
+242	11.0	with	IN	O
+243	11.0	20,304	CD	O
+244	11.0	members	NNS	O
+245	12.0	After	IN	O
+246	12.0	consultation	NN	O
+247	12.0	with	IN	O
+248	12.0	iwi	NN	O
+249	12.0	authorities	NNS	O
+250	12.0	and	CC	O
+251	12.0	Maori	NNP	O
+252	12.0	agencies	NNS	O
+253	12.0	,	,	O
+254	12.0	the	DT	O
+255	12.0	department	NN	O
+256	12.0	eventually	RB	O
+257	12.0	identified	VBD	O
+258	12.0	82	CD	O
+259	12.0	iwi	NN	O
+260	12.0	in	IN	O
+261	12.0	its	PRP$	O
+262	12.0	report	NN	O
+263	13.0	Some	DT	O
+264	13.0	of	IN	O
+265	13.0	those	DT	O
+266	13.0	identified	VBN	O
+267	13.0	as	IN	O
+268	13.0	distinct	JJ	O
+269	13.0	iwi	NN	O
+270	13.0	share	VBP	O
+271	13.0	the	DT	O
+272	13.0	same	JJ	O
+273	13.0	ancestry	NN	O
+274	13.0	and	CC	O
+275	13.0	name	NN	O
+276	13.0	but	CC	O
+277	13.0	are	VBP	O
+278	13.0	located	VBN	O
+279	13.0	in	IN	O
+280	13.0	different	JJ	O
+281	13.0	areas	NNS	O
+282	13.0	of	IN	O
+283	13.0	the	DT	O
+284	13.0	country	NN	O
+285	13.0	.	.	O
+286	14.0	They	PRP	O
+287	14.0	have	VBP	O
+288	14.0	thus	RB	O
+289	14.0	evolved	VBN	O
+290	14.0	separate	JJ	O
+291	14.0	identities	NNS	O
+292	14.0	and	CC	O
+293	14.0	separate	JJ	O
+294	14.0	administrative	JJ	O
+295	14.0	structures	NNS	O
+296	14.0	,	,	O
+297	14.0	Mr	NNP	O
+298	14.0	Cook	NNP	B-PERSON
+299	14.0	said	VBD	O
+300	15.0	A	DT	O
+301	15.0	significant	JJ	O
+302	15.0	number	NN	O
+303	15.0	of	IN	O
+304	15.0	people	NNS	O
+305	15.0	were	VBD	O
+306	15.0	living	VBG	O
+307	15.0	in	IN	O
+308	15.0	their	PRP$	O
+309	15.0	iwi	NN	O
+310	15.0	district	NN	O
+311	15.0	,	,	O
+312	15.0	with	IN	O
+313	15.0	Whaingaroa	NNP	B-LOC
+314	15.0	being	VBG	O
+315	15.0	the	DT	O
+316	15.0	most	RBS	O
+317	15.0	regionally	RB	O
+318	15.0	concentrated	VBN	O
+319	15.0	iwi	NN	O
+320	15.0	—	:	O
+321	15.0	90	CD	O
+322	15.0	per	NN	O
+323	15.0	cent	NN	O
+324	15.0	of	IN	O
+325	15.0	people	NNS	O
+326	15.0	listing	VBG	O
+327	15.0	it	PRP	O
+328	15.0	as	IN	O
+329	15.0	their	PRP$	O
+330	15.0	main	JJ	O
+331	15.0	iwi	NN	O
+332	15.0	were	VBD	O
+333	15.0	living	VBG	O
+334	15.0	in	IN	O
+335	15.0	the	DT	O
+336	15.0	region	NN	O
+337	16.0	—	:	O
+338	16.0	NZPA	NNP	B-ORG
+
+
+339	17.0	At	IN	O
+340	17.0	its	PRP$	O
+341	17.0	last	JJ	O
+342	17.0	ordinary	JJ	O
+343	17.0	meeting	NN	O
+344	17.0	in	IN	O
+345	17.0	August	NNP	B-DATE
+346	17.0	Ruapehu	NNP	B-LOC
+347	17.0	District	NNP	I-LOC
+348	17.0	Council	NNP	I-ORG
+349	17.0	considered	VBD	O
+350	17.0	an	DT	O
+351	17.0	agenda	NN	O
+352	17.0	item	NN	O
+353	17.0	proposing	VBG	O
+354	17.0	the	DT	O
+355	17.0	establishment	NN	O
+356	17.0	of	IN	O
+357	17.0	an	DT	O
+358	17.0	Iwi	NNP	B-ORG
+359	17.0	Liaison	NNP	I-ORG
+360	17.0	Working	NNP	I-ORG
+361	17.0	Party	NNP	I-ORG
+362	18.0	It	PRP	O
+363	18.0	requested	VBD	O
+364	18.0	that	IN	O
+365	18.0	budgetary	JJ	O
+366	18.0	implications	NNS	O
+367	18.0	be	VB	O
+368	18.0	examined	VBN	O
+369	18.0	and	CC	O
+370	18.0	a	DT	O
+371	18.0	budgetary	JJ	O
+372	18.0	outcome	NN	O
+373	18.0	be	VB	O
+374	18.0	proposed	VBN	O
+375	18.0	at	IN	O
+376	18.0	last	JJ	O
+377	18.0	week	NN	O
+378	18.0	's	POS	O
+379	18.0	monthly	JJ	O
+380	18.0	meeting	NN	O
+381	19.0	The	DT	O
+382	19.0	resolution	NN	O
+383	19.0	before	IN	O
+384	19.0	council	NN	O
+385	19.0	last	JJ	O
+386	19.0	week	NN	O
+387	19.0	proposed	VBD	O
+388	19.0	that	IN	O
+389	19.0	a	DT	O
+390	19.0	sum	NN	O
+391	19.0	of	IN	O
+392	19.0	$58,400	CD	O
+393	19.0	be	VB	O
+394	19.0	approved	VBN	O
+395	19.0	as	IN	O
+396	19.0	total	JJ	O
+397	19.0	funding	NN	O
+398	19.0	to	TO	O
+399	19.0	be	VB	O
+400	19.0	made	VBN	O
+401	19.0	available	JJ	O
+402	19.0	to	TO	O
+403	19.0	the	DT	O
+404	19.0	Iwi	NNP	B-ORG
+405	19.0	Liaison	NNP	I-ORG
+406	19.0	Working	NNP	I-ORG
+407	19.0	Party	NNP	I-ORG
+408	19.0	from	IN	O
+409	19.0	the	DT	O
+410	19.0	1993/94	CD	B-DATE
+411	19.0	Resource	NNP	B-ORG
+412	19.0	Management	NNP	I-ORG
+413	19.0	Account	NNP	I-ORG
+414	20.0	Cr	NNP	O
+415	20.0	Weston	NNP	B-PERSON
+416	20.0	Kirton	NNP	I-PERSON
+417	20.0	said	VBD	O
+418	20.0	that	IN	O
+419	20.0	it	PRP	O
+420	20.0	was	VBD	O
+421	20.0	his	PRP$	O
+422	20.0	understanding	NN	O
+423	20.0	that	IN	O
+424	20.0	the	DT	O
+425	20.0	sum	NN	O
+426	20.0	of	IN	O
+427	20.0	$30,000	CD	O
+428	20.0	was	VBD	O
+429	20.0	approved	VBN	O
+430	20.0	at	IN	O
+431	20.0	the	DT	O
+432	20.0	original	JJ	O
+433	20.0	meeting	NN	O
+434	20.0	with	IN	O
+435	20.0	Maori	NNP	B-MISC
+436	20.0	representatives	NNS	O
+437	20.0	and	CC	O
+438	20.0	this	DT	O
+439	20.0	seemed	VBD	O
+440	20.0	to	TO	O
+441	20.0	meet	VB	O
+442	20.0	with	IN	O
+443	20.0	their	PRP$	O
+444	20.0	needs	NNS	O
+445	21.0	"	``	O
+446	21.0	so	RB	O
+447	21.0	why	WRB	O
+448	21.0	is	VBZ	O
+449	21.0	it	PRP	O
+450	21.0	now	RB	O
+451	21.0	$58,400	CD	O
+452	21.0	?"	''	O
+453	22.0	Chief	NNP	O
+454	22.0	executive	NN	O
+455	22.0	Cliff	NNP	B-PERSON
+456	22.0	Houston	NNP	I-PERSON
+457	22.0	said	VBD	O
+458	22.0	that	IN	O
+459	22.0	the	DT	O
+460	22.0	Iwi	NNP	B-ORG
+461	22.0	have	VBP	O
+462	22.0	always	RB	O
+463	22.0	wanted	VBN	O
+464	22.0	$58,400	CD	O
+465	23.0	and	CC	O
+466	23.0	that	IN	O
+467	23.0	he	PRP	O
+468	23.0	had	VBD	O
+469	23.0	been	VBN	O
+470	23.0	conducting	VBG	O
+471	23.0	negotiations	NNS	O
+472	23.0	on	IN	O
+473	23.0	that	DT	O
+474	23.0	basis	NN	O
+475	24.0	He	PRP	O
+476	24.0	assured	VBD	O
+477	24.0	council	NN	O
+478	24.0	that	IN	O
+479	24.0	while	IN	O
+480	24.0	there	EX	O
+481	24.0	was	VBD	O
+482	24.0	no	DT	O
+483	24.0	timetable	NN	O
+484	24.0	scheduled	VBN	O
+485	24.0	for	IN	O
+486	24.0	this	DT	O
+487	24.0	programme	NN	O
+488	24.0	yet	RB	O
+489	24.0	,	,	O
+490	24.0	it	PRP	O
+491	24.0	will	MD	O
+492	24.0	be	VB	O
+493	24.0	structured	VBN	O
+494	24.0	in	IN	O
+495	24.0	such	JJ	O
+496	24.0	a	DT	O
+497	24.0	way	NN	O
+498	24.0	that	IN	O
+499	24.0	the	DT	O
+500	24.0	Ruapehu	NNP	B-LOC
+501	24.0	District	NNP	I-LOC
+502	24.0	Council	NNP	I-ORG
+503	24.0	will	MD	O
+504	24.0	retain	VB	O
+505	24.0	control	NN	O
+506	24.0	throughout	RB	O
+507	24.0	on	IN	O
+508	24.0	the	DT	O
+509	24.0	basis	NN	O
+510	24.0	of	IN	O
+511	24.0	actual	JJ	O
+512	24.0	expenditure	NN	O
+513	24.0	for	IN	O
+514	24.0	such	JJ	O
+515	24.0	things	NNS	O
+516	24.0	as	IN	O
+517	24.0	travel	NN	O
+518	24.0	,	,	O
+519	24.0	land-search	NN	O
+520	24.0	fees	NNS	O
+521	24.0	etc	NN	O
+522	25.0	Council	NNP	B-ORG
+523	25.0	appointed	VBD	O
+524	25.0	Cr	NNP	O
+525	25.0	Joe	NNP	B-PERSON
+526	25.0	Murphy	NNP	I-PERSON
+527	25.0	to	TO	O
+528	25.0	represent	VB	O
+529	25.0	the	DT	O
+530	25.0	northern	JJ	O
+531	25.0	ward	NN	O
+532	25.0	of	IN	O
+533	25.0	the	DT	O
+534	25.0	Ruapehu	NNP	B-LOC
+535	25.0	District	NNP	I-LOC
+536	25.0	Council	NNP	I-ORG
+537	25.0	and	CC	O
+538	25.0	Cr	NNP	O
+539	25.0	Bob	NNP	B-PERSON
+540	25.0	Peck	NNP	I-PERSON
+541	25.0	to	TO	O
+542	25.0	represent	VB	O
+543	25.0	the	DT	O
+544	25.0	southern	JJ	O
+545	25.0	ward	NN	O
+546	25.0	of	IN	O
+547	25.0	the	DT	O
+548	25.0	Ruapehu	NNP	B-LOC
+549	25.0	District	NNP	I-LOC
+550	25.0	Council	NNP	I-ORG
+551	25.0	on	IN	O
+552	25.0	the	DT	O
+553	25.0	Iwi	NNP	B-ORG
+554	25.0	Liaison	NNP	I-ORG
+555	25.0	Working	NNP	I-ORG
+556	25.0	Party	NNP	I-ORG
+557	26.0	Last	JJ	O
+558	26.0	year	NN	O
+559	26.0	's	POS	O
+560	26.0	power	NN	O
+561	26.0	crisis	NN	O
+562	26.0	is	VBZ	O
+563	26.0	thought	VBN	O
+564	26.0	to	TO	O
+565	26.0	be	VB	O
+566	26.0	one	CD	O
+567	26.0	of	IN	O
+568	26.0	the	DT	O
+569	26.0	contributing	VBG	O
+570	26.0	factors	NNS	O
+571	26.0	behind	IN	O
+572	26.0	continued	JJ	O
+573	26.0	lower	JJR	O
+574	26.0	than	IN	O
+575	26.0	expected	VBN	O
+576	26.0	electricity	NN	O
+577	26.0	sales	NNS	O
+578	26.0	by	IN	O
+579	26.0	King	NNP	B-ORG
+580	26.0	Country	NNP	I-ORG
+581	26.0	Energy	NNP	I-ORG
+582	26.0	Limited	NNP	I-ORG
+583	27.0	General	NNP	O
+584	27.0	manager	NN	O
+585	27.0	Peter	NNP	B-PERSON
+586	27.0	Till	NNP	I-PERSON
+587	27.0	told	VBD	O
+588	27.0	the	DT	O
+589	27.0	September	NNP	B-DATE
+590	27.0	directors	NN	O
+591	27.0	meeting	NN	O
+592	27.0	that	IN	O
+593	27.0	August	NNP	B-DATE
+594	27.0	had	VBD	O
+595	27.0	turned	VBN	O
+596	27.0	out	RP	O
+597	27.0	to	TO	O
+598	27.0	be	VB	O
+599	27.0	a	DT	O
+600	27.0	poor	JJ	O
+601	27.0	month	NN	O
+602	27.0	,	,	O
+603	27.0	in	IN	O
+604	27.0	spite	NN	O
+605	27.0	of	IN	O
+606	27.0	earlier	JJ	O
+607	27.0	hopes	NNS	O
+608	27.0	that	IN	O
+609	27.0	an	DT	O
+610	27.0	overall	JJ	O
+611	27.0	drop	NN	O
+612	27.0	in	IN	O
+613	27.0	unit	NN	O
+614	27.0	sales	NNS	O
+615	27.0	might	MD	O
+616	27.0	be	VB	O
+617	27.0	reversed	VBN	O
+618	28.0	He	PRP	O
+619	28.0	said	VBD	O
+620	28.0	last	JJ	O
+621	28.0	year	NN	O
+622	28.0	's	POS	O
+623	28.0	power	NN	O
+624	28.0	crisis	NN	O
+625	28.0	was	VBD	O
+626	28.0	one	CD	O
+627	28.0	of	IN	O
+628	28.0	four	CD	O
+629	28.0	factors	NNS	O
+630	28.0	he	PRP	O
+631	28.0	felt	VBD	O
+632	28.0	were	VBD	O
+633	28.0	behind	IN	O
+634	28.0	the	DT	O
+635	28.0	drop	NN	O
+636	29.0	Last	JJ	O
+637	29.0	year	NN	O
+638	29.0	's	POS	O
+639	29.0	shortage	NN	O
+640	29.0	caused	VBD	O
+641	29.0	fuel	NN	O
+642	29.0	switching	NN	O
+643	29.0	and	CC	O
+644	29.0	switching	NN	O
+645	29.0	off	RP	O
+646	30.0	From	IN	O
+647	30.0	past	JJ	O
+648	30.0	experience	NN	O
+649	30.0	any	DT	O
+650	30.0	shock	NN	O
+651	30.0	to	IN	O
+652	30.0	public	JJ	O
+653	30.0	expectations	NNS	O
+654	30.0	takes	VBZ	O
+655	30.0	about	IN	O
+656	30.0	three	CD	O
+657	30.0	years	NNS	O
+658	30.0	to	TO	O
+659	30.0	even	VB	O
+660	30.0	out	RP	O
+661	31.0	The	DT	O
+662	31.0	warmer	JJR	O
+663	31.0	weather	NN	O
+664	31.0	being	VBG	O
+665	31.0	experienced	VBN	O
+666	31.0	this	DT	O
+667	31.0	winter	NN	O
+668	32.0	was	VBD	O
+669	32.0	also	RB	O
+670	32.0	a	DT	O
+671	32.0	factor	NN	O
+672	33.0	with	IN	O
+673	33.0	research	NN	O
+674	33.0	by	IN	O
+675	33.0	other	JJ	O
+676	33.0	boards	NNS	O
+677	33.0	showing	VBG	O
+678	33.0	a	DT	O
+679	33.0	1%	CD	O
+680	33.0	higher	JJR	O
+681	33.0	average	JJ	O
+682	33.0	temperature	NN	O
+683	33.0	lowered	VBD	O
+684	33.0	domestic	JJ	O
+685	33.0	consumption	NN	O
+686	33.0	by	IN	O
+687	33.0	five	CD	O
+688	33.0	per	NN	O
+689	33.0	cent	NN	O
+690	34.0	in	IN	O
+691	34.0	the	DT	O
+692	34.0	months	NNS	O
+693	34.0	May	NNP	B-DATE
+694	34.0	to	TO	O
+695	34.0	September	NNP	B-DATE
+696	35.0	Tariff	NNP	O
+697	35.0	increases	NNS	O
+698	35.0	over	IN	O
+699	35.0	the	DT	O
+700	35.0	past	JJ	O
+701	35.0	two	CD	O
+702	35.0	years	NNS	O
+703	35.0	would	MD	O
+704	35.0	also	RB	O
+705	35.0	have	VB	O
+706	35.0	had	VBN	O
+707	36.0	an	DT	O
+708	36.0	effect	NN	O
+709	37.0	along	IN	O
+710	37.0	with	IN	O
+711	37.0	energy	NN	O
+712	37.0	efficiency	NN	O
+713	37.0	campaigns	NNS	O
+714	38.0	being	VBG	O
+715	38.0	run	VBN	O
+716	38.0	both	CC	O
+717	38.0	locally	RB	O
+718	38.0	and	CC	O
+719	38.0	nationally	RB	O
+
+
+720	39.0	REAP	NNP	B-ORG
+721	39.0	calls	VBZ	O
+722	39.0	for	IN	O
+723	39.0	more	JJR	O
+724	39.0	Maori	NNP	B-MISC
+725	39.0	input	NN	O
+726	40.0	The	DT	O
+727	40.0	members	NNS	O
+728	40.0	of	IN	O
+729	40.0	the	DT	O
+730	40.0	Ruapehu	NNP	B-LOC
+731	40.0	Rural	NNP	I-ORG
+732	40.0	Education	NNP	I-ORG
+733	40.0	Activities	NNP	I-ORG
+734	40.0	Programme	NNP	I-ORG
+735	40.0	(REAP)	NNP	I-ORG
+736	40.0	council	NN	O
+737	40.0	spent	VBD	O
+738	40.0	much	JJ	O
+739	40.0	time	NN	O
+740	40.0	discussing	VBG	O
+741	40.0	ways	NNS	O
+742	40.0	of	IN	O
+743	40.0	increasing	VBG	O
+744	40.0	Maori	NNP	B-MISC
+745	40.0	input	NN	O
+746	40.0	at	IN	O
+747	40.0	the	DT	O
+748	40.0	meeting	NN	O
+749	40.0	on	IN	O
+750	40.0	Monday	NNP	B-DATE
+751	40.0	night	NN	O
+752	40.0	last	JJ	O
+753	40.0	week	NN	O
+754	41.0	A	DT	O
+755	41.0	proposal	NN	O
+756	41.0	had	VBD	O
+757	41.0	been	VBN	O
+758	41.0	put	VBN	O
+759	41.0	forward	RB	O
+760	41.0	at	IN	O
+761	41.0	the	DT	O
+762	41.0	previous	JJ	O
+763	41.0	meeting	NN	O
+764	42.0	for	IN	O
+765	42.0	a	DT	O
+766	42.0	Maori	NNP	B-MISC
+767	42.0	caucus	NN	O
+768	43.0	to	TO	O
+769	43.0	be	VB	O
+770	43.0	formed	VBN	O
+771	44.0	At	IN	O
+772	44.0	the	DT	O
+773	44.0	meeting	NN	O
+774	44.0	the	DT	O
+775	44.0	council	NN	O
+776	44.0	debated	VBD	O
+777	44.0	the	DT	O
+778	44.0	form	NN	O
+779	44.0	,	,	O
+780	44.0	membership	NN	O
+781	44.0	and	CC	O
+782	44.0	the	DT	O
+783	44.0	power	NN	O
+784	44.0	that	WDT	O
+785	44.0	this	DT	O
+786	44.0	group	NN	O
+787	44.0	would	MD	O
+788	44.0	have	VB	O
+789	45.0	There	EX	O
+790	45.0	are	VBP	O
+791	45.0	four	CD	O
+792	45.0	Iwi	NNP	B-ORG
+793	45.0	places	NNS	O
+794	45.0	on	IN	O
+795	45.0	the	DT	O
+796	45.0	REAP	NNP	B-ORG
+797	45.0	council	NN	O
+798	45.0	reserved	VBN	O
+799	45.0	for	IN	O
+800	45.0	Maori	NNP	B-MISC
+801	45.0	representatives	NNS	O
+802	45.0	from	IN	O
+803	45.0	the	DT	O
+804	45.0	Ngati	NNP	B-MISC
+805	45.0	Kahungunu	NNP	I-MISC
+806	45.0	,	,	O
+807	45.0	Ngati	NNP	B-MISC
+808	45.0	Tuwharetoa	NNP	I-MISC
+809	45.0	,	,	O
+810	45.0	and	CC	O
+811	45.0	Tamaupoko	NNP	B-MISC
+812	45.0	Iwi	NNP	I-MISC
+813	46.0	Although	IN	O
+814	46.0	all	DT	O
+815	46.0	these	DT	O
+816	46.0	places	NNS	O
+817	46.0	were	VBD	O
+818	46.0	filled	VBN	O
+819	46.0	at	IN	O
+820	46.0	the	DT	O
+821	46.0	start	NN	O
+822	46.0	of	IN	O
+823	46.0	the	DT	O
+824	46.0	two	CD	O
+825	46.0	year	NN	O
+826	46.0	term	NN	O
+827	47.0	attendance	NN	O
+828	47.0	at	IN	O
+829	47.0	council	NN	O
+830	47.0	meetings	NNS	O
+831	47.0	has	VBZ	O
+832	47.0	been	VBN	O
+833	48.0	erratic	JJ	O
+834	49.0	Ruapehu	NNP	B-LOC
+835	49.0	REAP	NNP	I-ORG
+836	49.0	Council	NNP	I-ORG
+837	49.0	chairperson	NN	O
+838	49.0	,	,	O
+839	49.0	Tauri	NNP	B-PERSON
+840	49.0	Morgan	NNP	I-PERSON
+841	49.0	,	,	O
+842	49.0	urged	VBD	O
+843	49.0	the	DT	O
+844	49.0	council	NN	O
+845	49.0	members	NNS	O
+846	49.0	to	TO	O
+847	49.0	ask	VB	O
+848	50.0	why	WRB	O
+849	50.0	Maori	NNP	B-MISC
+850	50.0	were	VBD	O
+851	50.0	largely	RB	O
+852	50.0	unrepresented	JJ	O
+853	51.0	in	IN	O
+854	51.0	a	DT	O
+855	51.0	region	NN	O
+856	51.0	where	WRB	O
+857	51.0	28	CD	O
+858	51.0	per	NN	O
+859	51.0	cent	NN	O
+860	51.0	of	IN	O
+861	51.0	the	DT	O
+862	51.0	population	NN	O
+863	51.0	is	VBZ	O
+864	51.0	Maori	NNP	B-MISC
+865	52.0	His	PRP$	O
+866	52.0	questions	NNS	O
+867	52.0	included	VBD	O
+868	53.0	:	:	O
+869	53.0	'	``	O
+870	53.0	why	WRB	O
+871	53.0	did	VBD	O
+872	53.0	n't	RB	O
+873	53.0	appointed	VBN	O
+874	53.0	members	NNS	O
+875	53.0	turn	VB	O
+876	53.0	up	RP	O
+877	53.0	at	IN	O
+878	53.0	the	DT	O
+879	53.0	first	JJ	O
+880	53.0	meeting	NN	O
+881	53.0	?	.	O
+882	54.0	Why	WRB	O
+883	54.0	have	VBP	O
+884	54.0	n't	RB	O
+885	54.0	they	PRP	O
+886	54.0	come	VB	O
+887	54.0	back	RB	O
+888	54.0	?	.	O
+889	55.0	Is	VBZ	O
+890	55.0	our	PRP$	O
+891	55.0	induction	NN	O
+892	55.0	process	NN	O
+893	55.0	culturally	RB	O
+894	55.0	sensitive	JJ	O
+895	56.0	?	.	O
+896	57.0	How	WRB	O
+897	57.0	do	VBP	O
+898	57.0	we	PRP	O
+899	57.0	structure	VB	O
+900	57.0	our	PRP$	O
+901	57.0	meetings	NNS	O
+902	58.0	?	.	O
+903	59.0	Does	VBZ	O
+904	59.0	REAP	NNP	B-ORG
+905	59.0	have	VB	O
+906	59.0	a	DT	O
+907	59.0	welcoming	JJ	O
+908	59.0	atmosphere	NN	O
+909	60.0	?	.	O
+910	61.0	What	WDT	O
+911	61.0	protocols	NNS	O
+912	61.0	are	VBP	O
+913	61.0	in	IN	O
+914	61.0	place	NN	O
+915	62.0	?	.	O
+916	63.0	The	DT	O
+917	63.0	council	NN	O
+918	63.0	will	MD	O
+919	63.0	meet	VB	O
+920	63.0	once	RB	O
+921	63.0	more	RB	O
+922	63.0	before	IN	O
+923	63.0	its	PRP$	O
+924	63.0	Annual	NNP	B-DATE
+925	63.0	General	NNP	I-ORG
+926	63.0	Meeting	NNP	I-ORG
+927	63.0	on	IN	O
+928	63.0	26	CD	B-DATE
+929	63.0	April	NNP	I-DATE
+930	64.0	and	CC	O
+931	64.0	Maori	NNP	B-MISC
+932	64.0	representation	NN	O
+933	64.0	will	MD	O
+934	64.0	once	RB	O
+935	64.0	again	RB	O
+936	64.0	be	VB	O
+937	64.0	on	IN	O
+938	64.0	the	DT	O
+939	64.0	agenda	NN	O
+940	65.0	Early	JJ	O
+941	65.0	Childhood	NNP	B-ORG
+942	65.0	group	NN	O
+943	65.0	may	MD	O
+944	65.0	end	VB	O
+945	66.0	Early	JJ	O
+946	66.0	*	:	O
+947	66.0	childhood	NN	O
+948	66.0	education	NN	O
+949	67.0	came	VBD	O
+950	67.0	under	IN	O
+951	67.0	scrutiny	NN	O
+952	67.0	at	IN	O
+953	67.0	last	JJ	O
+954	67.0	week	NN	O
+955	67.0	's	POS	O
+956	67.0	meeting	NN	O
+957	67.0	of	IN	O
+958	67.0	the	DT	O
+959	67.0	Ruapehu	NNP	B-LOC
+960	67.0	Rural	NNP	I-LOC
+961	67.0	Education	NNP	I-ORG
+962	67.0	Activities	NNP	I-ORG
+963	67.0	Programme	NNP	I-ORG
+964	67.0	Inc	NNP	I-ORG
+965	67.0	(REAP)	NNP	I-ORG
+966	68.0	Currently	RB	O
+967	68.0	three	CD	O
+968	68.0	of	IN	O
+969	68.0	the	DT	O
+970	68.0	REAP	NNP	B-ORG
+971	68.0	council	NN	O
+972	68.0	members	NNS	O
+973	68.0	combine	VBP	O
+974	68.0	with	IN	O
+975	68.0	REAP	NNP	B-ORG
+976	68.0	early	JJ	O
+977	68.0	childhood	NN	O
+978	68.0	workers	NNS	O
+979	68.0	and	CC	O
+980	68.0	representatives	NNS	O
+981	68.0	from	IN	O
+982	68.0	the	DT	O
+983	68.0	region	NN	O
+984	68.0	's	POS	O
+985	68.0	playcentres	NNS	O
+986	68.0	,	,	O
+987	68.0	kindergartens	NNS	O
+988	68.0	,	,	O
+989	68.0	kohanga	NN	O
+990	68.0	reo	NN	O
+991	68.0	,	,	O
+992	68.0	preschool	NN	O
+993	68.0	and	CC	O
+994	68.0	child	NN	O
+995	68.0	care	NN	O
+996	68.0	facilities	NNS	O
+997	68.0	to	TO	O
+998	68.0	form	VB	O
+999	68.0	the	DT	O
+1000	68.0	REAP	NNP	B-ORG
+1001	68.0	Early	NNP	I-ORG
+1002	68.0	Childhood	NNP	I-ORG
+1003	68.0	Education	NNP	I-ORG
+1004	68.0	sub-committee	NN	O
+1005	69.0	Meetings	NNS	O
+1006	69.0	of	IN	O
+1007	69.0	the	DT	O
+1008	69.0	subcommittee	NN	O
+1009	69.0	are	VBP	O
+1010	69.0	normally	RB	O
+1011	69.0	held	VBN	O
+1012	69.0	in	IN	O
+1013	69.0	Waiouru	NNP	B-LOC
+1014	70.0	but	CC	O
+1015	70.0	have	VBP	O
+1016	70.0	not	RB	O
+1017	70.0	been	VBN	O
+1018	70.0	well	RB	O
+1019	70.0	attended	VBN	O
+1020	70.0	in	IN	O
+1021	70.0	the	DT	O
+1022	70.0	last	JJ	O
+1023	70.0	six	CD	O
+1024	70.0	months	NNS	O
+1025	71.0	Council	NNP	B-ORG
+1026	71.0	members	NNS	O
+1027	71.0	questioned	VBD	O
+1028	71.0	the	DT	O
+1029	71.0	need	NN	O
+1030	71.0	for	IN	O
+1031	71.0	the	DT	O
+1032	71.0	subcommittee	NN	O
+1033	72.0	An	DT	O
+1034	72.0	early	JJ	O
+1035	72.0	childhood	NN	O
+1036	72.0	meeting	NN	O
+1037	72.0	is	VBZ	O
+1038	72.0	planned	VBN	O
+1039	72.0	for	IN	O
+1040	72.0	Monday	NNP	B-DATE
+1041	72.0	22	CD	B-DATE
+1042	72.0	February	NNP	I-DATE
+1043	72.0	when	IN	O
+1044	72.0	the	DT	O
+1045	72.0	group	NN	O
+1046	72.0	will	MD	O
+1047	72.0	discuss	VB	O
+1048	72.0	their	PRP$	O
+1049	72.0	future	NN	O
+1050	73.0	Ruapehu	NNP	B-LOC
+1051	73.0	REAP	NNP	I-ORG
+1052	73.0	manager	NN	O
+1053	73.0	,	,	O
+1054	73.0	Marion	NNP	B-PERSON
+1055	73.0	Cleaver	NNP	I-PERSON
+1056	73.0	,	,	O
+1057	73.0	reported	VBD	O
+1058	73.0	to	IN	O
+1059	73.0	the	DT	O
+1060	73.0	REAP	NNP	B-ORG
+1061	73.0	council	NN	O
+1062	73.0	that	IN	O
+1063	73.0	she	PRP	O
+1064	73.0	believed	VBD	O
+1065	73.0	1993	CD	B-DATE
+1066	73.0	would	MD	O
+1067	73.0	be	VB	O
+1068	73.0	a	DT	O
+1069	73.0	busy	JJ	O
+1070	73.0	year	NN	O
+1071	73.0	for	IN	O
+1072	73.0	REAP	NNP	B-ORG
+1073	73.0	Assisted	JJ	I-ORG
+1074	73.0	Projects	NNS	I-ORG
+1075	73.0	(	RB	O
+1076	73.0	RAP	NNP	B-ORG
+1077	73.0	)	)	O
+1078	74.0	The	DT	O
+1079	74.0	RAP	NNP	B-ORG
+1080	74.0	scheme	NN	O
+1081	74.0	was	VBD	O
+1082	74.0	set	VBN	O
+1083	74.0	up	RP	O
+1084	74.0	in	IN	O
+1085	74.0	1992	CD	B-DATE
+1086	74.0	in	IN	O
+1087	74.0	response	NN	O
+1088	74.0	to	IN	O
+1089	74.0	the	DT	O
+1090	74.0	need	NN	O
+1091	74.0	for	IN	O
+1092	74.0	REAP	NNP	B-ORG
+1093	74.0	to	TO	O
+1094	74.0	effectively	RB	O
+1095	74.0	target	VB	O
+1096	74.0	its	PRP$	O
+1097	74.0	assistance	NN	O
+1098	74.0	to	IN	O
+1099	74.0	school	NN	O
+1100	74.0	and	CC	O
+1101	74.0	community	NN	O
+1102	74.0	groups	NNS	O
+1103	75.0	In	IN	O
+1104	75.0	1992	CD	B-DATE
+1105	75.0	$40,000	CD	O
+1106	75.0	was	VBD	O
+1107	75.0	budgeted	VBN	O
+1108	75.0	for	IN	O
+1109	75.0	the	DT	O
+1110	75.0	RAP	NNP	B-ORG
+1111	75.0	fund	NN	O
+1112	75.0	but	CC	O
+1113	75.0	less	JJR	O
+1114	75.0	than	IN	O
+1115	75.0	half	NN	O
+1116	75.0	was	VBD	O
+1117	75.0	allocated	VBN	O
+1118	76.0	This	DT	O
+1119	76.0	year	NN	O
+1120	76.0	Mrs	NNP	B-PERSON
+1121	76.0	Cleaver	NNP	I-PERSON
+1122	76.0	expects	VBZ	O
+1123	76.0	the	DT	O
+1124	76.0	full	JJ	O
+1125	76.0	amount	NN	O
+1126	76.0	to	TO	O
+1127	76.0	be	VB	O
+1128	76.0	used	VBN	O
+1129	77.0	"We	PRP	O
+1130	77.0	're	VBP	O
+1131	77.0	already	RB	O
+1132	77.0	getting	VBG	O
+1133	77.0	applications	NNS	O
+1134	77.0	from	IN	O
+1135	77.0	schools	NNS	O
+1136	77.0	who	WP	O
+1137	77.0	didn	VBD	O
+1138	77.0	't	RB	O
+1139	77.0	use	VB	O
+1140	77.0	us	PRP	O
+1141	77.0	last	JJ	O
+1142	77.0	year	NN	O
+1143	77.0	.As	.	O
+1144	77.0	the	DT	O
+1145	77.0	scheme	NN	O
+1146	77.0	has	VBZ	O
+1147	77.0	become	VBN	O
+1148	77.0	better	JJR	O
+1149	77.0	known	VBN	O
+1150	77.0	more	JJR	O
+1151	77.0	people	NNS	O
+1152	77.0	are	VBP	O
+1153	77.0	applying	VBG	O
+1154	77.0	"	''	O
+1155	78.0	She	PRP	O
+1156	78.0	said	VBD	O
+1157	79.0	The	DT	O
+1158	79.0	rationale	NN	O
+1159	79.0	for	IN	O
+1160	79.0	the	DT	O
+1161	79.0	RAP	NNP	B-ORG
+1162	79.0	scheme	NN	O
+1163	79.0	is	VBZ	O
+1164	79.0	to	TO	O
+1165	79.0	provide	VB	O
+1166	79.0	assistance	NN	O
+1167	79.0	for	IN	O
+1168	79.0	projects	NNS	O
+1169	79.0	aimed	VBN	O
+1170	79.0	at	IN	O
+1171	79.0	improving	VBG	O
+1172	79.0	or	CC	O
+1173	79.0	enhancing	VBG	O
+1174	79.0	the	DT	O
+1175	79.0	learning	NN	O
+1176	79.0	opportunities	NNS	O
+1177	79.0	for	IN	O
+1178	79.0	rural	JJ	O
+1179	79.0	students	NNS	O
+1180	79.0	or	CC	O
+1181	79.0	community	NN	O
+1182	79.0	groups	NNS	O
+1183	79.0	which	WDT	O
+1184	79.0	cannot	MD	O
+1185	79.0	be	VB	O
+1186	79.0	met	VBN	O
+1187	79.0	from	IN	O
+1188	79.0	other	JJ	O
+1189	79.0	resources	NNS	O
+1190	80.0	Guidelines	NNS	O
+1191	80.0	for	IN	O
+1192	80.0	applications	NNS	O
+1193	80.0	have	VBP	O
+1194	80.0	deliberately	RB	O
+1195	80.0	been	VBN	O
+1196	80.0	very	RB	O
+1197	80.0	broad	JJ	O
+1198	80.0	in	IN	O
+1199	80.0	an	DT	O
+1200	80.0	effort	NN	O
+1201	80.0	to	TO	O
+1202	80.0	encourage	VB	O
+1203	80.0	innovative	JJ	O
+1204	80.0	ideas	NNS	O
+1205	80.0	targeted	VBN	O
+1206	80.0	at	IN	O
+1207	80.0	projects	NNS	O
+1208	80.0	and	CC	O
+1209	80.0	groups	NNS	O
+1210	80.0	which	WDT	O
+1211	80.0	would	MD	O
+1212	80.0	have	VB	O
+1213	80.0	no	DT	O
+1214	80.0	other	JJ	O
+1215	80.0	source	NN	O
+1216	80.0	of	IN	O
+1217	80.0	funding	NN	O
+1218	81.0	Last	JJ	O
+1219	81.0	year	NN	O
+1220	81.0	80	CD	O
+1221	81.0	per	IN	O
+1222	81.0	cent	NN	O
+1223	81.0	of	IN	O
+1224	81.0	grants	NNS	O
+1225	81.0	(	(	O
+1226	81.0	$14,500	CD	O
+1227	81.0	)	)	O
+1228	81.0	were	VBD	O
+1229	81.0	to	TO	O
+1230	81.0	projects	NNS	O
+1231	81.0	based	VBN	O
+1232	81.0	at	IN	O
+1233	81.0	local	JJ	O
+1234	81.0	primary	JJ	O
+1235	81.0	schools	NNS	O
+1236	82.0	seven	CD	O
+1237	82.0	per	IN	O
+1238	82.0	cent	NN	O
+1239	82.0	to	TO	O
+1240	82.0	early	JJ	O
+1241	82.0	childhood	NN	O
+1242	82.0	education	NN	O
+1243	82.0	groups	NNS	O
+1244	83.0	and	CC	O
+1245	83.0	the	DT	O
+1246	83.0	remaining	JJ	O
+1247	83.0	thirteen	CD	O
+1248	83.0	per	IN	O
+1249	83.0	cent	NN	O
+1250	83.0	to	TO	O
+1251	83.0	other	JJ	O
+1252	83.0	community	NN	O
+1253	83.0	groups	NNS	O
+1254	84.0	Applications	NNS	O
+1255	84.0	are	VBP	O
+1256	84.0	considered	VBN	O
+1257	84.0	on	IN	O
+1258	84.0	the	DT	O
+1259	84.0	relevance	NN	O
+1260	84.0	of	IN	O
+1261	84.0	the	DT	O
+1262	84.0	programme	NN	O
+1263	84.0	taking	VBG	O
+1264	84.0	into	IN	O
+1265	84.0	account	NN	O
+1266	84.0	the	DT	O
+1267	84.0	needs	NNS	O
+1268	84.0	of	IN	O
+1269	84.0	the	DT	O
+1270	84.0	area	NN	O
+1271	85.0	A	DT	O
+1272	85.0	panel	NN	O
+1273	85.0	of	IN	O
+1274	85.0	three	CD	O
+1275	85.0	REAP	NNP	B-ORG
+1276	85.0	representatives	NNS	O
+1277	85.0	meets	VBZ	O
+1278	85.0	fortnightly	RB	O
+1279	85.0	to	TO	O
+1280	85.0	consider	VB	O
+1281	85.0	applications	NNS	O
+1282	86.0	More	RBR	O
+1283	86.0	information	NN	O
+1284	86.0	is	VBZ	O
+1285	86.0	available	JJ	O
+1286	86.0	from	IN	O
+1287	86.0	the	DT	O
+1288	86.0	REAP	NNP	B-ORG
+1289	86.0	office	NN	O
+1290	86.0	in	IN	O
+1291	86.0	Taihape	NNP	B-LOC
+
+
+
+1292	87.0	The	DT	O
+1293	87.0	Ruapehu	NNP	B-ORG
+1294	87.0	District	NNP	I-ORG
+1295	87.0	Council	NNP	I-ORG
+1296	87.0	adopted	VBD	O
+1297	87.0	the	DT	O
+1298	87.0	following	VBG	O
+1299	87.0	resolutions	NNS	O
+1300	87.0	in	IN	O
+1301	87.0	relation	NN	O
+1302	87.0	to	IN	O
+1303	87.0	the	DT	O
+1304	87.0	Ohakune	NNP	B-LOC
+1305	87.0	,	,	O
+1306	87.0	Raetihi	NNP	B-LOC
+1307	87.0	,	,	O
+1308	87.0	National	NNP	B-LOC
+1309	87.0	Park	NNP	I-LOC
+1310	87.0	and	CC	O
+1311	87.0	Pipiriki	NNP	B-LOC
+1312	87.0	sewerage	NN	O
+1313	87.0	schemes	NNS	O
+1314	87.0	for	IN	O
+1315	87.0	the	DT	O
+1316	87.0	1994/95	CD	B-DATE
+1317	87.0	Annual	NNP	B-MISC
+1318	87.0	Plan	NNP	I-MISC
+1319	87.0	.	.	O
+
+1320	88.0	Ohakune	NNP	B-LOC
+1321	88.0	The	DT	O
+1322	88.0	1994/95	CD	B-DATE
+1323	88.0	Draft	NNP	O
+1324	88.0	Annual	NNP	B-MISC
+1325	88.0	Plan	NNP	I-MISC
+1326	88.0	provided	VBD	O
+1327	88.0	for	IN	O
+1328	88.0	an	DT	O
+1329	88.0	estimated	VBN	O
+1330	88.0	budget	NN	O
+1331	88.0	of	IN	O
+1332	88.0	$282,800	CD	O
+1333	88.0	for	IN	O
+1334	88.0	the	DT	O
+1335	88.0	Ohakune	NNP	B-LOC
+1336	88.0	oxidation	NN	O
+1337	88.0	ponds	NNS	O
+1338	88.0	upgrade	NN	O
+1339	88.0	,	,	O
+1340	88.0	this	DT	O
+1341	88.0	sum	NN	O
+1342	88.0	being	VBG	O
+1343	88.0	made	VBN	O
+1344	88.0	up	IN	O
+1345	88.0	of	IN	O
+1346	88.0	(	(	O
+1347	88.0	1	CD	O
+1348	88.0	)	)	O
+1349	88.0	aerators	NNS	O
+1350	88.0	-	:	O
+1351	88.0	supply	NN	O
+1352	88.0	installation	NN	O
+1353	88.0	,	,	O
+1354	88.0	power	NN	O
+1355	88.0	to	IN	O
+1356	88.0	site	NN	O
+1357	88.0	,	,	O
+1358	88.0	controls	NNS	O
+1359	88.0	and	CC	O
+1360	88.0	all	DT	O
+1361	88.0	fees	NNS	O
+1362	88.0	and	CC	O
+1363	88.0	(	(	O
+1364	88.0	2	CD	O
+1365	88.0	)	)	O
+1366	88.0	wetlands	NNS	O
+1367	88.0	—	:	O
+1368	88.0	construction	NN	O
+1369	88.0	and	CC	O
+1370	88.0	planting	NN	O
+1371	88.0	including	VBG	O
+1372	88.0	all	DT	O
+1373	88.0	fees	NNS	O
+1374	88.0	.	.	O
+
+1375	89.0	However	RB	O
+1376	89.0	,	,	O
+1377	89.0	since	IN	O
+1378	89.0	the	DT	O
+1379	89.0	initial	JJ	O
+1380	89.0	budget	NN	O
+1381	89.0	estimate	NN	O
+1382	89.0	,	,	O
+1383	89.0	consultant	NN	O
+1384	89.0	engineers	NNS	O
+1385	89.0	Fraser	NNP	B-ORG
+1386	89.0	Thomas	NNP	I-ORG
+1387	89.0	Ltd	NNP	I-ORG
+1388	89.0	have	VBP	O
+1389	89.0	advised	VBN	O
+1390	89.0	the	DT	O
+1391	89.0	following	VBG	O
+1392	89.0	reduced	VBN	O
+1393	89.0	costs	NNS	O
+1394	89.0	:	:	O
+1395	89.0	(	(	O
+1396	89.0	1	CD	O
+1397	89.0	)	)	O
+1398	89.0	Aerators	NNS	O
+1399	89.0	-	:	O
+1400	89.0	supply	NN	O
+1401	89.0	and	CC	O
+1402	89.0	installation	NN	O
+1403	89.0	etc	NN	O
+1404	89.0	(	(	O
+1405	89.0	$78,000	CD	O
+1406	89.0	)	)	O
+1407	89.0	;	;	O
+1408	89.0	(	(	O
+1409	89.0	2	CD	O
+1410	89.0	)	)	O
+1411	89.0	Wetlands	NNS	O
+1412	89.0	-	:	O
+1413	89.0	construction	NN	O
+1414	89.0	and	CC	O
+1415	89.0	planting	NN	O
+1416	89.0	including	VBG	O
+1417	89.0	all	DT	O
+1418	89.0	fees	NNS	O
+1419	89.0	(	(	O
+1420	89.0	$52,800	CD	O
+1421	89.0	)	)	O
+1422	89.0	.	.	O
+
+1423	90.0	This	DT	O
+1424	90.0	leaves	VBZ	O
+1425	90.0	a	DT	O
+1426	90.0	total	NN	O
+1427	90.0	revised	VBN	O
+1428	90.0	budget	NN	O
+1429	90.0	of	IN	O
+1430	90.0	$130,800	CD	O
+1431	90.0	representing	VBG	O
+1432	90.0	a	DT	O
+1433	90.0	decrease	NN	O
+1434	90.0	of	IN	O
+1435	90.0	capital	NN	O
+1436	90.0	expenditure	NN	O
+1437	90.0	(	(	O
+1438	90.0	to	TO	O
+1439	90.0	be	VB	O
+1440	90.0	funded	VBN	O
+1441	90.0	by	IN	O
+1442	90.0	loan	NN	O
+1443	90.0	)	)	O
+1444	90.0	and	CC	O
+1445	90.0	a	DT	O
+1446	90.0	reduction	NN	O
+1447	90.0	therefore	RB	O
+1448	90.0	of	IN	O
+1449	90.0	debt-servicing	NN	O
+1450	90.0	requirements	NNS	O
+1451	90.0	for	IN	O
+1452	90.0	the	DT	O
+1453	90.0	project	NN	O
+1454	90.0	.	.	O
+
+1455	91.0	However	RB	O
+1456	91.0	,	,	O
+1457	91.0	it	PRP	O
+1458	91.0	was	VBD	O
+1459	91.0	pointed	VBN	O
+1460	91.0	out	RP	O
+1461	91.0	that	IN	O
+1462	91.0	local	JJ	O
+1463	91.0	iwi	NN	B-MISC
+1464	91.0	in	IN	O
+1465	91.0	Ohakune	NNP	B-LOC
+1466	91.0	were	VBD	O
+1467	91.0	not	RB	O
+1468	91.0	happy	JJ	O
+1469	91.0	with	IN	O
+1470	91.0	any	DT	O
+1471	91.0	extension	NN	O
+1472	91.0	of	IN	O
+1473	91.0	oxidation	NN	O
+1474	91.0	wetlands	NNS	O
+1475	91.0	that	WDT	O
+1476	91.0	might	MD	O
+1477	91.0	encroach	VB	O
+1478	91.0	on	IN	O
+1479	91.0	their	PRP$	O
+1480	91.0	marae	NN	O
+1481	91.0	surrounds	NNS	O
+1482	91.0	and	CC	O
+1483	91.0	Council	NNP	B-ORG
+1484	91.0	were	VBD	O
+1485	91.0	advised	VBN	O
+1486	91.0	that	IN	O
+1487	91.0	the	DT	O
+1488	91.0	availability	NN	O
+1489	91.0	of	IN	O
+1490	91.0	such	DT	O
+1491	91.0	land	NN	O
+1492	91.0	could	MD	O
+1493	91.0	not	RB	O
+1494	91.0	be	VB	O
+1495	91.0	guaranteed	VBN	O
+1496	91.0	if	IN	O
+1497	91.0	consent	NN	O
+1498	91.0	is	VBZ	O
+1499	91.0	not	RB	O
+1500	91.0	given	VBN	O
+1501	91.0	.	.	O
+
+1502	92.0	Raetihi	NNP	B-LOC
+1503	92.0	A	DT	O
+1504	92.0	sum	NN	O
+1505	92.0	of	IN	O
+1506	92.0	$85,800	CD	O
+1507	92.0	was	VBD	O
+1508	92.0	originally	RB	O
+1509	92.0	estimated	VBN	O
+1510	92.0	to	TO	O
+1511	92.0	be	VB	O
+1512	92.0	the	DT	O
+1513	92.0	cost	NN	O
+1514	92.0	of	IN	O
+1515	92.0	upgrading	VBG	O
+1516	92.0	the	DT	O
+1517	92.0	Raetihi	NNP	B-LOC
+1518	92.0	sewerage	NN	O
+1519	92.0	scheme	NN	O
+1520	92.0	by	IN	O
+1521	92.0	the	DT	O
+1522	92.0	construction	NN	O
+1523	92.0	and	CC	O
+1524	92.0	planting	NN	O
+1525	92.0	of	IN	O
+1526	92.0	sewerage	NN	O
+1527	92.0	wetlands	NNS	O
+1528	92.0	.	.	O
+
+1529	93.0	However	RB	O
+1530	93.0	,	,	O
+1531	93.0	consulting	VBG	O
+1532	93.0	engineers	NNS	O
+1533	93.0	Fraser	NNP	B-ORG
+1534	93.0	Thomas	NNP	I-ORG
+1535	93.0	Ltd	NNP	I-ORG
+1536	93.0	have	VBP	O
+1537	93.0	since	IN	O
+1538	93.0	re-assessed	VBN	O
+1539	93.0	the	DT	O
+1540	93.0	upgrading	NN	O
+1541	93.0	of	IN	O
+1542	93.0	the	DT	O
+1543	93.0	Raetihi	NNP	B-LOC
+1544	93.0	Sewerage	NNP	I-LOC
+1545	93.0	Plant	NNP	I-LOC
+1546	93.0	and	CC	O
+1547	93.0	recommend	VB	O
+1548	93.0	that	IN	O
+1549	93.0	an	DT	O
+1550	93.0	electric	JJ	O
+1551	93.0	motor	NN	O
+1552	93.0	be	VB	O
+1553	93.0	installed	VBN	O
+1554	93.0	as	IN	O
+1555	93.0	well	RB	O
+1556	93.0	as	IN	O
+1557	93.0	the	DT	O
+1558	93.0	proposed	VBN	O
+1559	93.0	wetland	NN	O
+1560	93.0	development	NN	O
+1561	93.0	.	.	O
+
+1562	94.0	This	DT	O
+1563	94.0	will	MD	O
+1564	94.0	mean	VB	O
+1565	94.0	an	DT	O
+1566	94.0	increased	JJ	O
+1567	94.0	budget	NN	O
+1568	94.0	expenditure	NN	O
+1569	94.0	to	IN	O
+1570	94.0	$103,000	CD	O
+1571	94.0	but	CC	O
+1572	94.0	there	EX	O
+1573	94.0	will	MD	O
+1574	94.0	be	VB	O
+1575	94.0	no	DT	O
+1576	94.0	impact	NN	O
+1577	94.0	on	IN	O
+1578	94.0	rating	NN	O
+1579	94.0	requirements	NNS	O
+1580	94.0	as	IN	O
+1581	94.0	the	DT	O
+1582	94.0	increase	NN	O
+1583	94.0	of	IN	O
+1584	94.0	$18,000	CD	O
+1585	94.0	can	MD	O
+1586	94.0	be	VB	O
+1587	94.0	accommodated	VBN	O
+1588	94.0	within	IN	O
+1589	94.0	existing	JJ	O
+1590	94.0	funding	NN	O
+1591	94.0	allocations	NNS	O
+1592	94.0	.	.	O
+1593	95.0	Pipiriki	NNP	B-LOC
+1594	95.0	and	CC	O
+1595	95.0	National	NNP	B-LOC
+1596	95.0	Park	NNP	I-LOC
+1597	95.0	The	DT	O
+1598	95.0	original	JJ	O
+1599	95.0	budget	NN	O
+1600	95.0	for	IN	O
+1601	95.0	these	DT	O
+1602	95.0	two	CD	O
+1603	95.0	sewerage	NN	O
+1604	95.0	schemes	NNS	O
+1605	95.0	were	VBD	O
+1606	95.0	estimated	VBN	O
+1607	95.0	to	TO	O
+1608	95.0	be	VB	O
+1609	95.0	as	IN	O
+1610	95.0	follows	VBZ	O
+1611	95.0	:	:	O
+1612	95.0	Pipiriki	NNP	B-LOC
+1613	95.0	(	(	O
+1614	95.0	$8,800	CD	O
+1615	95.0	)	)	O
+1616	95.0	;	;	O
+1617	95.0	National	NNP	B-LOC
+1618	95.0	Park	NNP	I-LOC
+1619	95.0	(	(	O
+1620	95.0	$8,800	CD	O
+1621	95.0	)	)	O
+1622	95.0	.	.	O
+
+1623	96.0	These	DT	O
+1624	96.0	figures	NNS	O
+1625	96.0	were	VBD	O
+1626	96.0	derived	VBN	O
+1627	96.0	from	IN	O
+1628	96.0	the	DT	O
+1629	96.0	estimated	VBN	O
+1630	96.0	unexpended	VBN	O
+1631	96.0	funds	NNS	O
+1632	96.0	carried	VBN	O
+1633	96.0	forward	RB	O
+1634	96.0	from	IN	O
+1635	96.0	the	DT	O
+1636	96.0	1993/94	CD	B-DATE
+1637	96.0	financial	JJ	O
+1638	96.0	year	NN	O
+1639	96.0	for	IN	O
+1640	96.0	these	DT	O
+1641	96.0	projects	NNS	O
+1642	96.0	.	.	O
+
+1643	97.0	However	RB	O
+1644	97.0	,	,	O
+1645	97.0	it	PRP	O
+1646	97.0	has	VBZ	O
+1647	97.0	now	RB	O
+1648	97.0	been	VBN	O
+1649	97.0	determined	VBN	O
+1650	97.0	that	IN	O
+1651	97.0	the	DT	O
+1652	97.0	actual	JJ	O
+1653	97.0	expenditure	NN	O
+1654	97.0	required	VBN	O
+1655	97.0	in	IN	O
+1656	97.0	total	NN	O
+1657	97.0	over	IN	O
+1658	97.0	the	DT	O
+1659	97.0	two	CD	O
+1660	97.0	years	NNS	O
+1661	97.0	(	(	O
+1662	97.0	1993/94	CD	B-DATE
+1663	97.0	and	CC	O
+1664	97.0	1994/95	CD	B-DATE
+1665	97.0	)	)	O
+1666	97.0	is	VBZ	O
+1667	97.0	more	JJR	O
+1668	97.0	than	IN	O
+1669	97.0	originally	RB	O
+1670	97.0	estimated	VBN	O
+1671	97.0	.	.	O
+
+1672	98.0	The	DT	O
+1673	98.0	additional	JJ	O
+1674	98.0	amounts	NNS	O
+1675	98.0	required	VBN	O
+1676	98.0	are	VBP	O
+1677	98.0	as	IN	O
+1678	98.0	follows	VBZ	O
+1679	98.0	:	:	O
+1680	98.0	Pipiriki	NNP	B-LOC
+1681	98.0	(	(	O
+1682	98.0	$2,400	CD	O
+1683	98.0	to	TO	O
+1684	98.0	make	VB	O
+1685	98.0	up	RP	O
+1686	98.0	the	DT	O
+1687	98.0	required	VBN	O
+1688	98.0	total	NN	O
+1689	98.0	of	IN	O
+1690	98.0	$8,800	CD	O
+1691	98.0	)	)	O
+1692	98.0	;	;	O
+1693	98.0	National	NNP	B-LOC
+1694	98.0	Park	NNP	I-LOC
+1695	98.0	(	(	O
+1696	98.0	$1,440	CD	O
+1697	98.0	to	TO	O
+1698	98.0	make	VB	O
+1699	98.0	up	RP	O
+1700	98.0	the	DT	O
+1701	98.0	required	JJ	O
+1702	98.0	total	NN	O
+1703	98.0	of	IN	O
+1704	98.0	$8,800	CD	O
+1705	98.0	)	)	O
+1706	98.0	.	.	O
+
+1707	99.0	However	RB	O
+1708	99.0	,	,	O
+1709	99.0	once	RB	O
+1710	99.0	again	RB	O
+1711	99.0	there	EX	O
+1712	99.0	will	MD	O
+1713	99.0	be	VB	O
+1714	99.0	no	DT	O
+1715	99.0	impact	NN	O
+1716	99.0	on	IN	O
+1717	99.0	local	JJ	O
+1718	99.0	rating	NN	O
+1719	99.0	requirements	NNS	O
+1720	99.0	as	IN	O
+1721	99.0	the	DT	O
+1722	99.0	increase	NN	O
+1723	99.0	can	MD	O
+1724	99.0	be	VB	O
+1725	99.0	accommodated	VBN	O
+1726	99.0	within	IN	O
+1727	99.0	the	DT	O
+1728	99.0	existing	JJ	O
+1729	99.0	funding	NN	O
+1730	99.0	allocations	NNS	O
+1731	99.0	.	.	O
+
+
+
+1732	100.0	A	DT	O
+1733	100.0	meeting	NN	O
+1734	100.0	is	VBZ	O
+1735	100.0	to	TO	O
+1736	100.0	be	VB	O
+1737	100.0	held	VBN	O
+1738	100.0	next	JJ	O
+1739	100.0	Monday	NNP	B-DATE
+1740	100.0	,	,	O
+1741	100.0	at	IN	O
+1742	100.0	the	DT	O
+1743	100.0	Ohakune	NNP	B-LOC
+1744	100.0	Primary	NNP	I-LOC
+1745	100.0	School	NNP	I-LOC
+1746	100.0	,	,	O
+1747	100.0	to	TO	O
+1748	100.0	form	VB	O
+1749	100.0	a	DT	O
+1750	100.0	steering	NN	O
+1751	100.0	committee	NN	O
+1752	100.0	for	IN	O
+1753	100.0	organising	VBG	O
+1754	100.0	the	DT	O
+1755	100.0	centennial	NN	O
+1756	100.0	celebrations	NNS	O
+1757	100.0	for	IN	O
+1758	100.0	the	DT	O
+1759	100.0	school	NN	O
+1760	100.0	in	IN	O
+1761	100.0	1996	CD	B-DATE
+1762	100.0	.	.	O
+
+1763	101.0	A	DT	O
+1764	101.0	group	NN	O
+1765	101.0	of	IN	O
+1766	101.0	people	NNS	O
+1767	101.0	met	VBD	O
+1768	101.0	recently	RB	O
+1769	101.0	to	TO	O
+1770	101.0	share	VB	O
+1771	101.0	ideas	NNS	O
+1772	101.0	for	IN	O
+1773	101.0	the	DT	O
+1774	101.0	celebrations	NNS	O
+1775	101.0	,	,	O
+1776	101.0	leading	VBG	O
+1777	101.0	to	TO	O
+1778	101.0	the	DT	O
+1779	101.0	decision	NN	O
+1780	101.0	to	TO	O
+1781	101.0	hold	VB	O
+1782	101.0	a	DT	O
+1783	101.0	further	JJ	O
+1784	101.0	meeting	NN	O
+1785	101.0	to	TO	O
+1786	101.0	gain	VB	O
+1787	101.0	more	JJR	O
+1788	101.0	support	NN	O
+1789	101.0	.	.	O
+
+
+1790	102.0	A	DT	O
+1791	102.0	Christchurch	NNP	B-LOC
+1792	102.0	man	NN	O
+1793	102.0	charged	VBN	O
+1794	102.0	with	IN	O
+1795	102.0	car	NN	O
+1796	102.0	conversion	NN	O
+1797	102.0	12	CD	B-DATE
+1798	102.0	days	NNS	I-DATE
+1799	102.0	ago	RB	O
+1800	102.0	was	VBD	O
+1801	102.0	yesterday	RB	B-DATE
+1802	102.0	accused	VBN	O
+1803	102.0	of	IN	O
+1804	102.0	murdering	VBG	O
+1805	102.0	the	DT	O
+1806	102.0	car's	NN	O
+1807	102.0	owner	NN	O
+1808	102.0	.	.	O
+
+1809	103.0	Gregory	NNP	B-PERSON
+1810	103.0	James	NNP	I-PERSON
+1811	103.0	Toka	NNP	I-PERSON
+1812	103.0	,	,	O
+1813	103.0	aged	VBN	O
+1814	103.0	25	CD	O
+1815	103.0	,	,	O
+1816	103.0	a	DT	O
+1817	103.0	gardener	NN	O
+1818	103.0	,	,	O
+1819	103.0	appeared	VBD	O
+1820	103.0	in	IN	O
+1821	103.0	the	DT	O
+1822	103.0	District	NNP	B-ORG
+1823	103.0	Court	NNP	I-ORG
+1824	103.0	charged	VBN	O
+1825	103.0	with	IN	O
+1826	103.0	murdering	VBG	O
+1827	103.0	33-year-old	CD	O
+1828	103.0	Brenda	NNP	B-PERSON
+1829	103.0	Kingi	NNP	I-PERSON
+1830	103.0	in	IN	O
+1831	103.0	her	PRP$	O
+1832	103.0	Mairehau	NNP	B-LOC
+1833	103.0	home	NN	O
+1834	103.0	on	IN	O
+1835	103.0	October	NNP	B-DATE
+1836	103.0	1	CD	I-DATE
+1837	103.0	.	.	O
+
+1838	104.0	A	DT	O
+1839	104.0	large	JJ	O
+1840	104.0	sword	NN	O
+1841	104.0	was	VBD	O
+1842	104.0	found	VBN	O
+1843	104.0	embedded	VBN	O
+1844	104.0	in	IN	O
+1845	104.0	Ms	NNP	O
+1846	104.0	Kingi's	NNP	B-PERSON
+1847	104.0	body	NN	O
+1848	104.0	after	IN	O
+1849	104.0	neighbours	NNS	O
+1850	104.0	,	,	O
+1851	104.0	who	WDT	O
+1852	104.0	heard	VBD	O
+1853	104.0	her	PRP$	O
+1854	104.0	screams	NNS	O
+1855	104.0	,	,	O
+1856	104.0	alerted	VBD	O
+1857	104.0	the	DT	O
+1858	104.0	police	NN	O
+1859	104.0	.	.	O
+
+1860	105.0	Her	PRP$	O
+1861	105.0	body	NN	O
+1862	105.0	was	VBD	O
+1863	105.0	found	VBN	O
+1864	105.0	in	IN	O
+1865	105.0	the	DT	O
+1866	105.0	bathroom	NN	O
+1867	105.0	of	IN	O
+1868	105.0	her	PRP$	O
+1869	105.0	ownership	NN	O
+1870	105.0	flat	NN	O
+1871	105.0	.	.	O
+
+1872	106.0	There	EX	O
+1873	106.0	was	VBD	O
+1874	106.0	evidence	NN	O
+1875	106.0	of	IN	O
+1876	106.0	a	DT	O
+1877	106.0	struggle	NN	O
+1878	106.0	.	.	O
+
+1879	107.0	A	DT	O
+1880	107.0	post-mortem	NN	O
+1881	107.0	confirmed	VBD	O
+1882	107.0	Ms	NNP	O
+1883	107.0	Kingi	NNP	B-PERSON
+1884	107.0	died	VBD	O
+1885	107.0	of	IN	O
+1886	107.0	multiple	JJ	O
+1887	107.0	stab	NN	O
+1888	107.0	wounds	NNS	O
+1889	107.0	.	.	O
+
+1890	108.0	Toka	NNP	B-PERSON
+1891	108.0	was	VBD	O
+1892	108.0	charged	VBN	O
+1893	108.0	the	DT	O
+1894	108.0	day	NN	O
+1895	108.0	of	IN	O
+1896	108.0	her	PRP$	O
+1897	108.0	death	NN	O
+1898	108.0	with	IN	O
+1899	108.0	unlawfully	RB	O
+1900	108.0	taking	VBG	O
+1901	108.0	Ms	NNP	O
+1902	108.0	Kingi's	NNP	B-PERSON
+1903	108.0	red	JJ	O
+1904	108.0	Honda	NNP	B-ORG
+1905	108.0	Prelude	NNP	I-ORG
+1906	108.0	and	CC	O
+1907	108.0	setting	VBG	O
+1908	108.0	fire	NN	O
+1909	108.0	to	TO	O
+1910	108.0	it	PRP	O
+1911	108.0	in	IN	O
+1912	108.0	Tancred	NNP	B-LOC
+1913	108.0	Street	NNP	I-LOC
+1914	108.0	,	,	O
+1915	108.0	Linwood	NNP	B-LOC
+1916	108.0	.	.	O
+
+1917	109.0	He	PRP	O
+1918	109.0	did	VBD	O
+1919	109.0	not	RB	O
+1920	109.0	plead	VB	O
+1921	109.0	to	IN	O
+1922	109.0	the	DT	O
+1923	109.0	murder	NN	O
+1924	109.0	charge	NN	O
+1925	109.0	yesterday	RB	B-DATE
+1926	109.0	and	CC	O
+1927	109.0	will	MD	O
+1928	109.0	reappear	VB	O
+1929	109.0	in	IN	O
+1930	109.0	court	NN	O
+1931	109.0	in	IN	O
+1932	109.0	two	CD	O
+1933	109.0	weeks	NNS	O
+1934	109.0	.	.	O
+1935	110.0	Detective	NNP	B-PERSON
+1936	110.0	Sergeant	NNP	I-PERSON
+1937	110.0	Phil	NNP	I-PERSON
+1938	110.0	Parsons	NNP	I-PERSON
+1939	110.0	,	,	O
+1940	110.0	of	IN	O
+1941	110.0	the	DT	O
+1942	110.0	Papanui	NNP	B-LOC
+1943	110.0	police	NN	O
+1944	110.0	,	,	O
+1945	110.0	said	VBD	O
+1946	110.0	detectives	NNS	O
+1947	110.0	still	RB	O
+1948	110.0	wanted	VBD	O
+1949	110.0	information	NN	O
+1950	110.0	from	IN	O
+1951	110.0	anyone	NN	O
+1952	110.0	who	WDT	O
+1953	110.0	saw	VBD	O
+1954	110.0	Ms	NNP	O
+1955	110.0	Kingi	NNP	B-PERSON
+1956	110.0	on	IN	O
+1957	110.0	the	DT	O
+1958	110.0	night	NN	O
+1959	110.0	before	IN	O
+1960	110.0	she	PRP	O
+1961	110.0	died	VBD	O
+1962	110.0	.	.	O
+
+1963	111.0	"	``	O
+1964	111.0	We	PRP	O
+1965	111.0	're	VBP	O
+1966	111.0	at	IN	O
+1967	111.0	the	DT	O
+1968	111.0	stage	NN	O
+1969	111.0	of	IN	O
+1970	111.0	mopping	VBG	O
+1971	111.0	up	RP	O
+1972	111.0	the	DT	O
+1973	111.0	inquiry	NN	O
+1974	111.0	.	.	O
+1975	111.0	"	''	O
+
+1976	112.0	Several	JJ	O
+1977	112.0	police	NNS	O
+1978	112.0	last	JJ	O
+1979	112.0	week	NN	O
+1980	112.0	interviewed	VBD	O
+1981	112.0	patrons	NNS	O
+1982	112.0	at	IN	O
+1983	112.0	the	DT	O
+1984	112.0	Alley	NNP	B-LOC
+1985	112.0	Cats	NNP	I-LOC
+1986	112.0	nightclub	NN	O
+1987	112.0	in	IN	O
+1988	112.0	Manchester	NNP	B-LOC
+1989	112.0	Street	NNP	I-LOC
+1990	112.0	,	,	O
+1991	112.0	where	WRB	O
+1992	112.0	Ms	NNP	O
+1993	112.0	Kingi	NNP	B-PERSON
+1994	112.0	was	VBD	O
+1995	112.0	seen	VBN	O
+1996	112.0	alive	JJ	O
+1997	112.0	shortly	RB	O
+1998	112.0	after	IN	O
+1999	112.0	midnight	NN	O
+2000	112.0	on	IN	O
+2001	112.0	the	DT	O
+2002	112.0	morning	NN	O
+2003	112.0	she	PRP	O
+2004	112.0	died	VBD	O
+2005	112.0	.	.	O
+
+2006	113.0	People	NNS	O
+2007	113.0	interviewed	VBN	O
+2008	113.0	in	IN	O
+2009	113.0	connection	NN	O
+2010	113.0	with	IN	O
+2011	113.0	the	DT	O
+2012	113.0	murder	NN	O
+2013	113.0	had	VBD	O
+2014	113.0	'	''	O
+2015	113.0	cooperated	VBN	O
+2016	113.0	with	IN	O
+2017	113.0	police	NN	O
+2018	113.0	.	.	O
+
+2019	114.0	The	DT	O
+2020	114.0	police	NN	O
+2021	114.0	said	VBD	O
+2022	114.0	Ms	NNP	O
+2023	114.0	Kingi	NNP	B-PERSON
+2024	114.0	was	VBD	O
+2025	114.0	"	``	O
+2026	114.0	a	DT	O
+2027	114.0	friendly	JJ	O
+2028	114.0	,	,	O
+2029	114.0	likeable	JJ	O
+2030	114.0	person	NN	O
+2031	114.0	who	WP	O
+2032	114.0	was	VBD	O
+2033	114.0	well	RB	O
+2034	114.0	thought	VBN	O
+2035	114.0	of	IN	O
+2036	114.0	by	IN	O
+2037	114.0	her	PRP$	O
+2038	114.0	colleagues	NNS	O
+2039	114.0	"	''	O
+2040	114.0	.	.	O
+
+
+2041	115.0	—	:	O
+2042	115.0	NZPA	NNP	B-ORG
+2043	115.0	.	.	O
+
+2044	116.0	Rain	NN	O
+2045	116.0	boosts	VBZ	O
+2046	116.0	South	NNP	B-LOC
+2047	116.0	Island	NNP	I-LOC
+2048	116.0	lake	NN	O
+2049	116.0	levels	NNS	O
+2050	116.0	.	.	O
+
+2051	117.0	DUNEDIN	NNP	B-LOC
+2052	117.0	—	:	O
+2053	117.0	Heavy	JJ	O
+2054	117.0	rain	NN	O
+2055	117.0	in	IN	O
+2056	117.0	the	DT	O
+2057	117.0	catchments	NNS	O
+2058	117.0	of	IN	O
+2059	117.0	the	DT	O
+2060	117.0	South	NNP	B-LOC
+2061	117.0	Island	NNP	I-LOC
+2062	117.0	hydro-electric	JJ	O
+2063	117.0	lakes	NNS	O
+2064	117.0	has	VBZ	O
+2065	117.0	helped	VBN	O
+2066	117.0	ease	VB	O
+2067	117.0	problems	NNS	O
+2068	117.0	caused	VBN	O
+2069	117.0	by	IN	O
+2070	117.0	the	DT	O
+2071	117.0	winter	NN	O
+2072	117.0	dry	JJ	O
+2073	117.0	spell	NN	O
+2074	117.0	.	.	O
+
+2075	118.0	The	DT	O
+2076	118.0	Electricity	NNP	B-ORG
+2077	118.0	Corporation	NNP	I-ORG
+2078	118.0	's	POS	O
+2079	118.0	communications	NN	O
+2080	118.0	manager	NN	O
+2081	118.0	,	,	O
+2082	118.0	Mr	NNP	B-PERSON
+2083	118.0	Bruce	NNP	I-PERSON
+2084	118.0	Thompson	NNP	I-PERSON
+2085	118.0	,	,	O
+2086	118.0	said	VBD	O
+2087	118.0	heavy	JJ	O
+2088	118.0	rain	NN	O
+2089	118.0	in	IN	O
+2090	118.0	the	DT	O
+2091	118.0	South	NNP	B-LOC
+2092	118.0	Island	NNP	I-LOC
+2093	118.0	ranges	NNS	O
+2094	118.0	had	VBD	O
+2095	118.0	led	VBN	O
+2096	118.0	to	TO	O
+2097	118.0	a	DT	O
+2098	118.0	sharp	JJ	O
+2099	118.0	rise	NN	O
+2100	118.0	in	IN	O
+2101	118.0	some	DT	O
+2102	118.0	lake	NN	O
+2103	118.0	levels	NNS	O
+2104	118.0	during	IN	O
+2105	118.0	the	DT	O
+2106	118.0	last	JJ	O
+2107	118.0	few	JJ	O
+2108	118.0	days	NNS	B-DATE
+2109	118.0	.	.	O
+2110	119.0	Lake	NNP	O
+2111	119.0	Pukaki	NNP	B-LOC
+2112	119.0	,	,	O
+2113	119.0	at	IN	O
+2114	119.0	the	DT	O
+2115	119.0	heart	NN	O
+2116	119.0	of	IN	O
+2117	119.0	the	DT	O
+2118	119.0	Waitaki	NNP	B-LOC
+2119	119.0	generation	NN	O
+2120	119.0	system	NN	O
+2121	119.0	,	,	O
+2122	119.0	had	VBD	O
+2123	119.0	shown	VBN	O
+2124	119.0	an	DT	O
+2125	119.0	"	``	O
+2126	119.0	encouraging	JJ	O
+2127	119.0	"	''	O
+2128	119.0	rise	NN	O
+2129	119.0	since	IN	O
+2130	119.0	Monday	NNP	B-DATE
+2131	119.0	.	.	O
+
+2132	120.0	"	``	O
+2133	120.0	It	PRP	O
+2134	120.0	just	RB	O
+2135	120.0	shows	VBZ	O
+2136	120.0	how	WRB	O
+2137	120.0	fickle	JJ	O
+2138	120.0	our	PRP$	O
+2139	120.0	weather	NN	O
+2140	120.0	patterns	NNS	O
+2141	120.0	can	MD	O
+2142	120.0	be	VB	O
+2143	120.0	.	.	O
+
+2144	121.0	We	PRP	O
+2145	121.0	have	VBP	O
+2146	121.0	had	VBN	O
+2147	121.0	a	DT	O
+2148	121.0	significant	JJ	O
+2149	121.0	recovery	NN	O
+2150	121.0	,	,	O
+2151	121.0	although	IN	O
+2152	121.0	there	EX	O
+2153	121.0	was	VBD	O
+2154	121.0	never	RB	O
+2155	121.0	any	DT	O
+2156	121.0	need	NN	O
+2157	121.0	for	IN	O
+2158	121.0	the	DT	O
+2159	121.0	public	NN	O
+2160	121.0	to	TO	O
+2161	121.0	be	VB	O
+2162	121.0	concerned	JJ	O
+2163	121.0	,	,	O
+2164	121.0	"	''	O
+2165	121.0	he	PRP	O
+2166	121.0	said	VBD	O
+2167	121.0	.	.	O
+
+2168	122.0	Snow	NN	O
+2169	122.0	melt	NN	O
+2170	122.0	would	MD	O
+2171	122.0	further	RB	O
+2172	122.0	boost	VB	O
+2173	122.0	lake	NN	O
+2174	122.0	levels	NNS	O
+2175	122.0	.	.	O
+
+2176	123.0	About	IN	O
+2177	123.0	half	NN	O
+2178	123.0	the	DT	O
+2179	123.0	usual	JJ	O
+2180	123.0	amount	NN	O
+2181	123.0	of	IN	O
+2182	123.0	power	NN	O
+2183	123.0	has	VBZ	O
+2184	123.0	been	VBN	O
+2185	123.0	sent	VBN	O
+2186	123.0	north	RB	O
+2187	123.0	through	IN	O
+2188	123.0	the	DT	O
+2189	123.0	Cook	NNP	B-LOC
+2190	123.0	Strait	NNP	I-LOC
+2191	123.0	cable	NN	O
+2192	123.0	each	DT	O
+2193	123.0	day	NN	O
+2194	123.0	in	IN	O
+2195	123.0	a	DT	O
+2196	123.0	continuing	JJ	O
+2197	123.0	effort	NN	O
+2198	123.0	to	TO	O
+2199	123.0	conserve	VB	O
+2200	123.0	water	NN	O
+2201	123.0	in	IN	O
+2202	123.0	the	DT	O
+2203	123.0	southern	JJ	O
+2204	123.0	lakes	NNS	O
+2205	123.0	,	,	O
+2206	123.0	he	PRP	O
+2207	123.0	said	VBD	O
+2208	123.0	.	.	O
+
+2209	124.0	Lake	NNP	O
+2210	124.0	Pukaki	NNP	B-LOC
+2211	124.0	stood	VBD	O
+2212	124.0	at	IN	O
+2213	124.0	519.85m	CD	O
+2214	124.0	above	IN	O
+2215	124.0	sea	NN	O
+2216	124.0	level	NN	O
+2217	124.0	yesterday	RB	B-DATE
+2218	124.0	,	,	O
+2219	124.0	a	DT	O
+2220	124.0	rise	NN	O
+2221	124.0	of	IN	O
+2222	124.0	16cm	CD	O
+2223	124.0	since	IN	O
+2224	124.0	Monday	NNP	B-DATE
+2225	124.0	.	.	O
+
+2226	125.0	In	IN	O
+2227	125.0	the	DT	O
+2228	125.0	same	JJ	O
+2229	125.0	period	NN	O
+2230	125.0	,	,	O
+2231	125.0	Lake	NNP	O
+2232	125.0	Tekapo	NNP	B-LOC
+2233	125.0	rose	VBD	O
+2234	125.0	15cm	CD	O
+2235	125.0	to	TO	O
+2236	125.0	705.07m	CD	O
+2237	125.0	.	.	O
+
+2238	126.0	Lake	NNP	O
+2239	126.0	Te	NNP	I-LOC
+2240	126.0	Anau	NNP	I-LOC
+2241	126.0	was	VBD	O
+2242	126.0	at	IN	O
+2243	126.0	202.5m	CD	O
+2244	126.0	today	NNP	B-DATE
+2245	126.0	,	,	O
+2246	126.0	almost	RB	O
+2247	126.0	1m	CD	O
+2248	126.0	higher	JJR	O
+2249	126.0	than	IN	O
+2250	126.0	on	IN	O
+2251	126.0	Monday	NNP	B-DATE
+2252	126.0	,	,	O
+2253	126.0	while	IN	O
+2254	126.0	Lake	NNP	O
+2255	126.0	Manapouri	NNP	B-LOC
+2256	126.0	rose	VBD	O
+2257	126.0	from	IN	O
+2258	126.0	176.65m	CD	O
+2259	126.0	to	TO	O
+2260	126.0	177.53m	CD	O
+2261	126.0	over	IN	O
+2262	126.0	the	DT	O
+2263	126.0	two	CD	O
+2264	126.0	days	NNS	B-DATE
+2265	126.0	.	.	O
+
+2266	127.0	—	:	O
+2267	127.0	NZPA	NNP	B-ORG
+2268	127.0	.	.	O
+
+2269	128.0	Risk	NN	O
+2270	128.0	to	IN	O
+2271	128.0	Chch	NNP	B-geo
+2272	128.0	art	NN	O
+2273	128.0	treasures	NNS	O
+2274	128.0	revealed	VBN	O
+2275	128.0	in	IN	O
+2276	128.0	council	NN	O
+2277	128.0	report	NN	O
+2278	128.0	by	IN	O
+2279	128.0	Peter	NNP	B-per
+2280	128.0	Mathias	NNP	I-per
+2281	128.0	.	.	O
+2282	129.0	The	DT	O
+2283	129.0	potential	JJ	O
+2284	129.0	fire	NN	O
+2285	129.0	and	CC	O
+2286	129.0	earthquake	NN	O
+2287	129.0	risks	NNS	O
+2288	129.0	at	IN	O
+2289	129.0	the	DT	O
+2290	129.0	Robert	NNP	B-org
+2291	129.0	McDougall	NNP	I-org
+2292	129.0	Art	NNP	I-org
+2293	129.0	Gallery	NNP	I-org
+2294	129.0	are	VBP	O
+2295	129.0	highlighted	VBN	O
+2296	129.0	in	IN	O
+2297	129.0	a	DT	O
+2298	129.0	report	NN	O
+2299	129.0	to	IN	O
+2300	129.0	the	DT	O
+2301	129.0	Christchurch	NNP	B-geo
+2302	129.0	City	NNP	I-geo
+2303	129.0	Council	NNP	I-geo
+2304	129.0	.	.	O
+2305	130.0	The	DT	O
+2306	130.0	council's	NN	O
+2307	130.0	internal	JJ	O
+2308	130.0	audit	NN	O
+2309	130.0	unit	NN	O
+2310	130.0	identified	VBD	O
+2311	130.0	work	NN	O
+2312	130.0	costing	VBG	O
+2313	130.0	$	$	O
+2314	130.0	169,000	CD	O
+2315	130.0	,	,	O
+2316	130.0	including	VBG	O
+2317	130.0	the	DT	O
+2318	130.0	installation	NN	O
+2319	130.0	of	IN	O
+2320	130.0	a	DT	O
+2321	130.0	sprinkler	NN	O
+2322	130.0	system	NN	O
+2323	130.0	and	CC	O
+2324	130.0	smoke	NN	O
+2325	130.0	detectors	NNS	O
+2326	130.0	to	TO	O
+2327	130.0	protect	VB	O
+2328	130.0	the	DT	O
+2329	130.0	$	$	O
+2330	130.0	18	CD	O
+2331	130.0	million	CD	O
+2332	130.0	art	NN	O
+2333	130.0	collection	NN	O
+2334	130.0	.	.	O
+2335	131.0	The	DT	O
+2336	131.0	report	NN	O
+2337	131.0	said	VBD	O
+2338	131.0	that	IN	O
+2339	131.0	the	DT	O
+2340	131.0	gallery	NN	O
+2341	131.0	,	,	O
+2342	131.0	and	CC	O
+2343	131.0	particularly	RB	O
+2344	131.0	its	PRP$	O
+2345	131.0	south	NN	O
+2346	131.0	wing	NN	O
+2347	131.0	,	,	O
+2348	131.0	represented	VBD	O
+2349	131.0	an	DT	O
+2350	131.0	earthquake	NN	O
+2351	131.0	risk	NN	O
+2352	131.0	because	IN	O
+2353	131.0	of	IN	O
+2354	131.0	the	DT	O
+2355	131.0	low	JJ	O
+2356	131.0	amount	NN	O
+2357	131.0	of	IN	O
+2358	131.0	reinforcing	NN	O
+2359	131.0	steel	NN	O
+2360	131.0	and	CC	O
+2361	131.0	cement	NN	O
+2362	131.0	used	VBN	O
+2363	131.0	in	IN	O
+2364	131.0	its	PRP$	O
+2365	131.0	construction	NN	O
+2366	131.0	in	IN	O
+2367	131.0	1932	CD	O
+2368	131.0	.	.	O
+2369	132.0	The	DT	O
+2370	132.0	gallery	NN	O
+2371	132.0	used	VBD	O
+2372	132.0	a	DT	O
+2373	132.0	halon	NN	O
+2374	132.0	gas	NN	O
+2375	132.0	flooding	NN	O
+2376	132.0	system	NN	O
+2377	132.0	that	WDT	O
+2378	132.0	was	VBD	O
+2379	132.0	less	RBR	O
+2380	132.0	effective	JJ	O
+2381	132.0	than	IN	O
+2382	132.0	a	DT	O
+2383	132.0	sprinkler	NN	O
+2384	132.0	system	NN	O
+2385	132.0	,	,	O
+2386	132.0	but	CC	O
+2387	132.0	would	MD	O
+2388	132.0	not	RB	O
+2389	132.0	cause	VB	O
+2390	132.0	water	NN	O
+2391	132.0	damage	NN	O
+2392	132.0	to	IN	O
+2393	132.0	paintings	NNS	O
+2394	132.0	.	.	O
+2395	133.0	This	DT	O
+2396	133.0	system	NN	O
+2397	133.0	did	VBD	O
+2398	133.0	not	RB	O
+2399	133.0	cover	VB	O
+2400	133.0	the	DT	O
+2401	133.0	painting	NN	O
+2402	133.0	storage	NN	O
+2403	133.0	area	NN	O
+2404	133.0	in	IN	O
+2405	133.0	the	DT	O
+2406	133.0	north	NN	O
+2407	133.0	wing	NN	O
+2408	133.0	.	.	O
+2409	134.0	Nor	CC	O
+2410	134.0	did	VBD	O
+2411	134.0	the	DT	O
+2412	134.0	gallery	NN	O
+2413	134.0	have	VB	O
+2414	134.0	any	DT	O
+2415	134.0	fire	NN	O
+2416	134.0	hose	NN	O
+2417	134.0	reels	NNS	O
+2418	134.0	,	,	O
+2419	134.0	apparently	RB	O
+2420	134.0	because	IN	O
+2421	134.0	of	IN	O
+2422	134.0	concern	NN	O
+2423	134.0	over	IN	O
+2424	134.0	potential	JJ	O
+2425	134.0	water	NN	O
+2426	134.0	damage	NN	O
+2427	134.0	to	IN	O
+2428	134.0	paintings	NNS	O
+2429	134.0	.	.	O
+2430	135.0	The	DT	O
+2431	135.0	report	NN	O
+2432	135.0	said	VBD	O
+2433	135.0	this	DT	O
+2434	135.0	logic	NN	O
+2435	135.0	appeared	VBD	O
+2436	135.0	faulty	JJ	O
+2437	135.0	since	IN	O
+2438	135.0	all	DT	O
+2439	135.0	works	NNS	O
+2440	135.0	would	MD	O
+2441	135.0	be	VB	O
+2442	135.0	destroyed	VBN	O
+2443	135.0	if	IN	O
+2444	135.0	a	DT	O
+2445	135.0	fire	NN	O
+2446	135.0	was	VBD	O
+2447	135.0	not	RB	O
+2448	135.0	contained	VBN	O
+2449	135.0	.	.	O
+2450	136.0	The	DT	O
+2451	136.0	gallery	NN	O
+2452	136.0	also	RB	O
+2453	136.0	needed	VBD	O
+2454	136.0	improvements	NNS	O
+2455	136.0	costing	VBG	O
+2456	136.0	$	$	O
+2457	136.0	52,000	CD	O
+2458	136.0	to	TO	O
+2459	136.0	meet	VB	O
+2460	136.0	the	DT	O
+2461	136.0	requirements	NNS	O
+2462	136.0	of	IN	O
+2463	136.0	new	JJ	O
+2464	136.0	health	NN	O
+2465	136.0	and	CC	O
+2466	136.0	safety	NN	O
+2467	136.0	legislation	NN	O
+2468	136.0	,	,	O
+2469	136.0	says	VBZ	O
+2470	136.0	the	DT	O
+2471	136.0	report	NN	O
+2472	136.0	.	.	O
+2473	137.0	It	PRP	O
+2474	137.0	identified	VBD	O
+2475	137.0	a	DT	O
+2476	137.0	number	NN	O
+2477	137.0	of	IN	O
+2478	137.0	functional	JJ	O
+2479	137.0	problems	NNS	O
+2480	137.0	at	IN	O
+2481	137.0	the	DT	O
+2482	137.0	gallery	NN	O
+2483	137.0	and	CC	O
+2484	137.0	at	IN	O
+2485	137.0	the	DT	O
+2486	137.0	Art	NNP	B-org
+2487	137.0	Annex	NNP	I-org
+2488	137.0	in	IN	O
+2489	137.0	the	DT	O
+2490	137.0	Arts	NNP	I-org
+2491	137.0	Centre	NNP	I-org
+2492	137.0	,	,	O
+2493	137.0	which	WDT	O
+2494	137.0	it	PRP	O
+2495	137.0	said	VBD	O
+2496	137.0	represented	VBD	O
+2497	137.0	a	DT	O
+2498	137.0	"significant	JJ	O
+2499	137.0	hazard	NN	O
+2500	137.0	"	''	O
+2501	137.0	in	IN	O
+2502	137.0	terms	NNS	O
+2503	137.0	of	IN	O
+2504	137.0	the	DT	O
+2505	137.0	Health	NNP	B-org
+2506	137.0	and	CC	O
+2507	137.0	Safety	NNP	I-org
+2508	137.0	in	IN	O
+2509	137.0	Employment	NNP	I-org
+2510	137.0	Act	NNP	I-org
+2511	137.0	.	.	O
+2512	138.0	Expenditure	NN	O
+2513	138.0	of	IN	O
+2514	138.0	$	$	O
+2515	138.0	52,000	CD	O
+2516	138.0	in	IN	O
+2517	138.0	the	DT	O
+2518	138.0	current	JJ	O
+2519	138.0	financial	JJ	O
+2520	138.0	year	NN	O
+2521	138.0	to	TO	O
+2522	138.0	rectify	VB	O
+2523	138.0	the	DT	O
+2524	138.0	problems	NNS	O
+2525	138.0	,	,	O
+2526	138.0	including	VBG	O
+2527	138.0	$	$	O
+2528	138.0	11,000	CD	O
+2529	138.0	for	IN	O
+2530	138.0	emergency	JJ	O
+2531	138.0	lighting	NN	O
+2532	138.0	at	IN	O
+2533	138.0	the	DT	O
+2534	138.0	gallery	NN	O
+2535	138.0	,	,	O
+2536	138.0	was	VBD	O
+2537	138.0	recommended	VBN	O
+2538	138.0	by	IN	O
+2539	138.0	the	DT	O
+2540	138.0	chairman	NN	O
+2541	138.0	of	IN	O
+2542	138.0	the	DT	O
+2543	138.0	council's	NN	O
+2544	138.0	cultural	JJ	O
+2545	138.0	and	CC	O
+2546	138.0	social	JJ	O
+2547	138.0	services	NN	O
+2548	138.0	committee	NN	O
+2549	138.0	,	,	O
+2550	138.0	Cr	NNP	B-per
+2551	138.0	David	NNP	I-per
+2552	138.0	Close	NNP	I-per
+2553	138.0	.	.	O
+
+2554	139.0	Researcher	NN	O
+2555	139.0	looks	VBZ	O
+2556	139.0	at	IN	O
+2557	139.0	why	WRB	O
+2558	139.0	criminals	NNS	O
+2559	139.0	stop	VBP	O
+2560	139.0	offending	VBG	O
+2561	139.0	.	.	O
+2562	140.0	by	IN	O
+2563	140.0	Nigel	NNP	B-per
+2564	140.0	Malthus	NNP	I-per
+2565	140.0	.	.	O
+2566	141.0	Criminals	NNS	O
+2567	141.0	stop	VBP	O
+2568	141.0	offending	VBG	O
+2569	141.0	when	WRB	O
+2570	141.0	they	PRP	O
+2571	141.0	have	VBP	O
+2572	141.0	something	NN	O
+2573	141.0	of	IN	O
+2574	141.0	value	NN	O
+2575	141.0	they	PRP	O
+2576	141.0	do	VBP	O
+2577	141.0	not	RB	O
+2578	141.0	want	VB	O
+2579	141.0	to	TO	O
+2580	141.0	risk	VB	O
+2581	141.0	through	IN	O
+2582	141.0	further	JJ	O
+2583	141.0	crime	NN	O
+2584	141.0	,	,	O
+2585	141.0	according	IN	O
+2586	141.0	to	IN	O
+2587	141.0	a	DT	O
+2588	141.0	research	NN	O
+2589	141.0	report	NN	O
+2590	141.0	released	VBN	O
+2591	141.0	yesterday	NN	O
+2592	141.0	.	.	O
+2593	142.0	"Straight	NNP	O
+2594	142.0	to	TO	O
+2595	142.0	the	DT	O
+2596	142.0	Point	NNP	O
+2597	142.0	—	:	O
+2598	142.0	Angles	NNP	O
+2599	142.0	on	IN	O
+2600	142.0	Giving	NNP	O
+2601	142.0	Up	NNP	O
+2602	142.0	Crime	NNP	O
+2603	142.0	"	''	O
+2604	142.0	is	VBZ	O
+2605	142.0	the	DT	O
+2606	142.0	work	NN	O
+2607	142.0	of	IN	O
+2608	142.0	researcher	NN	O
+2609	142.0	Dr	NNP	B-per
+2610	142.0	Julie	NNP	I-per
+2611	142.0	Leibrich	NNP	I-per
+2612	142.0	,	,	O
+2613	143.0	who	WP	O
+2614	143.0	interviewed	VBD	O
+2615	143.0	people	NNS	O
+2616	143.0	who	WP	O
+2617	143.0	had	VBD	O
+2618	143.0	offended	VBN	O
+2619	143.0	,	,	O
+2620	143.0	been	VBN	O
+2621	143.0	sentenced	VBN	O
+2622	143.0	to	IN	O
+2623	143.0	supervision	NN	O
+2624	143.0	,	,	O
+2625	143.0	and	CC	O
+2626	143.0	who	WP	O
+2627	143.0	still	RB	O
+2628	143.0	had	VBD	O
+2629	143.0	clean	JJ	O
+2630	143.0	slates	NNS	O
+2631	143.0	three	CD	O
+2632	143.0	years	NNS	O
+2633	143.0	later	RB	O
+2634	143.0	.	.	O
+2635	144.0	"Offenders	NNP	O
+2636	144.0	acknowledge	VBP	O
+2637	144.0	that	IN	O
+2638	144.0	giving	VBG	O
+2639	144.0	up	RP	O
+2640	144.0	a	DT	O
+2641	144.0	life	NN	O
+2642	144.0	of	IN	O
+2643	144.0	crime	NN	O
+2644	144.0	is	VBZ	O
+2645	144.0	not	RB	O
+2646	144.0	easy	JJ	O
+2647	144.0	.	.	O
+2648	145.0	Their	PRP$	O
+2649	145.0	stories	NNS	O
+2650	145.0	give	VBP	O
+2651	145.0	us	PRP	O
+2652	145.0	an	DT	O
+2653	145.0	idea	NN	O
+2654	145.0	of	IN	O
+2655	145.0	what	WP	O
+2656	145.0	motivates	VBZ	O
+2657	145.0	an	DT	O
+2658	145.0	offender	NN	O
+2659	145.0	and	CC	O
+2660	145.0	what	WP	O
+2661	145.0	helps	VBZ	O
+2662	145.0	or	CC	O
+2663	145.0	hinders	VBZ	O
+2664	145.0	them	PRP	O
+2665	145.0	in	IN	O
+2666	145.0	changing	VBG	O
+2667	145.0	their	PRP$	O
+2668	145.0	behaviour	NN	O
+2669	145.0	,	,	O
+2670	145.0	"	''	O
+2671	145.0	said	VBD	O
+2672	145.0	Dr	NNP	B-per
+2673	145.0	Leibrich	NNP	I-per
+2674	145.0	.	.	O
+2675	146.0	They	PRP	O
+2676	146.0	stop	VBP	O
+2677	146.0	offending	VBG	O
+2678	146.0	when	WRB	O
+2679	146.0	they	PRP	O
+2680	146.0	have	VBP	O
+2681	146.0	something	NN	O
+2682	146.0	of	IN	O
+2683	146.0	value	NN	O
+2684	146.0	they	PRP	O
+2685	146.0	do	VBP	O
+2686	146.0	not	RB	O
+2687	146.0	want	VB	O
+2688	146.0	to	TO	O
+2689	146.0	risk	VB	O
+2690	146.0	,	,	O
+2691	146.0	she	PRP	O
+2692	146.0	said	VBD	O
+2693	146.0	.	.	O
+2694	147.0	"They	PRP	O
+2695	147.0	change	VBP	O
+2696	147.0	when	WRB	O
+2697	147.0	they	PRP	O
+2698	147.0	come	VBP	O
+2699	147.0	to	IN	O
+2700	147.0	a	DT	O
+2701	147.0	personal	JJ	O
+2702	147.0	decision	NN	O
+2703	147.0	that	IN	O
+2704	147.0	offending	NN	O
+2705	147.0	is	VBZ	O
+2706	147.0	no	RB	O
+2707	147.0	longer	RB	O
+2708	147.0	worth	JJ	O
+2709	147.0	while	NN	O
+2710	147.0	.	.	O"
+2711	148.0	In	IN	O
+2712	148.0	the	DT	O
+2713	148.0	study	NN	O
+2714	148.0	the	DT	O
+2715	148.0	subjects	NNS	O
+2716	148.0	speak	VBP	O
+2717	148.0	of	IN	O
+2718	148.0	their	PRP$	O
+2719	148.0	lives	NNS	O
+2720	148.0	in	IN	O
+2721	148.0	their	PRP$	O
+2722	148.0	own	JJ	O
+2723	148.0	words	NNS	O
+2724	148.0	,	,	O
+2725	148.0	interspersed	VBN	O
+2726	148.0	with	IN	O
+2727	148.0	commentary	NN	O
+2728	148.0	and	CC	O
+2729	148.0	analysis	NN	O
+2730	148.0	.	.	O
+2731	149.0	Dr	NNP	B-per
+2732	149.0	Leibrich	NNP	I-per
+2733	149.0	is	VBZ	O
+2734	149.0	the	DT	O
+2735	149.0	Department	NNP	B-org
+2736	149.0	of	IN	O
+2737	149.0	Justice	NNP	I-org
+2738	149.0	Centennial	NNP	I-org
+2739	149.0	Research	NNP	I-org
+2740	149.0	Fellow	NNP	I-org
+2741	149.0	.	.	O
+2742	150.0	Her	PRP$	O
+2743	150.0	study	NN	O
+2744	150.0	was	VBD	O
+2745	150.0	published	VBN	O
+2746	150.0	by	IN	O
+2747	150.0	the	DT	O
+2748	150.0	Otago	NNP	B-org
+2749	150.0	University	NNP	I-org
+2750	150.0	Press	NNP	I-org
+2751	150.0	in	IN	O
+2752	150.0	conjunction	NN	O
+2753	150.0	with	IN	O
+2754	150.0	the	DT	O
+2755	150.0	department	NN	O
+2756	150.0	,	,	O
+2757	150.0	and	CC	O
+2758	150.0	was	VBD	O
+2759	150.0	launched	VBN	O
+2760	150.0	by	IN	O
+2761	150.0	Justice	NNP	B-per
+2762	150.0	Cartwright	NNP	I-per
+2763	150.0	in	IN	O
+2764	150.0	Wellington	NNP	B-geo
+2765	150.0	last	JJ	O
+2766	150.0	night	NN	O
+2767	150.0	.	.	O
+2768	151.0	The	DT	O
+2769	151.0	department's	NN	O
+2770	151.0	general	JJ	O
+2771	151.0	manager	NN	O
+2772	151.0	for	IN	O
+2773	151.0	criminal	JJ	O
+2774	151.0	justice	NN	O
+2775	151.0	development	NN	O
+2776	151.0	,	,	O
+2777	151.0	Mr	NNP	B-per
+2778	151.0	Mel	NNP	I-per
+2779	151.0	Smith	NNP	I-per
+2780	151.0	,	,	O
+2781	151.0	said	VBD	O
+2782	151.0	it	PRP	O
+2783	151.0	was	VBD	O
+2784	151.0	an	DT	O
+2785	151.0	entirely	RB	O
+2786	151.0	different	JJ	O
+2787	151.0	approach	NN	O
+2788	151.0	to	IN	O
+2789	151.0	gathering	VBG	O
+2790	151.0	information	NN	O
+2791	151.0	for	IN	O
+2792	151.0	policy	NN	O
+2793	151.0	development	NN	O
+2794	151.0	,	,	O
+2795	151.0	and	CC	O
+2796	151.0	should	MD	O
+2797	151.0	be	VB	O
+2798	151.0	of	IN	O
+2799	151.0	greater	JJR	O
+2800	151.0	value	NN	O
+2801	151.0	than	IN	O
+2802	151.0	much	JJ	O
+2803	151.0	international	JJ	O
+2804	151.0	research	NN	O
+2805	151.0	.	.	O
+2806	152.0	Most	DT	O
+2807	152.0	research	NN	O
+2808	152.0	was	VBD	O
+2809	152.0	not	RB	O
+2810	152.0	basic	JJ	O
+2811	152.0	enough	RB	O
+2812	152.0	for	IN	O
+2813	152.0	policy-makers	NNS	O
+2814	152.0	to	TO	O
+2815	152.0	feel	VB	O
+2816	152.0	confident	JJ	O
+2817	152.0	about	IN	O
+2818	152.0	it	PRP	O
+2819	152.0	.	.	O
+
+
+2820	153.0	TVNZ	NNP	B-org
+2821	153.0	splitting	VBG	O
+2822	153.0	off	RP	O
+2823	153.0	news	NN	O
+2824	153.0	as	IN	O
+2825	153.0	separate	JJ	O
+2826	153.0	business	NN	O
+2827	153.0	section	NN	O
+2828	153.0	.	.	O
+2829	154.0	WELLINGTON	NNP	B-geo
+2830	154.0	—	:	O
+2831	154.0	Television	NNP	B-org
+2832	154.0	New	NNP	I-org
+2833	154.0	Zealand	NNP	I-org
+2834	154.0	is	VBZ	O
+2835	154.0	splitting	VBG	O
+2836	154.0	off	RP	O
+2837	154.0	its	PRP$	O
+2838	154.0	news	NN	O
+2839	154.0	and	CC	O
+2840	154.0	current	JJ	O
+2841	154.0	affairs	NNS	O
+2842	154.0	department	NN	O
+2843	154.0	to	TO	O
+2844	154.0	operate	VB	O
+2845	154.0	as	IN	O
+2846	154.0	a	DT	O
+2847	154.0	separate	JJ	O
+2848	154.0	business	NN	O
+2849	154.0	arm	NN	O
+2850	154.0	in	IN	O
+2851	154.0	a	DT	O
+2852	154.0	move	NN	O
+2853	154.0	seen	VBN	O
+2854	154.0	as	IN	O
+2855	154.0	a	DT	O
+2856	154.0	further	JJR	O
+2857	154.0	step	NN	O
+2858	154.0	towards	IN	O
+2859	154.0	preparing	VBG	O
+2860	154.0	the	DT	O
+2861	154.0	Stateowned	NNP	B-org
+2862	154.0	enterprise	NN	O
+2863	154.0	for	IN	O
+2864	154.0	eventual	JJ	O
+2865	154.0	sale	NN	O
+2866	154.0	.	.	O
+2867	155.0	The	DT	O
+2868	155.0	new	JJ	O
+2869	155.0	grouping	NN	O
+2870	155.0	will	MD	O
+2871	155.0	report	VB	O
+2872	155.0	directly	RB	O
+2873	155.0	to	IN	O
+2874	155.0	TVNZ	NNP	B-org
+2875	155.0	's	POS	O
+2876	155.0	group	NN	O
+2877	155.0	chief	JJ	O
+2878	155.0	executive	NN	O
+2879	155.0	,	,	O
+2880	155.0	Brent	NNP	B-per
+2881	155.0	Harman	NNP	I-per
+2882	155.0	.	.	O
+2883	156.0	The	DT	O
+2884	156.0	creation	NN	O
+2885	156.0	of	IN	O
+2886	156.0	a	DT	O
+2887	156.0	stand-alone	JJ	O
+2888	156.0	news	NN	O
+2889	156.0	division	NN	O
+2890	156.0	would	MD	O
+2891	156.0	enable	VB	O
+2892	156.0	new	JJ	O
+2893	156.0	business	NN	O
+2894	156.0	opportunities	NNS	O
+2895	156.0	to	TO	O
+2896	156.0	be	VB	O
+2897	156.0	exploited	VBN	O
+2898	156.0	,	,	O
+2899	156.0	Mr	NNP	B-per
+2900	156.0	Harman	NNP	I-per
+2901	156.0	said	VBD	O
+2902	156.0	.	.	O
+2903	157.0	As	IN	O
+2904	157.0	part	NN	O
+2905	157.0	of	IN	O
+2906	157.0	the	DT	O
+2907	157.0	change	NN	O
+2908	157.0	,	,	O
+2909	157.0	TVNZ	NNP	B-org
+2910	157.0	's	POS	O
+2911	157.0	director	NN	O
+2912	157.0	of	IN	O
+2913	157.0	news	NN	O
+2914	157.0	and	CC	O
+2915	157.0	current	JJ	O
+2916	157.0	affairs	NN	O
+2917	157.0	,	,	O
+2918	157.0	Paul	NNP	B-per
+2919	157.0	Norris	NNP	I-per
+2920	157.0	,	,	O
+2921	157.0	will	MD	O
+2922	157.0	step	VB	O
+2923	157.0	up	RP	O
+2924	157.0	to	IN	O
+2925	157.0	a	DT	O
+2926	157.0	group	NN	O
+2927	157.0	role	NN	O
+2928	157.0	to	TO	O
+2929	157.0	oversee	VB	O
+2930	157.0	the	DT	O
+2931	157.0	development	NN	O
+2932	157.0	of	IN	O
+2933	157.0	the	DT	O
+2934	157.0	news	NN	O
+2935	157.0	division	NN	O
+2936	157.0	.	.	O
+2937	158.0	The	DT	O
+2938	158.0	deputy	NN	O
+2939	158.0	director	NN	O
+2940	158.0	of	IN	O
+2941	158.0	news	NN	O
+2942	158.0	and	CC	O
+2943	158.0	current	JJ	O
+2944	158.0	affairs	NN	O
+2945	158.0	,	,	O
+2946	158.0	Shaun	NNP	B-per
+2947	158.0	Brown	NNP	I-per
+2948	158.0	,	,	O
+2949	158.0	will	MD	O
+2950	158.0	,	,	O
+2951	158.0	meanwhile	RB	O
+2952	158.0	,	,	O
+2953	158.0	assume	VB	O
+2954	158.0	day-to-day	JJ	O
+2955	158.0	responsibility	NN	O
+2956	158.0	for	IN	O
+2957	158.0	news	NN	O
+2958	158.0	and	CC	O
+2959	158.0	current	JJ	O
+2960	158.0	affairs	NN	O
+2961	158.0	.	.	O
+2962	159.0	In	IN	O
+2963	159.0	May	NNP	B-tim
+2964	159.0	,	,	O
+2965	159.0	TVNZ	NNP	B-org
+2966	159.0	announced	VBD	O
+2967	159.0	a	DT	O
+2968	159.0	40	CD	O
+2969	159.0	per	NN	O
+2970	159.0	cent	NN	O
+2971	159.0	surge	NN	O
+2972	159.0	in	IN	O
+2973	159.0	profits	NNS	O
+2974	159.0	to	TO	O
+2975	159.0	$	$	O
+2976	159.0	32.6	CD	O
+2977	159.0	million	CD	O
+2978	159.0	for	IN	O
+2979	159.0	the	DT	O
+2980	159.0	year	NN	O
+2981	159.0	ending	VBG	O
+2982	159.0	December	NNP	B-tim
+2983	159.0	.	.	O
+2984	160.0	Turnover	NN	O
+2985	160.0	in	IN	O
+2986	160.0	the	DT	O
+2987	160.0	same	JJ	O
+2988	160.0	period	NN	O
+2989	160.0	was	VBD	O
+2990	160.0	up	RB	O
+2991	160.0	8	CD	O
+2992	160.0	per	NN	O
+2993	160.0	cent	NN	O
+2994	160.0	,	,	O
+2995	160.0	or	CC	O
+2996	160.0	$	$	O
+2997	160.0	29	CD	O
+2998	160.0	million	CD	O
+2999	160.0	,	,	O
+3000	160.0	to	IN	O
+3001	160.0	$	$	O
+3002	160.0	372	CD	O
+3003	160.0	million	CD	O
+3004	160.0	.	.	O
+3005	161.0	This	DT	O
+3006	161.0	strong	JJ	O
+3007	161.0	performance	NN	O
+3008	161.0	is	VBZ	O
+3009	161.0	understood	VBN	O
+3010	161.0	to	TO	O
+3011	161.0	have	VB	O
+3012	161.0	prompted	VBN	O
+3013	161.0	the	DT	O
+3014	161.0	interest	NN	O
+3015	161.0	of	IN	O
+3016	161.0	Australian	JJ	B-gpe
+3017	161.0	media	NN	O
+3018	161.0	magnate	NN	O
+3019	161.0	Kerry	NNP	B-per
+3020	161.0	Packer	NNP	I-per
+3021	161.0	,	,	O
+3022	161.0	who	WDT	O
+3023	161.0	is	VBZ	O
+3024	161.0	seen	VBN	O
+3025	161.0	as	IN	O
+3026	161.0	a	DT	O
+3027	161.0	potential	JJ	O
+3028	161.0	buyer	NN	O
+3029	161.0	for	IN	O
+3030	161.0	TV2	NNP	B-org
+3031	161.0	.	.	O
+3032	162.0	The	DT	O
+3033	162.0	Government	NNP	B-org
+3034	162.0	has	VBZ	O
+3035	162.0	yet	RB	O
+3036	162.0	to	TO	O
+3037	162.0	give	VB	O
+3038	162.0	formal	JJ	O
+3039	162.0	consideration	NN	O
+3040	162.0	to	IN	O
+3041	162.0	the	DT	O
+3042	162.0	ownership	NN	O
+3043	162.0	of	IN	O
+3044	162.0	TVNZ	NNP	B-org
+3045	162.0	,	,	O
+3046	162.0	though	IN	O
+3047	162.0	Broadcasting	NNP	B-org
+3048	162.0	Minister	NNP	O
+3049	162.0	Maurice	NNP	B-per
+3050	162.0	Williamson	NNP	I-per
+3051	162.0	has	VBZ	O
+3052	162.0	often	RB	O
+3053	162.0	said	VBD	O
+3054	162.0	he	PRP	O
+3055	162.0	does	VBZ	O
+3056	162.0	not	RB	O
+3057	162.0	consider	VB	O
+3058	162.0	the	DT	O
+3059	162.0	Government	NNP	B-org
+3060	162.0	as	IN	O
+3061	162.0	a	DT	O
+3062	162.0	long-term	JJ	O
+3063	162.0	owner	NN	O
+3064	162.0	of	IN	O
+3065	162.0	TV2	NNP	B-org
+3066	162.0	.	.	O
+3067	163.0	TVNZ	NNP	B-org
+3068	163.0	has	VBZ	O
+3069	163.0	stated	VBD	O
+3070	163.0	that	IN	O
+3071	163.0	its	PRP$	O
+3072	163.0	preferred	JJ	O
+3073	163.0	choice	NN	O
+3074	163.0	would	MD	O
+3075	163.0	be	VB	O
+3076	163.0	for	IN	O
+3077	163.0	the	DT	O
+3078	163.0	Government	NNP	B-org
+3079	163.0	to	TO	O
+3080	163.0	sell	VB	O
+3081	163.0	TVNZ	NNP	B-org
+3082	163.0	as	IN	O
+3083	163.0	one	CD	O
+3084	163.0	entity	NN	O
+3085	163.0	instead	RB	O
+3086	163.0	of	IN	O
+3087	163.0	splitting	VBG	O
+3088	163.0	ownership	NN	O
+3089	163.0	of	IN	O
+3090	163.0	TV1	NNP	B-org
+3091	163.0	and	CC	O
+3092	163.0	TV2	NNP	B-org
+3093	163.0	.	.	O
+3094	164.0	Mr	NNP	B-per
+3095	164.0	Harman	NNP	I-per
+3096	164.0	said	VBD	O
+3097	164.0	TVNZ	NNP	B-org
+3098	164.0	was	VBD	O
+3099	164.0	positioning	VBG	O
+3100	164.0	itself	PRP	O
+3101	164.0	for	IN	O
+3102	164.0	future	JJ	O
+3103	164.0	developments	NNS	O
+3104	164.0	in	IN	O
+3105	164.0	the	DT	O
+3106	164.0	ways	NNS	O
+3107	164.0	that	IN	O
+3108	164.0	information	NN	O
+3109	164.0	was	VBD	O
+3110	164.0	provided	VBN	O
+3111	164.0	,	,	O
+3112	164.0	by	IN	O
+3113	164.0	separating	VBG	O
+3114	164.0	news	NN	O
+3115	164.0	and	CC	O
+3116	164.0	current	JJ	O
+3117	164.0	affairs	NN	O
+3118	164.0	.	.	O
+3119	165.0	"Concepts	NNP	O
+3120	165.0	like	IN	O
+3121	165.0	convergence	NN	O
+3122	165.0	,	,	O
+3123	165.0	information	NN	O
+3124	165.0	superhighways	NNS	O
+3125	165.0	,	,	O
+3126	165.0	and	CC	O
+3127	165.0	news	NN	O
+3128	165.0	on	IN	O
+3129	165.0	demand	NN	O
+3130	165.0	may	MD	O
+3131	165.0	not	RB	O
+3132	165.0	be	VB	O
+3133	165.0	with	IN	O
+3134	165.0	us	PRP	O
+3135	165.0	yet	RB	O
+3136	165.0	,	,	O
+3137	165.0	but	CC	O
+3138	165.0	we	PRP	O
+3139	165.0	want	VBP	O
+3140	165.0	to	TO	O
+3141	165.0	be	VB	O
+3142	165.0	ready	JJ	O
+3143	165.0	.	.	O
+3144	166.0	The	DT	O
+3145	166.0	change	NN	O
+3146	166.0	would	MD	O
+3147	166.0	not	RB	O
+3148	166.0	affect	VB	O
+3149	166.0	existing	JJ	O
+3150	166.0	news	NN	O
+3151	166.0	and	CC	O
+3152	166.0	current	JJ	O
+3153	166.0	affairs	NN	O
+3154	166.0	programmes	NNS	O
+3155	166.0	on	IN	O
+3156	166.0	TVNZ	NNP	B-org
+3157	166.0	channels	NNS	O
+3158	166.0	,	,	O
+3159	166.0	he	PRP	O
+3160	166.0	said	VBD	O
+3161	166.0	.	.	O
+3162	167.0	The	DT	O
+3163	167.0	new	JJ	O
+3164	167.0	news	NN	O
+3165	167.0	division	NN	O
+3166	167.0	would	MD	O
+3167	167.0	continue	VB	O
+3168	167.0	to	TO	O
+3169	167.0	provide	VB	O
+3170	167.0	its	PRP$	O
+3171	167.0	present	JJ	O
+3172	167.0	range	NN	O
+3173	167.0	of	IN	O
+3174	167.0	programmes	NNS	O
+3175	167.0	to	IN	O
+3176	167.0	TVNZ	NNP	B-org
+3177	167.0	Television	NNP	I-org
+3178	167.0	by	IN	O
+3179	167.0	way	NN	O
+3180	167.0	of	IN	O
+3181	167.0	commercial	JJ	O
+3182	167.0	contracts	NNS	O
+3183	167.0	with	IN	O
+3184	167.0	TV1	NNP	B-org
+3185	167.0	and	CC	O
+3186	167.0	TV2	NNP	B-org
+3187	167.0	.	.	O
+3188	168.0	Mr	NNP	B-per
+3189	168.0	Norris	NNP	I-per
+3190	168.0	will	MD	O
+3191	168.0	also	RB	O
+3192	168.0	have	VB	O
+3193	168.0	specific	JJ	O
+3194	168.0	group	NN	O
+3195	168.0	responsibility	NN	O
+3196	168.0	for	IN	O
+3197	168.0	the	DT	O
+3198	168.0	management	NN	O
+3199	168.0	of	IN	O
+3200	168.0	some	DT	O
+3201	168.0	of	IN	O
+3202	168.0	TVNZ	NNP	B-org
+3203	168.0	's	POS	O
+3204	168.0	international	JJ	O
+3205	168.0	relationships	NNS	O
+3206	168.0	with	IN	O
+3207	168.0	other	JJ	O
+3208	168.0	broadcasters	NNS	O
+3209	168.0	,	,	O
+3210	168.0	including	VBG	O
+3211	168.0	the	DT	O
+3212	168.0	BBC	NNP	B-org
+3213	168.0	and	CC	O
+3214	168.0	Australia	NNP	B-geo
+3215	168.0	's	POS	O
+3216	168.0	Channel	NNP	B-org
+3217	168.0	9	CD	I-org
+3218	168.0	.	.	O
+3219	169.0	Global	JJ	O
+3220	169.0	alliances	NNS	O
+3221	169.0	with	IN	O
+3222	169.0	other	JJ	O
+3223	169.0	broadcasters	NNS	O
+3224	169.0	were	VBD	O
+3225	169.0	becoming	VBG	O
+3226	169.0	an	DT	O
+3227	169.0	increasingly	RB	O
+3228	169.0	important	JJ	O
+3229	169.0	part	NN	O
+3230	169.0	of	IN	O
+3231	169.0	being	VBG	O
+3232	169.0	a	DT	O
+3233	169.0	credible	JJ	O
+3234	169.0	news	NN	O
+3235	169.0	organisation	NN	O
+3236	169.0	,	,	O
+3237	169.0	Mr	NNP	B-per
+3238	169.0	Norris	NNP	I-per
+3239	169.0	said	VBD	O
+3240	169.0	.	.	O
+3241	170.0	—	:	O
+3242	170.0	NZPA	NNP	B-org
+
+
+3243	171.0	SYDNEY	NNP	B-geo
+3244	171.0	—	:	O
+3245	171.0	Australia	NNP	B-gpe
+3246	171.0	has	VBZ	O
+3247	171.0	a	DT	O
+3248	171.0	supeiiority	NN	O
+3249	171.0	complex	NN	O
+3250	171.0	about	IN	O
+3251	171.0	New	NNP	B-geo
+3252	171.0	Zealand	NNP	I-geo
+3253	171.0	and	CC	O
+3254	171.0	New	NNP	B-geo
+3255	171.0	Zealand	NNP	I-geo
+3256	171.0	products	NNS	O
+3257	171.0	,	,	O
+3258	171.0	but	CC	O
+3259	171.0	will	MD	O
+3260	171.0	ignore	VB	O
+3261	171.0	its	PRP$	O
+3262	171.0	small	JJ	O
+3263	171.0	trans-Tasman	NNP	O
+3264	171.0	neighbour	NN	O
+3265	171.0	at	IN	O
+3266	171.0	its	PRP$	O
+3267	171.0	peril	NN	O
+3268	171.0	,	,	O
+3269	171.0	says	VBZ	O
+3270	171.0	the	DT	O
+3271	171.0	worldwide	JJ	O
+3272	171.0	boss	NN	O
+3273	171.0	of	IN	O
+3274	171.0	Heinz	NNP	B-org
+3275	171.0	,	,	O
+3276	171.0	Dr	NNP	B-per
+3277	171.0	Tony	NNP	I-per
+3278	171.0	O'Reilly	NNP	I-per
+3279	171.0	.	.	O
+3280	172.0	In	IN	O
+3281	172.0	an	DT	O
+3282	172.0	aii	NN	O
+3283	172.0	interview	NN	O
+3284	172.0	in	IN	O
+3285	172.0	the	DT	O
+3286	172.0	"Weekend	NNP	B-oth
+3287	172.0	Australian	NNP	I-oth
+3288	172.0	"	''	O
+3289	172.0	in	IN	O
+3290	172.0	which	WDT	O
+3291	172.0	he	PRP	O
+3292	172.0	lavished	VBD	O
+3293	172.0	praise	NN	O
+3294	172.0	on	IN	O
+3295	172.0	New	NNP	B-geo
+3296	172.0	Zealand	NNP	I-geo
+3297	172.0	's	POS	O
+3298	172.0	economic	JJ	O
+3299	172.0	reforms	NNS	O
+3300	172.0	,	,	O
+3301	172.0	Dr	NNP	B-per
+3302	172.0	O'Reilly	NNP	I-per
+3303	172.0	said	VBD	O
+3304	172.0	its	PRP$	O
+3305	172.0	Prime	NNP	B-per
+3306	172.0	Minister	NNP	I-per
+3307	172.0	,	,	O
+3308	172.0	Mr	NNP	B-per
+3309	172.0	Bolger	NNP	I-per
+3310	172.0	,	,	O
+3311	172.0	was	VBD	O
+3312	172.0	"unashamedly	RB	O
+3313	172.0	selling	VBG	O
+3314	172.0	off	RP	O
+3315	172.0	anything	NN	O
+3316	172.0	.	.	O
+3317	172.0	.	.	O
+3318	172.0	.	.	O
+3319	172.0	I'd	PRP	O
+3320	172.0	say	VB	O
+3321	172.0	he'd	PRP	O
+3322	172.0	sell	VB	O
+3323	172.0	his	PRP$	O
+3324	172.0	office	NN	O
+3325	172.0	.	.	O
+3326	173.0	This	DT	O
+3327	173.0	is	VBZ	O
+3328	173.0	a	DT	O
+3329	173.0	very	RB	O
+3330	173.0	pious	JJ	O
+3331	173.0	and	CC	O
+3332	173.0	virtuous	JJ	O
+3333	173.0	thing	NN	O
+3334	173.0	but	CC	O
+3335	173.0	it	PRP	O
+3336	173.0	is	VBZ	O
+3337	173.0	not	RB	O
+3338	173.0	necessarily	RB	O
+3339	173.0	something	NN	O
+3340	173.0	the	DT	O
+3341	173.0	public	NN	O
+3342	173.0	will	MD	O
+3343	173.0	see	VB	O
+3344	173.0	working	VBG	O
+3345	173.0	immediately	RB	O
+3346	173.0	.	.	O
+3347	174.0	The	DT	O
+3348	174.0	paper	NN	O
+3349	174.0	described	VBD	O
+3350	174.0	Dr	NNP	B-per
+3351	174.0	O'Reilly	NNP	I-per
+3352	174.0	as	IN	O
+3353	174.0	a	DT	O
+3354	174.0	"	''	O
+3355	174.0	soulmate	NN	O
+3356	174.0	of	IN	O
+3357	174.0	(	(	O
+3358	174.0	Australian	JJ	B-gpe
+3359	174.0	Prime	NNP	B-per
+3360	174.0	Minister	NNP	I-per
+3361	174.0	)	)	O
+3362	174.0	Paul	NNP	I-per
+3363	174.0	Keating	NNP	I-per
+3364	174.0	"	''	O
+3365	174.0	.	.	O
+3366	175.0	It	PRP	O
+3367	175.0	said	VBD	O
+3368	175.0	Dr	NNP	B-per
+3369	175.0	O'Reilly	NNP	I-per
+3370	175.0	had	VBD	O
+3371	175.0	"whizzed	VBN	O
+3372	175.0	down	RP	O
+3373	175.0	to	IN	O
+3374	175.0	Canberra	NNP	B-geo
+3375	175.0	for	IN	O
+3376	175.0	a	DT	O
+3377	175.0	chat	NN	O
+3378	175.0	with	IN	O
+3379	175.0	Mr	NNP	B-per
+3380	175.0	Keating	NNP	I-per
+3381	175.0	during	IN	O
+3382	175.0	the	DT	O
+3383	175.0	week	NN	O
+3384	175.0	but	CC	O
+3385	175.0	Dr	NNP	B-per
+3386	175.0	O'Reilly	NNP	I-per
+3387	175.0	"may	VB	O
+3388	175.0	have	VB	O
+3389	175.0	spared	VBN	O
+3390	175.0	Mr	NNP	B-per
+3391	175.0	Keating	NNP	I-per
+3392	175.0	his	PRP$	O
+3393	175.0	thoughts	NNS	O
+3394	175.0	on	IN	O
+3395	175.0	the	DT	O
+3396	175.0	runaway	JJ	O
+3397	175.0	success	NN	O
+3398	175.0	of	IN	O
+3399	175.0	the	DT	O
+3400	175.0	New	NNP	B-geo
+3401	175.0	Zealand	NNP	I-geo
+3402	175.0	economy	NN	O
+3403	175.0	,	,	O
+3404	175.0	for	IN	O
+3405	175.0	which	WDT	O
+3406	175.0	he	PRP	O
+3407	175.0	has	VBZ	O
+3408	175.0	unwavering	JJ	O
+3409	175.0	admiration	NN	O
+3410	175.0	"	''	O
+3411	175.0	.	.	O
+3412	176.0	The	DT	O
+3413	176.0	paper	NN	O
+3414	176.0	said	VBD	O
+3415	176.0	Dr	NNP	B-per
+3416	176.0	O'Reilly	NNP	I-per
+3417	176.0	was	VBD	O
+3418	176.0	one	CD	O
+3419	176.0	of	IN	O
+3420	176.0	the	DT	O
+3421	176.0	world	NN	O
+3422	176.0	's	POS	O
+3423	176.0	highest-paid	JJ	O
+3424	176.0	executives	NNS	O
+3425	176.0	,	,	O
+3426	176.0	earning	VBG	O
+3427	176.0	$A54	CD	O
+3428	176.0	million	CD	O
+3429	176.0	(	(	O
+3430	176.0	$65	CD	O
+3431	176.0	million	CD	O
+3432	176.0	)	)	O
+3433	176.0	from	IN	O
+3434	176.0	Heinz	NNP	B-org
+3435	176.0	in	IN	O
+3436	176.0	salary	NN	O
+3437	176.0	and	CC	O
+3438	176.0	bonuses	NNS	O
+3439	176.0	last	JJ	O
+3440	176.0	year	NN	O
+3441	176.0	,	,	O
+3442	176.0	on	IN	O
+3443	176.0	top	NN	O
+3444	176.0	of	IN	O
+3445	176.0	about	IN	O
+3446	176.0	$A110	CD	O
+3447	176.0	million	CD	O
+3448	176.0	in	IN	O
+3449	176.0	a	DT	O
+3450	176.0	bumper	JJ	O
+3451	176.0	1991	CD	O
+3452	176.0	year	NN	O
+3453	176.0	.	.	O
+3454	177.0	With	IN	O
+3455	177.0	operations	NNS	O
+3456	177.0	in	IN	O
+3457	177.0	100	CD	O
+3458	177.0	economies	NNS	O
+3459	177.0	around	IN	O
+3460	177.0	the	DT	O
+3461	177.0	world	NN	O
+3462	177.0	,	,	O
+3463	177.0	Dr	NNP	B-per
+3464	177.0	O'Reilly	NNP	I-per
+3465	177.0	was	VBD	O
+3466	177.0	most	RBS	O
+3467	177.0	impressed	VBN	O
+3468	177.0	with	IN	O
+3469	177.0	the	DT	O
+3470	177.0	transformation	NN	O
+3471	177.0	of	IN	O
+3472	177.0	the	DT	O
+3473	177.0	New	NNP	B-geo
+3474	177.0	Zealand	NNP	I-geo
+3475	177.0	economy	NN	O
+3476	177.0	since	IN	O
+3477	177.0	the	DT	O
+3478	177.0	mid1980s	CD	O
+3479	177.0	and	CC	O
+3480	177.0	eould	VB	O
+3481	177.0	eloquently	RB	O
+3482	177.0	deliver	VB	O
+3483	177.0	a	DT	O
+3484	177.0	potted	JJ	O
+3485	177.0	economic	JJ	O
+3486	177.0	history	NN	O
+3487	177.0	of	IN	O
+3488	177.0	New	NNP	B-geo
+3489	177.0	Zealand	NNP	I-geo
+3490	177.0	's	POS	O
+3491	177.0	abrupt	JJ	O
+3492	177.0	end	NN	O
+3493	177.0	to	IN	O
+3494	177.0	life	NN	O
+3495	177.0	as	IN	O
+3496	177.0	Britain	NNP	B-gpe
+3497	177.0	's	POS	O
+3498	177.0	farm	NN	O
+3499	177.0	to	IN	O
+3500	177.0	its	PRP$	O
+3501	177.0	embracing	NN	O
+3502	177.0	of	IN	O
+3503	177.0	deregulation	NN	O
+3504	177.0	and	CC	O
+3505	177.0	privatisation	NN	O
+3506	177.0	.	.	O
+3507	178.0	"Australia	NNP	B-geo
+3508	178.0	will	MD	O
+3509	178.0	ignore	VB	O
+3510	178.0	New	NNP	B-geo
+3511	178.0	Zealand	NNP	I-geo
+3512	178.0	at	IN	O
+3513	178.0	its	PRP$	O
+3514	178.0	peril	NN	O
+3515	178.0	,"	''	O
+3516	178.0	Dr	NNP	B-per
+3517	178.0	O'Reilly	NNP	I-per
+3518	178.0	said	VBD	O
+3519	178.0	.	.	O
+3520	179.0	"I	PRP	O
+3521	179.0	have	VBP	O
+3522	179.0	always	RB	O
+3523	179.0	felt	VBN	O
+3524	179.0	that	IN	O
+3525	179.0	Australia	NNP	B-gpe
+3526	179.0	has	VBZ	O
+3527	179.0	had	VBD	O
+3528	179.0	a	DT	O
+3529	179.0	certain	JJ	O
+3530	179.0	superiority	NN	O
+3531	179.0	complex	NN	O
+3532	179.0	as	IN	O
+3533	179.0	far	IN	O
+3534	179.0	as	IN	O
+3535	179.0	New	NNP	B-geo
+3536	179.0	Zealand	NNP	I-geo
+3537	179.0	and	CC	O
+3538	179.0	New	NNP	B-geo
+3539	179.0	Zealand	NNP	I-geo
+3540	179.0	products	NNS	O
+3541	179.0	are	VBP	O
+3542	179.0	concerned	VBN	O
+3543	179.0	.	.	O
+3544	180.0	Heinz	NNP	B-org
+3545	180.0	paid	VBD	O
+3546	180.0	$A420	CD	O
+3547	180.0	million	CD	O
+3548	180.0	for	IN	O
+3549	180.0	Wattie	NNP	B-org
+3550	180.0	Foods	NNP	I-org
+3551	180.0	from	IN	O
+3552	180.0	the	DT	O
+3553	180.0	Goodman	NNP	B-org
+3554	180.0	Fielder	NNP	I-org
+3555	180.0	group	NN	O
+3556	180.0	last	JJ	O
+3557	180.0	year	NN	O
+3558	180.0	.	.	O
+3559	181.0	"	''	O
+3560	181.0	It's	PRP	O
+3561	181.0	doing	VBG	O
+3562	181.0	so	RB	O
+3563	181.0	well	RB	O
+3564	181.0	I	PRP	O
+3565	181.0	don't	VBP	O
+3566	181.0	know	VB	O
+3567	181.0	why	WRB	O
+3568	181.0	they	PRP	O
+3569	181.0	sold	VBD	O
+3570	181.0	it	PRP	O
+3571	181.0	,"	''	O
+3572	181.0	Dr	NNP	B-per
+3573	181.0	O'Reilly	NNP	I-per
+3574	181.0	said	VBD	O
+3575	181.0	.	.	O
+3576	182.0	Shortly	RB	O
+3577	182.0	after	IN	O
+3578	182.0	that	DT	O
+3579	182.0	purchase	NN	O
+3580	182.0	,	,	O
+3581	182.0	industrial	JJ	O
+3582	182.0	trouble	NN	O
+3583	182.0	broke	VBD	O
+3584	182.0	out	RP	O
+3585	182.0	at	IN	O
+3586	182.0	Heinz	NNP	B-org
+3587	182.0	's	POS	O
+3588	182.0	Dandenong	NNP	B-geo
+3589	182.0	plant	NN	O
+3590	182.0	,	,	O
+3591	182.0	near	IN	O
+3592	182.0	Melbourne	NNP	B-geo
+3593	182.0	,	,	O
+3594	182.0	with	IN	O
+3595	182.0	constant	JJ	O
+3596	182.0	rumours	NNS	O
+3597	182.0	that	IN	O
+3598	182.0	the	DT	O
+3599	182.0	plant	NN	O
+3600	182.0	would	MD	O
+3601	182.0	be	VB	O
+3602	182.0	shut	VBN	O
+3603	182.0	and	CC	O
+3604	182.0	its	PRP$	O
+3605	182.0	operations	NNS	O
+3606	182.0	moved	VBN	O
+3607	182.0	to	IN	O
+3608	182.0	New	NNP	B-geo
+3609	182.0	Zealand	NNP	I-geo
+3610	182.0	,	,	O
+3611	182.0	which	WDT	O
+3612	182.0	has	VBZ	O
+3613	182.0	a	DT	O
+3614	182.0	lower	JJR	O
+3615	182.0	cost	NN	O
+3616	182.0	base	NN	O
+3617	182.0	and	CC	O
+3618	182.0	a	DT	O
+3619	182.0	more	JJR	O
+3620	182.0	simple	JJ	O
+3621	182.0	industrial-relations	NN	O
+3622	182.0	system	NN	O
+3623	182.0	.	.	O
+3624	183.0	—	:	O
+3625	183.0	NZPA	NNP	B-org
+
+
+3626	184.0	Plans	NNS	O
+3627	184.0	to	TO	O
+3628	184.0	close	VB	O
+3629	184.0	the	DT	O
+3630	184.0	Worcester	NNP	B-geo
+3631	184.0	Street	NNP	I-geo
+3632	184.0	bridge	NN	O
+3633	184.0	over	IN	O
+3634	184.0	the	DT	O
+3635	184.0	Avon	NNP	B-geo
+3636	184.0	River	NNP	I-geo
+3637	184.0	to	TO	O
+3638	184.0	cars	NNS	O
+3639	184.0	should	MD	O
+3640	184.0	not	RB	O
+3641	184.0	threaten	VB	O
+3642	184.0	proposals	NNS	O
+3643	184.0	for	IN	O
+3644	184.0	a	DT	O
+3645	184.0	multiplex	NN	O
+3646	184.0	cinema	NN	O
+3647	184.0	in	IN	O
+3648	184.0	Cathedral	NNP	B-geo
+3649	184.0	Square	NNP	I-geo
+3650	184.0	,	,	O
+3651	184.0	says	VBZ	O
+3652	184.0	a	DT	O
+3653	184.0	report	NN	O
+3654	184.0	to	IN	O
+3655	184.0	the	DT	O
+3656	184.0	Christchurch	NNP	B-geo
+3657	184.0	City	NNP	I-geo
+3658	184.0	Council	NNP	I-org
+3659	184.0	.	.	O
+3660	185.0	Vehicle	NN	O
+3661	185.0	access	NN	O
+3662	185.0	to	IN	O
+3663	185.0	the	DT	O
+3664	185.0	multiplex	NN	O
+3665	185.0	would	MD	O
+3666	185.0	remain	VB	O
+3667	185.0	if	IN	O
+3668	185.0	the	DT	O
+3669	185.0	pedestrian-only	JJ	O
+3670	185.0	plan	NN	O
+3671	185.0	proceeded	VBD	O
+3672	185.0	and	CC	O
+3673	185.0	car-parking	NN	O
+3674	185.0	was	VBD	O
+3675	185.0	available	JJ	O
+3676	185.0	.	.	O
+3677	186.0	The	DT	O
+3678	186.0	report	NN	O
+3679	186.0	,	,	O
+3680	186.0	by	IN	O
+3681	186.0	a	DT	O
+3682	186.0	council	NN	O
+3683	186.0	planner	NN	O
+3684	186.0	,	,	O
+3685	186.0	Mr	NNP	B-per
+3686	186.0	Ross	NNP	I-per
+3687	186.0	Moffatt	NNP	I-per
+3688	186.0	,	,	O
+3689	186.0	said	VBD	O
+3690	186.0	there	EX	O
+3691	186.0	were	VBD	O
+3692	186.0	examples	NNS	O
+3693	186.0	of	IN	O
+3694	186.0	successful	JJ	O
+3695	186.0	city	NN	O
+3696	186.0	centre	NN	O
+3697	186.0	multiplex	NN	O
+3698	186.0	developments	NNS	O
+3699	186.0	even	IN	O
+3700	186.0	where	WRB	O
+3701	186.0	no	DT	O
+3702	186.0	vehicle	NN	O
+3703	186.0	access	NN	O
+3704	186.0	or	CC	O
+3705	186.0	car-parking	NN	O
+3706	186.0	was	VBD	O
+3707	186.0	provided	VBN	O
+3708	186.0	.	.	O
+3709	187.0	The	DT	O
+3710	187.0	chairman	NN	O
+3711	187.0	of	IN	O
+3712	187.0	Auckland-based	JJ	B-geo
+3713	187.0	Everard	NNP	B-org
+3714	187.0	Cinemas	NNP	I-org
+3715	187.0	,	,	O
+3716	187.0	Mr	NNP	B-per
+3717	187.0	Barrie	NNP	I-per
+3718	187.0	Everard	NNP	I-per
+3719	187.0	,	,	O
+3720	187.0	said	VBD	O
+3721	187.0	last	JJ	O
+3722	187.0	month	NN	O
+3723	187.0	that	IN	O
+3724	187.0	the	DT	O
+3725	187.0	proposal	NN	O
+3726	187.0	threatened	VBD	O
+3727	187.0	his	PRP$	O
+3728	187.0	company	NN	O
+3729	187.0	's	POS	O
+3730	187.0	plans	NNS	O
+3731	187.0	to	TO	O
+3732	187.0	convert	VB	O
+3733	187.0	the	DT	O
+3734	187.0	Regent	NNP	B-fac
+3735	187.0	and	CC	O
+3736	187.0	Avon	NNP	B-fac
+3737	187.0	cinemas	NNS	O
+3738	187.0	into	IN	O
+3739	187.0	a	DT	O
+3740	187.0	1500-seat	JJ	O
+3741	187.0	,	,	O
+3742	187.0	six-screen	JJ	O
+3743	187.0	multiplex	NN	O
+3744	187.0	cinema	NN	O
+3745	187.0	,	,	O
+3746	187.0	with	IN	O
+3747	187.0	restaurants	NNS	O
+3748	187.0	,	,	O
+3749	187.0	speciality	NN	O
+3750	187.0	shops	NNS	O
+3751	187.0	,	CC	O
+3752	187.0	and	CC	O
+3753	187.0	possibly	RB	O
+3754	187.0	apartments	NNS	O
+3755	187.0	.	.	O
+3756	188.0	The	DT	O
+3757	188.0	council	NN	O
+3758	188.0	will	MD	O
+3759	188.0	re-hear	VB	O
+3760	188.0	submissions	NNS	O
+3761	188.0	on	IN	O
+3762	188.0	the	DT	O
+3763	188.0	pedestrian-only	JJ	O
+3764	188.0	plan	NN	O
+3765	188.0	at	IN	O
+3766	188.0	a	DT	O
+3767	188.0	special	JJ	O
+3768	188.0	meeting	NN	O
+3769	188.0	on	IN	O
+3770	188.0	Friday	NNP	B-tim
+3771	188.0	.	.	O
+3772	189.0	Submissions	NNS	O
+3773	189.0	were	VBD	O
+3774	189.0	heard	VBN	O
+3775	189.0	by	IN	O
+3776	189.0	a	DT	O
+3777	189.0	sub-committee	NN	O
+3778	189.0	last	JJ	O
+3779	189.0	month	NN	O
+3780	189.0	but	CC	O
+3781	189.0	its	PRP$	O
+3782	189.0	recommendation	NN	O
+3783	189.0	that	IN	O
+3784	189.0	the	DT	O
+3785	189.0	plan	NN	O
+3786	189.0	be	VB	O
+3787	189.0	axed	VBN	O
+3788	189.0	was	VBD	O
+3789	189.0	thrown	VBN	O
+3790	189.0	out	RP	O
+3791	189.0	by	IN	O
+3792	189.0	the	DT	O
+3793	189.0	council	NN	O
+3794	189.0	.	.	O
+3795	190.0	A	report	NN	O
+3796	190.0	to	IN	O
+3797	190.0	Friday	NNP	B-tim
+3798	190.0	's	POS	O
+3799	190.0	meeting	NN	O
+3800	190.0	by	IN	O
+3801	190.0	the	DT	O
+3802	190.0	council	NN	O
+3803	190.0	's	POS	O
+3804	190.0	traffic	NN	O
+3805	190.0	operations	NNS	O
+3806	190.0	engineer	NN	O
+3807	190.0	,	,	O
+3808	190.0	Mr	NNP	B-per
+3809	190.0	Brian	NNP	I-per
+3810	190.0	Neill	NNP	I-per
+3811	190.0	,	,	O
+3812	190.0	said	VBD	O
+3813	190.0	traffic	NN	O
+3814	190.0	volumes	NNS	O
+3815	190.0	on	IN	O
+3816	190.0	the	DT	O
+3817	190.0	bridge	NN	O
+3818	190.0	had	VBD	O
+3819	190.0	fallen	VBN	O
+3820	190.0	from	IN	O
+3821	190.0	4000	CD	O
+3822	190.0	vehicles	NNS	O
+3823	190.0	a	DT	O
+3824	190.0	day	NN	O
+3825	190.0	in	IN	O
+3826	190.0	1986	CD	O
+3827	190.0	to	IN	O
+3828	190.0	fewer	JJR	O
+3829	190.0	than	IN	O
+3830	190.0	2500	CD	O
+3831	190.0	in	IN	O
+3832	190.0	February	NNP	B-tim
+3833	190.0	.	.	O
+3834	191.0	Traffic	NN	O
+3835	191.0	volumes	NNS	O
+3836	191.0	on	IN	O
+3837	191.0	the	DT	O
+3838	191.0	Worcester	NNP	B-geo
+3839	191.0	Boulevard	NNP	I-geo
+3840	191.0	between	IN	O
+3841	191.0	Rolleston	NNP	B-geo
+3842	191.0	Avenue	NNP	I-geo
+3843	191.0	and	CC	O
+3844	191.0	Montreal	NNP	B-geo
+3845	191.0	Street	NNP	I-geo
+3846	191.0	were	VBD	O
+3847	191.0	fewer	JJR	O
+3848	191.0	than	IN	O
+3849	191.0	900	CD	O
+3850	191.0	vehicles	NNS	O
+3851	191.0	a	DT	O
+3852	191.0	day	NN	O
+3853	191.0	,	,	O
+3854	191.0	and	CC	O
+3855	191.0	between	IN	O
+3856	191.0	Cambridge	NNP	B-geo
+3857	191.0	Terrace	NNP	I-geo
+3858	191.0	and	CC	O
+3859	191.0	Montreal	NNP	B-geo
+3860	191.0	Street	NNP	I-geo
+3861	191.0	fewer	JJR	O
+3862	191.0	than	IN	O
+3863	191.0	1700	CD	O
+3864	191.0	vehicles	NNS	O
+3865	191.0	a	DT	O
+3866	191.0	day	NN	O
+3867	191.0	.	.	O
+3868	192.0	Traffic	NN	O
+3869	192.0	volumes	NNS	O
+3870	192.0	on	IN	O
+3871	192.0	other	JJ	O
+3872	192.0	roads	NNS	O
+3873	192.0	in	IN	O
+3874	192.0	the	DT	O
+3875	192.0	area	NN	O
+3876	192.0	ranged	VBD	O
+3877	192.0	from	IN	O
+3878	192.0	7300	CD	O
+3879	192.0	to	IN	O
+3880	192.0	more	JJR	O
+3881	192.0	than	IN	O
+3882	192.0	20,000	CD	O
+3883	192.0	vehicles	NNS	O
+3884	192.0	a	DT	O
+3885	192.0	day	NN	O
+3886	192.0	.	.	O
+3887	193.0	Mr	NNP	B-per
+3888	193.0	Neill	NNP	I-per
+3889	193.0	said	VBD	O
+3890	193.0	local	JJ	O
+3891	193.0	and	CC	O
+3892	193.0	business	NN	O
+3893	193.0	people	NNS	O
+3894	193.0	would	MD	O
+3895	193.0	quickly	RB	O
+3896	193.0	adapt	VB	O
+3897	193.0	to	IN	O
+3898	193.0	using	VBG	O
+3899	193.0	alternative	JJ	O
+3900	193.0	routes	NNS	O
+3901	193.0	.	.	O
+3902	194.0	Visitors	NNS	O
+3903	194.0	would	MD	O
+3904	194.0	be	VB	O
+3905	194.0	guided	VBN	O
+3906	194.0	by	IN	O
+3907	194.0	signs	NNS	O
+3908	194.0	,	,	O
+3909	194.0	and	CC	O
+3910	194.0	delivery	NN	O
+3911	194.0	and	CC	O
+3912	194.0	other	JJ	O
+3913	194.0	commercial	JJ	O
+3914	194.0	vehicles	NNS	O
+3915	194.0	might	MD	O
+3916	194.0	need	VB	O
+3917	194.0	to	TO	O
+3918	194.0	drive	VB	O
+3919	194.0	an	DT	O
+3920	194.0	extra	JJ	O
+3921	194.0	block	NN	O
+3922	194.0	.	.	O
+3923	195.0	Provision	NN	O
+3924	195.0	had	VBD	O
+3925	195.0	been	VBN	O
+3926	195.0	made	VBN	O
+3927	195.0	for	IN	O
+3928	195.0	tour	NN	O
+3929	195.0	coach	NN	O
+3930	195.0	and	CC	O
+3931	195.0	other	JJ	O
+3932	195.0	tourist	NN	O
+3933	195.0	transport	NN	O
+3934	195.0	vehicles	NNS	O
+3935	195.0	to	TO	O
+3936	195.0	stop	VB	O
+3937	195.0	,	,	O
+3938	195.0	park	VB	O
+3939	195.0	,	,	O
+3950	195.0	and	CC	O
+3951	195.0	load	VB	O
+3952	195.0	.	.	O
 
 
-Sentence #	Word	POS	Tag
-1	At	IN	O
-1	its	PRP$	O
-1	last	JJ	O
-1	ordinary	JJ	O
-1	meeting	NN	O
-1	in	IN	O
-1	August	NNP	B-DATE
-1	Ruapehu	NNP	B-LOC
-1	District	NNP	I-LOC
-1	Council	NNP	I-ORG
-1	considered	VBD	O
-1	an	DT	O
-1	agenda	NN	O
-1	item	NN	O
-1	proposing	VBG	O
-1	the	DT	O
-1	establishment	NN	O
-1	of	IN	O
-1	an	DT	O
-1	Iwi	NNP	B-ORG
-1	Liaison	NNP	I-ORG
-1	Working	NNP	I-ORG
-1	Party	NNP	I-ORG
-2	It	PRP	O
-2	requested	VBD	O
-2	that	IN	O
-2	budgetary	JJ	O
-2	implications	NNS	O
-2	be	VB	O
-2	examined	VBN	O
-2	and	CC	O
-2	a	DT	O
-2	budgetary	JJ	O
-2	outcome	NN	O
-2	be	VB	O
-2	proposed	VBN	O
-2	at	IN	O
-2	last	JJ	O
-2	week	NN	O
-2	's	POS	O
-2	monthly	JJ	O
-2	meeting	NN	O
-3	The	DT	O
-3	resolution	NN	O
-3	before	IN	O
-3	council	NN	O
-3	last	JJ	O
-3	week	NN	O
-3	proposed	VBD	O
-3	that	IN	O
-3	a	DT	O
-3	sum	NN	O
-3	of	IN	O
-3	$58,400	CD	O
-3	be	VB	O
-3	approved	VBN	O
-3	as	IN	O
-3	total	JJ	O
-3	funding	NN	O
-3	to	TO	O
-3	be	VB	O
-3	made	VBN	O
-3	available	JJ	O
-3	to	TO	O
-3	the	DT	O
-3	Iwi	NNP	B-ORG
-3	Liaison	NNP	I-ORG
-3	Working	NNP	I-ORG
-3	Party	NNP	I-ORG
-3	from	IN	O
-3	the	DT	O
-3	1993/94	CD	B-DATE
-3	Resource	NNP	B-ORG
-3	Management	NNP	I-ORG
-3	Account	NNP	I-ORG
-4	Cr	NNP	O
-4	Weston	NNP	B-PERSON
-4	Kirton	NNP	I-PERSON
-4	said	VBD	O
-4	that	IN	O
-4	it	PRP	O
-4	was	VBD	O
-4	his	PRP$	O
-4	understanding	NN	O
-4	that	IN	O
-4	the	DT	O
-4	sum	NN	O
-4	of	IN	O
-4	$30,000	CD	O
-4	was	VBD	O
-4	approved	VBN	O
-4	at	IN	O
-4	the	DT	O
-4	original	JJ	O
-4	meeting	NN	O
-4	with	IN	O
-4	Maori	NNP	B-MISC
-4	representatives	NNS	O
-4	and	CC	O
-4	this	DT	O
-4	seemed	VBD	O
-4	to	TO	O
-4	meet	VB	O
-4	with	IN	O
-4	their	PRP$	O
-4	needs	NNS	O
-5	"	``	O
-5	so	RB	O
-5	why	WRB	O
-5	is	VBZ	O
-5	it	PRP	O
-5	now	RB	O
-5	$58,400	CD	O
-5	?"	''	O
-6	Chief	NNP	O
-6	executive	NN	O
-6	Cliff	NNP	B-PERSON
-6	Houston	NNP	I-PERSON
-6	said	VBD	O
-6	that	IN	O
-6	the	DT	O
-6	Iwi	NNP	B-ORG
-6	have	VBP	O
-6	always	RB	O
-6	wanted	VBN	O
-6	$58,400	CD	O
-7	and	CC	O
-7	that	IN	O
-7	he	PRP	O
-7	had	VBD	O
-7	been	VBN	O
-7	conducting	VBG	O
-7	negotiations	NNS	O
-7	on	IN	O
-7	that	DT	O
-7	basis	NN	O
-8	He	PRP	O
-8	assured	VBD	O
-8	council	NN	O
-8	that	IN	O
-8	while	IN	O
-8	there	EX	O
-8	was	VBD	O
-8	no	DT	O
-8	timetable	NN	O
-8	scheduled	VBN	O
-8	for	IN	O
-8	this	DT	O
-8	programme	NN	O
-8	yet	RB	O
-8	,	,	O
-8	it	PRP	O
-8	will	MD	O
-8	be	VB	O
-8	structured	VBN	O
-8	in	IN	O
-8	such	JJ	O
-8	a	DT	O
-8	way	NN	O
-8	that	IN	O
-8	the	DT	O
-8	Ruapehu	NNP	B-LOC
-8	District	NNP	I-LOC
-8	Council	NNP	I-ORG
-8	will	MD	O
-8	retain	VB	O
-8	control	NN	O
-8	throughout	RB	O
-8	on	IN	O
-8	the	DT	O
-8	basis	NN	O
-8	of	IN	O
-8	actual	JJ	O
-8	expenditure	NN	O
-8	for	IN	O
-8	such	JJ	O
-8	things	NNS	O
-8	as	IN	O
-8	travel	NN	O
-8	,	,	O
-8	land-search	NN	O
-8	fees	NNS	O
-8	etc	NN	O
-9	Council	NNP	B-ORG
-9	appointed	VBD	O
-9	Cr	NNP	O
-9	Joe	NNP	B-PERSON
-9	Murphy	NNP	I-PERSON
-9	to	TO	O
-9	represent	VB	O
-9	the	DT	O
-9	northern	JJ	O
-9	ward	NN	O
-9	of	IN	O
-9	the	DT	O
-9	Ruapehu	NNP	B-LOC
-9	District	NNP	I-LOC
-9	Council	NNP	I-ORG
-9	and	CC	O
-9	Cr	NNP	O
-9	Bob	NNP	B-PERSON
-9	Peck	NNP	I-PERSON
-9	to	TO	O
-9	represent	VB	O
-9	the	DT	O
-9	southern	JJ	O
-9	ward	NN	O
-9	of	IN	O
-9	the	DT	O
-9	Ruapehu	NNP	B-LOC
-9	District	NNP	I-LOC
-9	Council	NNP	I-ORG
-9	on	IN	O
-9	the	DT	O
-9	Iwi	NNP	B-ORG
-9	Liaison	NNP	I-ORG
-9	Working	NNP	I-ORG
-9	Party	NNP	I-ORG
-10	Last	JJ	O
-10	year	NN	O
-10	's	POS	O
-10	power	NN	O
-10	crisis	NN	O
-10	is	VBZ	O
-10	thought	VBN	O
-10	to	TO	O
-10	be	VB	O
-10	one	CD	O
-10	of	IN	O
-10	the	DT	O
-10	contributing	VBG	O
-10	factors	NNS	O
-10	behind	IN	O
-10	continued	JJ	O
-10	lower	JJR	O
-10	than	IN	O
-10	expected	VBN	O
-10	electricity	NN	O
-10	sales	NNS	O
-10	by	IN	O
-10	King	NNP	B-ORG
-10	Country	NNP	I-ORG
-10	Energy	NNP	I-ORG
-10	Limited	NNP	I-ORG
-11	General	NNP	O
-11	manager	NN	O
-11	Peter	NNP	B-PERSON
-11	Till	NNP	I-PERSON
-11	told	VBD	O
-11	the	DT	O
-11	September	NNP	B-DATE
-11	directors	NN	O
-11	meeting	NN	O
-11	that	IN	O
-11	August	NNP	B-DATE
-11	had	VBD	O
-11	turned	VBN	O
-11	out	RP	O
-11	to	TO	O
-11	be	VB	O
-11	a	DT	O
-11	poor	JJ	O
-11	month	NN	O
-11	,	,	O
-11	in	IN	O
-11	spite	NN	O
-11	of	IN	O
-11	earlier	JJ	O
-11	hopes	NNS	O
-11	that	IN	O
-11	an	DT	O
-11	overall	JJ	O
-11	drop	NN	O
-11	in	IN	O
-11	unit	NN	O
-11	sales	NNS	O
-11	might	MD	O
-11	be	VB	O
-11	reversed	VBN	O
-12	He	PRP	O
-12	said	VBD	O
-12	last	JJ	O
-12	year	NN	O
-12	's	POS	O
-12	power	NN	O
-12	crisis	NN	O
-12	was	VBD	O
-12	one	CD	O
-12	of	IN	O
-12	four	CD	O
-12	factors	NNS	O
-12	he	PRP	O
-12	felt	VBD	O
-12	were	VBD	O
-12	behind	IN	O
-12	the	DT	O
-12	drop	NN	O
-13	Last	JJ	O
-13	year	NN	O
-13	's	POS	O
-13	shortage	NN	O
-13	caused	VBD	O
-13	fuel	NN	O
-13	switching	NN	O
-13	and	CC	O
-13	switching	NN	O
-13	off	RP	O
-14	From	IN	O
-14	past	JJ	O
-14	experience	NN	O
-14	any	DT	O
-14	shock	NN	O
-14	to	IN	O
-14	public	JJ	O
-14	expectations	NNS	O
-14	takes	VBZ	O
-14	about	IN	O
-14	three	CD	O
-14	years	NNS	O
-14	to	TO	O
-14	even	VB	O
-14	out	RP	O
-15	The	DT	O
-15	warmer	JJR	O
-15	weather	NN	O
-15	being	VBG	O
-15	experienced	VBN	O
-15	this	DT	O
-15	winter	NN	O
-16	was	VBD	O
-16	also	RB	O
-16	a	DT	O
-16	factor	NN	O
-17	with	IN	O
-17	research	NN	O
-17	by	IN	O
-17	other	JJ	O
-17	boards	NNS	O
-17	showing	VBG	O
-17	a	DT	O
-17	1%	CD	O
-17	higher	JJR	O
-17	average	JJ	O
-17	temperature	NN	O
-17	lowered	VBD	O
-17	domestic	JJ	O
-17	consumption	NN	O
-17	by	IN	O
-17	five	CD	O
-17	per	NN	O
-17	cent	NN	O
-18	in	IN	O
-18	the	DT	O
-18	months	NNS	O
-18	May	NNP	B-DATE
-18	to	TO	O
-18	September	NNP	B-DATE
-19	Tariff	NNP	O
-19	increases	NNS	O
-19	over	IN	O
-19	the	DT	O
-19	past	JJ	O
-19	two	CD	O
-19	years	NNS	O
-19	would	MD	O
-19	also	RB	O
-19	have	VB	O
-19	had	VBN	O
-20	an	DT	O
-20	effect	NN	O
-21	along	IN	O
-21	with	IN	O
-21	energy	NN	O
-21	efficiency	NN	O
-21	campaigns	NNS	O
-22	being	VBG	O
-22	run	VBN	O
-22	both	CC	O
-22	locally	RB	O
-22	and	CC	O
-22	nationally	RB	O
-
-
-Sentence #	Word	POS	Tag
-1	REAP	NNP	B-ORG
-1	calls	VBZ	O
-1	for	IN	O
-1	more	JJR	O
-1	Maori	NNP	B-MISC
-1	input	NN	O
-2	The	DT	O
-2	members	NNS	O
-2	of	IN	O
-2	the	DT	O
-2	Ruapehu	NNP	B-LOC
-2	Rural	NNP	I-ORG
-2	Education	NNP	I-ORG
-2	Activities	NNP	I-ORG
-2	Programme	NNP	I-ORG
-2	(REAP)	NNP	I-ORG
-2	council	NN	O
-2	spent	VBD	O
-2	much	JJ	O
-2	time	NN	O
-2	discussing	VBG	O
-2	ways	NNS	O
-2	of	IN	O
-2	increasing	VBG	O
-2	Maori	NNP	B-MISC
-2	input	NN	O
-2	at	IN	O
-2	the	DT	O
-2	meeting	NN	O
-2	on	IN	O
-2	Monday	NNP	B-DATE
-2	night	NN	O
-2	last	JJ	O
-2	week	NN	O
-3	A	DT	O
-3	proposal	NN	O
-3	had	VBD	O
-3	been	VBN	O
-3	put	VBN	O
-3	forward	RB	O
-3	at	IN	O
-3	the	DT	O
-3	previous	JJ	O
-3	meeting	NN	O
-4	for	IN	O
-4	a	DT	O
-4	Maori	NNP	B-MISC
-4	caucus	NN	O
-5	to	TO	O
-5	be	VB	O
-5	formed	VBN	O
-6	At	IN	O
-6	the	DT	O
-6	meeting	NN	O
-6	the	DT	O
-6	council	NN	O
-6	debated	VBD	O
-6	the	DT	O
-6	form	NN	O
-6	,	,	O
-6	membership	NN	O
-6	and	CC	O
-6	the	DT	O
-6	power	NN	O
-6	that	WDT	O
-6	this	DT	O
-6	group	NN	O
-6	would	MD	O
-6	have	VB	O
-7	There	EX	O
-7	are	VBP	O
-7	four	CD	O
-7	Iwi	NNP	B-ORG
-7	places	NNS	O
-7	on	IN	O
-7	the	DT	O
-7	REAP	NNP	B-ORG
-7	council	NN	O
-7	reserved	VBN	O
-7	for	IN	O
-7	Maori	NNP	B-MISC
-7	representatives	NNS	O
-7	from	IN	O
-7	the	DT	O
-7	Ngati	NNP	B-MISC
-7	Kahungunu	NNP	I-MISC
-7	,	,	O
-7	Ngati	NNP	B-MISC
-7	Tuwharetoa	NNP	I-MISC
-7	,	,	O
-7	and	CC	O
-7	Tamaupoko	NNP	B-MISC
-7	Iwi	NNP	I-MISC
-8	Although	IN	O
-8	all	DT	O
-8	these	DT	O
-8	places	NNS	O
-8	were	VBD	O
-8	filled	VBN	O
-8	at	IN	O
-8	the	DT	O
-8	start	NN	O
-8	of	IN	O
-8	the	DT	O
-8	two	CD	O
-8	year	NN	O
-8	term	NN	O
-9	attendance	NN	O
-9	at	IN	O
-9	council	NN	O
-9	meetings	NNS	O
-9	has	VBZ	O
-9	been	VBN	O
-10	erratic	JJ	O
-11	Ruapehu	NNP	B-LOC
-11	REAP	NNP	I-ORG
-11	Council	NNP	I-ORG
-11	chairperson	NN	O
-11	,	,	O
-11	Tauri	NNP	B-PERSON
-11	Morgan	NNP	I-PERSON
-11	,	,	O
-11	urged	VBD	O
-11	the	DT	O
-11	council	NN	O
-11	members	NNS	O
-11	to	TO	O
-11	ask	VB	O
-12	why	WRB	O
-12	Maori	NNP	B-MISC
-12	were	VBD	O
-12	largely	RB	O
-12	unrepresented	JJ	O
-13	in	IN	O
-13	a	DT	O
-13	region	NN	O
-13	where	WRB	O
-13	28	CD	O
-13	per	NN	O
-13	cent	NN	O
-13	of	IN	O
-13	the	DT	O
-13	population	NN	O
-13	is	VBZ	O
-13	Maori	NNP	B-MISC
-14	His	PRP$	O
-14	questions	NNS	O
-14	included	VBD	O
-15	:	:	O
-15	'	``	O
-15	why	WRB	O
-15	did	VBD	O
-15	n't	RB	O
-15	appointed	VBN	O
-15	members	NNS	O
-15	turn	VB	O
-15	up	RP	O
-15	at	IN	O
-15	the	DT	O
-15	first	JJ	O
-15	meeting	NN	O
-15	?	.	O
-16	Why	WRB	O
-16	have	VBP	O
-16	n't	RB	O
-16	they	PRP	O
-16	come	VB	O
-16	back	RB	O
-16	?	.	O
-17	Is	VBZ	O
-17	our	PRP$	O
-17	induction	NN	O
-17	process	NN	O
-17	culturally	RB	O
-17	sensitive	JJ	O
-18	?	.	O
-19	How	WRB	O
-19	do	VBP	O
-19	we	PRP	O
-19	structure	VB	O
-19	our	PRP$	O
-19	meetings	NNS	O
-20	?	.	O
-21	Does	VBZ	O
-21	REAP	NNP	B-ORG
-21	have	VB	O
-21	a	DT	O
-21	welcoming	JJ	O
-21	atmosphere	NN	O
-22	?	.	O
-23	What	WDT	O
-23	protocols	NNS	O
-23	are	VBP	O
-23	in	IN	O
-23	place	NN	O
-24	?	.	O
-25	The	DT	O
-25	council	NN	O
-25	will	MD	O
-25	meet	VB	O
-25	once	RB	O
-25	more	RB	O
-25	before	IN	O
-25	its	PRP$	O
-25	Annual	NNP	B-DATE
-25	General	NNP	I-ORG
-25	Meeting	NNP	I-ORG
-25	on	IN	O
-25	26	CD	B-DATE
-25	April	NNP	I-DATE
-26	and	CC	O
-26	Maori	NNP	B-MISC
-26	representation	NN	O
-26	will	MD	O
-26	once	RB	O
-26	again	RB	O
-26	be	VB	O
-26	on	IN	O
-26	the	DT	O
-26	agenda	NN	O
-27	Early	JJ	O
-27	Childhood	NNP	B-ORG
-27	group	NN	O
-27	may	MD	O
-27	end	VB	O
-28	Early	JJ	O
-28	*	:	O
-28	childhood	NN	O
-28	education	NN	O
-29	came	VBD	O
-29	under	IN	O
-29	scrutiny	NN	O
-29	at	IN	O
-29	last	JJ	O
-29	week	NN	O
-29	's	POS	O
-29	meeting	NN	O
-29	of	IN	O
-29	the	DT	O
-29	Ruapehu	NNP	B-LOC
-29	Rural	NNP	I-LOC
-29	Education	NNP	I-ORG
-29	Activities	NNP	I-ORG
-29	Programme	NNP	I-ORG
-29	Inc	NNP	I-ORG
-29	(REAP)	NNP	I-ORG
-30	Currently	RB	O
-30	three	CD	O
-30	of	IN	O
-30	the	DT	O
-30	REAP	NNP	B-ORG
-30	council	NN	O
-30	members	NNS	O
-30	combine	VBP	O
-30	with	IN	O
-30	REAP	NNP	B-ORG
-30	early	JJ	O
-30	childhood	NN	O
-30	workers	NNS	O
-30	and	CC	O
-30	representatives	NNS	O
-30	from	IN	O
-30	the	DT	O
-30	region	NN	O
-30	's	POS	O
-30	playcentres	NNS	O
-30	,	,	O
-30	kindergartens	NNS	O
-30	,	,	O
-30	kohanga	NN	O
-30	reo	NN	O
-30	,	,	O
-30	preschool	NN	O
-30	and	CC	O
-30	child	NN	O
-30	care	NN	O
-30	facilities	NNS	O
-30	to	TO	O
-30	form	VB	O
-30	the	DT	O
-30	REAP	NNP	B-ORG
-30	Early	NNP	I-ORG
-30	Childhood	NNP	I-ORG
-30	Education	NNP	I-ORG
-30	sub-committee	NN	O
-31	Meetings	NNS	O
-31	of	IN	O
-31	the	DT	O
-31	subcommittee	NN	O
-31	are	VBP	O
-31	normally	RB	O
-31	held	VBN	O
-31	in	IN	O
-31	Waiouru	NNP	B-LOC
-32	but	CC	O
-32	have	VBP	O
-32	not	RB	O
-32	been	VBN	O
-32	well	RB	O
-32	attended	VBN	O
-32	in	IN	O
-32	the	DT	O
-32	last	JJ	O
-32	six	CD	O
-32	months	NNS	O
-33	Council	NNP	B-ORG
-33	members	NNS	O
-33	questioned	VBD	O
-33	the	DT	O
-33	need	NN	O
-33	for	IN	O
-33	the	DT	O
-33	subcommittee	NN	O
-34	An	DT	O
-34	early	JJ	O
-34	childhood	NN	O
-34	meeting	NN	O
-34	is	VBZ	O
-34	planned	VBN	O
-34	for	IN	O
-34	Monday	NNP	B-DATE
-34	22	CD	B-DATE
-34	February	NNP	I-DATE
-34	when	IN	O
-34	the	DT	O
-34	group	NN	O
-34	will	MD	O
-34	discuss	VB	O
-34	their	PRP$	O
-34	future	NN	O
-35	Ruapehu	NNP	B-LOC
-35	REAP	NNP	I-ORG
-35	manager	NN	O
-35	,	,	O
-35	Marion	NNP	B-PERSON
-35	Cleaver	NNP	I-PERSON
-35	,	,	O
-35	reported	VBD	O
-35	to	IN	O
-35	the	DT	O
-35	REAP	NNP	B-ORG
-35	council	NN	O
-35	that	IN	O
-35	she	PRP	O
-35	believed	VBD	O
-35	1993	CD	B-DATE
-35	would	MD	O
-35	be	VB	O
-35	a	DT	O
-35	busy	JJ	O
-35	year	NN	O
-35	for	IN	O
-35	REAP	NNP	B-ORG
-35	Assisted	JJ	I-ORG
-35	Projects	NNS	I-ORG
-35	(	RB	O
-35	RAP	NNP	B-ORG
-35	)	)	O
-36	The	DT	O
-36	RAP	NNP	B-ORG
-36	scheme	NN	O
-36	was	VBD	O
-36	set	VBN	O
-36	up	RP	O
-36	in	IN	O
-36	1992	CD	B-DATE
-36	in	IN	O
-36	response	NN	O
-36	to	IN	O
-36	the	DT	O
-36	need	NN	O
-36	for	IN	O
-36	REAP	NNP	B-ORG
-36	to	TO	O
-36	effectively	RB	O
-36	target	VB	O
-36	its	PRP$	O
-36	assistance	NN	O
-36	to	IN	O
-36	school	NN	O
-36	and	CC	O
-36	community	NN	O
-36	groups	NNS	O
-37	In		IN	O
-37	1992		CD	B-DATE
-37	$40,000		CD	O
-37	was		VBD	O
-37	budgeted		VBN	O
-37	for		IN	O
-37	the		DT	O
-37	RAP		NNP	B-ORG
-37	fund		NN	O
-37	but		CC	O
-37	less		JJR	O
-37	than		IN	O
-37	half		NN	O
-37	was		VBD	O
-37	allocated		VBN	O
-38	This		DT	O
-38	year		NN	O
-38	Mrs		NNP	B-PERSON
-38	Cleaver		NNP	I-PERSON
-38	expects		VBZ	O
-38	the		DT	O
-38	full		JJ	O
-38	amount		NN	O
-38	to		TO	O
-38	be		VB	O
-38	used		VBN	O
-39	"We		PRP	O
-39	're		VBP	O
-39	already		RB	O
-39	getting		VBG	O
-39	applications		NNS	O
-39	from		IN	O
-39	schools		NNS	O
-39	who		WP	O
-39	didn		VBD	O
-39	't		RB	O
-39	use		VB	O
-39	us		PRP	O
-39	last		JJ	O
-39	year		NN	O
-39	.As		.	O
-39	the		DT	O
-39	scheme		NN	O
-39	has		VBZ	O
-39	become		VBN	O
-39	better		JJR	O
-39	known		VBN	O
-39	more		JJR	O
-39	people		NNS	O
-39	are		VBP	O
-39	applying		VBG	O
-39	"		''	O
-40	She		PRP	O
-40	said		VBD	O
-41	The		DT	O
-41	rationale		NN	O
-41	for		IN	O
-41	the		DT	O
-41	RAP		NNP	B-ORG
-41	scheme		NN	O
-41	is		VBZ	O
-41	to		TO	O
-41	provide		VB	O
-41	assistance		NN	O
-41	for		IN	O
-41	projects		NNS	O
-41	aimed		VBN	O
-41	at		IN	O
-41	improving		VBG	O
-41	or		CC	O
-41	enhancing		VBG	O
-41	the		DT	O
-41	learning		NN	O
-41	opportunities		NNS	O
-41	for		IN	O
-41	rural		JJ	O
-41	students		NNS	O
-41	or		CC	O
-41	community		NN	O
-41	groups		NNS	O
-41	which		WDT	O
-41	cannot		MD	O
-41	be		VB	O
-41	met		VBN	O
-41	from		IN	O
-41	other		JJ	O
-41	resources		NNS	O
-42	Guidelines		NNS	O
-42	for		IN	O
-42	applications		NNS	O
-42	have		VBP	O
-42	deliberately	RB	O
-42	been		VBN	O
-42	very		RB	O
-42	broad		JJ	O
-42	in		IN	O
-42	an		DT	O
-42	effort		NN	O
-42	to		TO	O
-42	encourage		VB	O
-42	innovative		JJ	O
-42	ideas		NNS	O
-42	targeted		VBN	O
-42	at		IN	O
-42	projects		NNS	O
-42	and		CC	O
-42	groups		NNS	O
-42	which		WDT	O
-42	would		MD	O
-42	have		VB	O
-42	no		DT	O
-42	other		JJ	O
-42	source		NN	O
-42	of		IN	O
-42	funding		NN	O
-43	Last		JJ	O
-43	year		NN	O
-43	80		CD	O
-43	per		IN	O
-43	cent		NN	O
-43	of	IN	O
-43	grants		NNS	O
-43	(		(	O
-43	$14,500		CD	O
-43	)		)	O
-43	were		VBD	O
-43	to		TO	O
-43	projects		NNS	O
-43	based		VBN	O
-43	at		IN	O
-43	local		JJ	O
-43	primary		JJ	O
-43	schools		NNS	O
-44	seven		CD	O
-44	per		IN	O
-44	cent		NN	O
-44	to		TO	O
-44	early		JJ	O
-44	childhood		NN	O
-44	education		NN	O
-44	groups		NNS	O
-45	and	CC	O
-45	the		DT	O
-45	remaining		JJ	O
-45	thirteen		CD	O
-45	per		IN	O
-45	cent		NN	O
-45	to		TO	O
-45	other		JJ	O
-45	community		NN	O
-45	groups		NNS	O
-46	Applications		NNS	O
-46	are		VBP	O
-46	considered		VBN	O
-46	on		IN	O
-46	the		DT	O
-46	relevance		NN	O
-46	of		IN	O
-46	the		DT	O
-46	programme		NN	O
-46	taking		VBG	O
-46	into		IN	O
-46	account		NN	O
-46	the		DT	O
-46	needs		NNS	O
-46	of		IN	O
-46	the		DT	O
-46	area		NN	O
-47	A		DT	O
-47	panel		NN	O
-47	of		IN	O
-47	three		CD	O
-47	REAP		NNP	B-ORG
-47	representatives	NNS	O
-47	meets		VBZ	O
-47	fortnightly	RB	O
-47	to		TO	O
-47	consider	VB	O
-47	applications	NNS	O
-48	More		RBR	O
-48	information		NN	O
-48	is		VBZ	O
-48	available	JJ	O
-48	from	IN	O
-48	the	DT	O
-48	REAP	NNP	B-ORG
-48	office	NN	O
-48	in	IN	O
-48	Taihape	NNP	B-LOC
-
-
-
-1	The	DT	O
-1	Ruapehu	NNP	B-ORG
-1	District	NNP	I-ORG
-1	Council	NNP	I-ORG
-1	adopted	VBD	O
-1	the	DT	O
-1	following	VBG	O
-1	resolutions	NNS	O
-1	in	IN	O
-1	relation	NN	O
-1	to	IN	O
-1	the	DT	O
-1	Ohakune	NNP	B-LOC
-1	,	,	O
-1	Raetihi	NNP	B-LOC
-1	,	,	O
-1	National	NNP	B-LOC
-1	Park	NNP	I-LOC
-1	and	CC	O
-1	Pipiriki	NNP	B-LOC
-1	sewerage	NN	O
-1	schemes	NNS	O
-1	for	IN	O
-1	the	DT	O
-1	1994/95	CD	B-DATE
-1	Annual	NNP	B-MISC
-1	Plan	NNP	I-MISC
-1	.	.	O
-
-2	Ohakune	NNP	B-LOC
-2	The	DT	O
-2	1994/95	CD	B-DATE
-2	Draft	NNP	O
-2	Annual	NNP	B-MISC
-2	Plan	NNP	I-MISC
-2	provided	VBD	O
-2	for	IN	O
-2	an	DT	O
-2	estimated	VBN	O
-2	budget	NN	O
-2	of	IN	O
-2	$282,800	CD	O
-2	for	IN	O
-2	the	DT	O
-2	Ohakune	NNP	B-LOC
-2	oxidation	NN	O
-2	ponds	NNS	O
-2	upgrade	NN	O
-2	,	,	O
-2	this	DT	O
-2	sum	NN	O
-2	being	VBG	O
-2	made	VBN	O
-2	up	IN	O
-2	of	IN	O
-2	(	(	O
-2	1	CD	O
-2	)	)	O
-2	aerators	NNS	O
-2	-	:	O
-2	supply	NN	O
-2	installation	NN	O
-2	,	,	O
-2	power	NN	O
-2	to	IN	O
-2	site	NN	O
-2	,	,	O
-2	controls	NNS	O
-2	and	CC	O
-2	all	DT	O
-2	fees	NNS	O
-2	and	CC	O
-2	(	(	O
-2	2	CD	O
-2	)	)	O
-2	wetlands	NNS	O
-2	—	:	O
-2	construction	NN	O
-2	and	CC	O
-2	planting	NN	O
-2	including	VBG	O
-2	all	DT	O
-2	fees	NNS	O
-2	.	.	O
-
-3	However	RB	O
-3	,	,	O
-3	since	IN	O
-3	the	DT	O
-3	initial	JJ	O
-3	budget	NN	O
-3	estimate	NN	O
-3	,	,	O
-3	consultant	NN	O
-3	engineers	NNS	O
-3	Fraser	NNP	B-ORG
-3	Thomas	NNP	I-ORG
-3	Ltd	NNP	I-ORG
-3	have	VBP	O
-3	advised	VBN	O
-3	the	DT	O
-3	following	VBG	O
-3	reduced	VBN	O
-3	costs	NNS	O
-3	:	:	O
-3	(	(	O
-3	1	CD	O
-3	)	)	O
-3	Aerators	NNS	O
-3	-	:	O
-3	supply	NN	O
-3	and	CC	O
-3	installation	NN	O
-3	etc	NN	O
-3	(	(	O
-3	$78,000	CD	O
-3	)	)	O
-3	;	;	O
-3	(	(	O
-3	2	CD	O
-3	)	)	O
-3	Wetlands	NNS	O
-3	-	:	O
-3	construction	NN	O
-3	and	CC	O
-3	planting	NN	O
-3	including	VBG	O
-3	all	DT	O
-3	fees	NNS	O
-3	(	(	O
-3	$52,800	CD	O
-3	)	)	O
-3	.	.	O
-
-4	This	DT	O
-4	leaves	VBZ	O
-4	a	DT	O
-4	total	NN	O
-4	revised	VBN	O
-4	budget	NN	O
-4	of	IN	O
-4	$130,800	CD	O
-4	representing	VBG	O
-4	a	DT	O
-4	decrease	NN	O
-4	of	IN	O
-4	capital	NN	O
-4	expenditure	NN	O
-4	(	(	O
-4	to	TO	O
-4	be	VB	O
-4	funded	VBN	O
-4	by	IN	O
-4	loan	NN	O
-4	)	)	O
-4	and	CC	O
-4	a	DT	O
-4	reduction	NN	O
-4	therefore	RB	O
-4	of	IN	O
-4	debt-servicing	NN	O
-4	requirements	NNS	O
-4	for	IN	O
-4	the	DT	O
-4	project	NN	O
-4	.	.	O
-
-5	However	RB	O
-5	,	,	O
-5	it	PRP	O
-5	was	VBD	O
-5	pointed	VBN	O
-5	out	RP	O
-5	that	IN	O
-5	local	JJ	O
-5	iwi	NN	B-MISC
-5	in	IN	O
-5	Ohakune	NNP	B-LOC
-5	were	VBD	O
-5	not	RB	O
-5	happy	JJ	O
-5	with	IN	O
-5	any	DT	O
-5	extension	NN	O
-5	of	IN	O
-5	oxidation	NN	O
-5	wetlands	NNS	O
-5	that	WDT	O
-5	might	MD	O
-5	encroach	VB	O
-5	on	IN	O
-5	their	PRP$	O
-5	marae	NN	O
-5	surrounds	NNS	O
-5	and	CC	O
-5	Council	NNP	B-ORG
-5	were	VBD	O
-5	advised	VBN	O
-5	that	IN	O
-5	the	DT	O
-5	availability	NN	O
-5	of	IN	O
-5	such	DT	O
-5	land	NN	O
-5	could	MD	O
-5	not	RB	O
-5	be	VB	O
-5	guaranteed	VBN	O
-5	if	IN	O
-5	consent	NN	O
-5	is	VBZ	O
-5	not	RB	O
-5	given	VBN	O
-5	.	.	O
-
-6	Raetihi	NNP	B-LOC
-6	A	DT	O
-6	sum	NN	O
-6	of	IN	O
-6	$85,800	CD	O
-6	was	VBD	O
-6	originally	RB	O
-6	estimated	VBN	O
-6	to	TO	O
-6	be	VB	O
-6	the	DT	O
-6	cost	NN	O
-6	of	IN	O
-6	upgrading	VBG	O
-6	the	DT	O
-6	Raetihi	NNP	B-LOC
-6	sewerage	NN	O
-6	scheme	NN	O
-6	by	IN	O
-6	the	DT	O
-6	construction	NN	O
-6	and	CC	O
-6	planting	NN	O
-6	of	IN	O
-6	sewerage	NN	O
-6	wetlands	NNS	O
-6	.	.	O
-
-7	However	RB	O
-7	,	,	O
-7	consulting	VBG	O
-7	engineers	NNS	O
-7	Fraser	NNP	B-ORG
-7	Thomas	NNP	I-ORG
-7	Ltd	NNP	I-ORG
-7	have	VBP	O
-7	since	IN	O
-7	re-assessed	VBN	O
-7	the	DT	O
-7	upgrading	NN	O
-7	of	IN	O
-7	the	DT	O
-7	Raetihi	NNP	B-LOC
-7	Sewerage	NNP	I-LOC
-7	Plant	NNP	I-LOC
-7	and	CC	O
-7	recommend	VB	O
-7	that	IN	O
-7	an	DT	O
-7	electric	JJ	O
-7	motor	NN	O
-7	be	VB	O
-7	installed	VBN	O
-7	as	IN	O
-7	well	RB	O
-7	as	IN	O
-7	the	DT	O
-7	proposed	VBN	O
-7	wetland	NN	O
-7	development	NN	O
-7	.	.	O
-
-8	This	DT	O
-8	will	MD	O
-8	mean	VB	O
-8	an	DT	O
-8	increased	JJ	O
-8	budget	NN	O
-8	expenditure	NN	O
-8	to	IN	O
-8	$103,000	CD	O
-8	but	CC	O
-8	there	EX	O
-8	will	MD	O
-8	be	VB	O
-8	no	DT	O
-8	impact	NN	O
-8	on	IN	O
-8	rating	NN	O
-8	requirements	NNS	O
-8	as	IN	O
-8	the	DT	O
-8	increase	NN	O
-8	of	IN	O
-8	$18,000	CD	O
-8	can	MD	O
-8	be	VB	O
-8	accommodated	VBN	O
-8	within	IN	O
-8	existing	JJ	O
-8	funding	NN	O
-8	allocations	NNS	O
-8	.	.	O
-
-9	Pipiriki	NNP	B-LOC
-9	and	CC	O
-9	National	NNP	B-LOC
-9	Park	NNP	I-LOC
-9	The	DT	O
-9	original	JJ	O
-9	budget	NN	O
-9	for	IN	O
-9	these	DT	O
-9	two	CD	O
-9	sewerage	NN	O
-9	schemes	NNS	O
-9	were	VBD	O
-9	estimated	VBN	O
-9	to	TO	O
-9	be	VB	O
-9	as	IN	O
-9	follows	VBZ	O
-9	:	:	O
-9	Pipiriki	NNP	B-LOC
-9	(	(	O
-9	$8,800	CD	O
-9	)	)	O
-9	;	;	O
-9	National	NNP	B-LOC
-9	Park	NNP	I-LOC
-9	(	(	O
-9	$8,800	CD	O
-9	)	)	O
-9	.	.	O
-
-10	These	DT	O
-10	figures	NNS	O
-10	were	VBD	O
-10	derived	VBN	O
-10	from	IN	O
-10	the	DT	O
-10	estimated	VBN	O
-10	unexpended	VBN	O
-10	funds	NNS	O
-10	carried	VBN	O
-10	forward	RB	O
-10	from	IN	O
-10	the	DT	O
-10	1993/94	CD	B-DATE
-10	financial	JJ	O
-10	year	NN	O
-10	for	IN	O
-10	these	DT	O
-10	projects	NNS	O
-10	.	.	O
-
-11	However	RB	O
-11	it	PRP	O
-11	has	VBZ	O
-11	now	RB	O
-11	been	VBN	O
-11	determined	VBN	O
-11	that	IN	O
-11	the	DT	O
-11	actual	JJ	O
-11	expenditure	NN	O
-11	required	VBN	O
-11	in	IN	O
-11	total	NN	O
-11	over	IN	O
-11	the	DT	O
-11	two	CD	O
-11	years	NNS	O
-11	(	(	O
-11	1993/94	CD	B-DATE
-11	and	CC	O
-11	1994/95	CD	B-DATE
-11	)	)	O
-11	is	VBZ	O
-11	more	JJR	O
-11	than	IN	O
-11	originally	RB	O
-11	estimated	VBN	O
-11	.	.	O
-
-12	The	DT	O
-12	additional	JJ	O
-12	amounts	NNS	O
-12	required	VBN	O
-12	are	VBP	O
-12	as	IN	O
-12	follows	VBZ	O
-12	:	:	O
-12	Pipiriki	NNP	B-LOC
-12	(	(	O
-12	$2,400	CD	O
-12	to	TO	O
-12	make	VB	O
-12	up	RP	O
-12	the	DT	O
-12	required	VBN	O
-12	total	NN	O
-12	of	IN	O
-12	$8,800	CD	O
-12	)	)	O
-12	;	;	O
-12	National	NNP	B-LOC
-12	Park	NNP	I-LOC
-12	(	(	O
-12	$1,440	CD	O
-12	to	TO	O
-12	make	VB	O
-12	up	RP	O
-12	the	DT	O
-12	required	JJ	O
-12	total	NN	O
-12	of	IN	O
-12	$8,800	CD	O
-12	)	)	O
-12	.	.	O
-
-13	However	RB	O
-13	,	,	O
-13	once	RB	O
-13	again	RB	O
-13	there	EX	O
-13	will	MD	O
-13	be	VB	O
-13	no	DT	O
-13	impact	NN	O
-13	on	IN	O
-13	local	JJ	O
-13	rating	NN	O
-13	requirements	NNS	O
-13	as	IN	O
-13	the	DT	O
-13	increase	NN	O
-13	can	MD	O
-13	be	VB	O
-13	accommodated	VBN	O
-13	within	IN	O
-13	the	DT	O
-13	existing	JJ	O
-13	funding	NN	O
-13	allocations	NNS	O
-13	.	.	O
-
-
-1	A	DT	O
-1	meeting	NN	O
-1	is	VBZ	O
-1	to	TO	O
-1	be	VB	O
-1	held	VBN	O
-1	next	JJ	O
-1	Monday	NNP	B-DATE
-1	,	,	O
-1	at	IN	O
-1	the	DT	O
-1	Ohakune	NNP	B-LOC
-1	Primary	NNP	I-LOC
-1	School	NNP	I-LOC
-1	,	,	O
-1	to	TO	O
-1	form	VB	O
-1	a	DT	O
-1	steering	NN	O
-1	committee	NN	O
-1	for	IN	O
-1	organising	VBG	O
-1	the	DT	O
-1	centennial	NN	O
-1	celebrations	NNS	O
-1	for	IN	O
-1	the	DT	O
-1	school	NN	O
-1	in	IN	O
-1	1996	CD	B-DATE
-1	.	.	O
-
-2	A	DT	O
-2	group	NN	O
-2	of	IN	O
-2	people	NNS	O
-2	met	VBD	O
-2	recently	RB	O
-2	to	TO	O
-2	share	VB	O
-2	ideas	NNS	O
-2	for	IN	O
-2	the	DT	O
-2	celebrations	NNS	O
-2	,	,	O
-2	leading	VBG	O
-2	to	TO	O
-2	the	DT	O
-2	decision	NN	O
-2	to	TO	O
-2	hold	VB	O
-2	a	DT	O
-2	further	JJ	O
-2	meeting	NN	O
-2	to	TO	O
-2	gain	VB	O
-2	more	JJR	O
-2	support	NN	O
-2	.	.	O
-
-
-1	A	DT	O
-1	Christchurch	NNP	B-LOC
-1	man	NN	O
-1	charged	VBN	O
-1	with	IN	O
-1	car	NN	O
-1	conversion	NN	O
-1	12	CD	B-DATE
-1	days	NNS	I-DATE
-1	ago	RB	O
-1	was	VBD	O
-1	yesterday	RB	B-DATE
-1	accused	VBN	O
-1	of	IN	O
-1	murdering	VBG	O
-1	the	DT	O
-1	car's	NN	O
-1	owner	NN	O
-1	.	.	O
-
-2	Gregory	NNP	B-PERSON
-2	James	NNP	I-PERSON
-2	Toka	NNP	I-PERSON
-2	,	,	O
-2	aged	VBN	O
-2	25	CD	O
-2	,	,	O
-2	a	DT	O
-2	gardener	NN	O
-2	,	,	O
-2	appeared	VBD	O
-2	in	IN	O
-2	the	DT	O
-2	District	NNP	B-ORG
-2	Court	NNP	I-ORG
-2	charged	VBN	O
-2	with	IN	O
-2	murdering	VBG	O
-2	33-year-old	CD	O
-2	Brenda	NNP	B-PERSON
-2	Kingi	NNP	I-PERSON
-2	in	IN	O
-2	her	PRP$	O
-2	Mairehau	NNP	B-LOC
-2	home	NN	O
-2	on	IN	O
-2	October	NNP	B-DATE
-2	1	CD	I-DATE
-2	.	.	O
-
-3	A	DT	O
-3	large	JJ	O
-3	sword	NN	O
-3	was	VBD	O
-3	found	VBN	O
-3	embedded	VBN	O
-3	in	IN	O
-3	Ms	NNP	O
-3	Kingi's	NNP	B-PERSON
-3	body	NN	O
-3	after	IN	O
-3	neighbours	NNS	O
-3	,	,	O
-3	who	WDT	O
-3	heard	VBD	O
-3	her	PRP$	O
-3	screams	NNS	O
-3	,	,	O
-3	alerted	VBD	O
-3	the	DT	O
-3	police	NN	O
-3	.	.	O
-
-4	Her	PRP$	O
-4	body	NN	O
-4	was	VBD	O
-4	found	VBN	O
-4	in	IN	O
-4	the	DT	O
-4	bathroom	NN	O
-4	of	IN	O
-4	her	PRP$	O
-4	ownership	NN	O
-4	flat	NN	O
-4	.	.	O
-
-5	There	EX	O
-5	was	VBD	O
-5	evidence	NN	O
-5	of	IN	O
-5	a	DT	O
-5	struggle	NN	O
-5	.	.	O
-
-6	A	DT	O
-6	post-mortem	NN	O
-6	confirmed	VBD	O
-6	Ms	NNP	O
-6	Kingi	NNP	B-PERSON
-6	died	VBD	O
-6	of	IN	O
-6	multiple	JJ	O
-6	stab	NN	O
-6	wounds	NNS	O
-6	.	.	O
-
-7	Toka	NNP	B-PERSON
-7	was	VBD	O
-7	charged	VBN	O
-7	the	DT	O
-7	day	NN	O
-7	of	IN	O
-7	her	PRP$	O
-7	death	NN	O
-7	with	IN	O
-7	unlawfully	RB	O
-7	taking	VBG	O
-7	Ms	NNP	O
-7	Kingi's	NNP	B-PERSON
-7	red	JJ	O
-7	Honda	NNP	B-ORG
-7	Prelude	NNP	I-ORG
-7	and	CC	O
-7	setting	VBG	O
-7	fire	NN	O
-7	to	TO	O
-7	it	PRP	O
-7	in	IN	O
-7	Tancred	NNP	B-LOC
-7	Street	NNP	I-LOC
-7	,	,	O
-7	Linwood	NNP	B-LOC
-7	.	.	O
-
-8	He	PRP	O
-8	did	VBD	O
-8	not	RB	O
-8	plead	VB	O
-8	to	IN	O
-8	the	DT	O
-8	murder	NN	O
-8	charge	NN	O
-8	yesterday	RB	B-DATE
-8	and	CC	O
-8	will	MD	O
-8	reappear	VB	O
-8	in	IN	O
-8	court	NN	O
-8	in	IN	O
-8	two	CD	O
-8	weeks	NNS	O
-8	.	.	O
-
-9	Detective	NNP	B-PERSON
-9	Sergeant	NNP	I-PERSON
-9	Phil	NNP	I-PERSON
-9	Parsons	NNP	I-PERSON
-9	,	,	O
-9	of	IN	O
-9	the	DT	O
-9	Papanui	NNP	B-LOC
-9	police	NN	O
-9	,	,	O
-9	said	VBD	O
-9	detectives	NNS	O
-9	still	RB	O
-9	wanted	VBD	O
-9	information	NN	O
-9	from	IN	O
-9	anyone	NN	O
-9	who	WDT	O
-9	saw	VBD	O
-9	Ms	NNP	O
-9	Kingi	NNP	B-PERSON
-9	on	IN	O
-9	the	DT	O
-9	night	NN	O
-9	before	IN	O
-9	she	PRP	O
-9	died	VBD	O
-9	.	.	O
-
-10	"	``	O
-10	We're	PRP	O
-10	at	IN	O
-10	the	DT	O
-10	stage	NN	O
-10	of	IN	O
-10	mopping	VBG	O
-10	up	RP	O
-10	the	DT	O
-10	inquiry	NN	O
-10	.	.	O
-10	"	''	O
-
-11	Several	JJ	O
-11	police	NNS	O
-11	last	JJ	O
-11	week	NN	O
-11	interviewed	VBD	O
-11	patrons	NNS	O
-11	at	IN	O
-11	the	DT	O
-11	Alley	NNP	B-LOC
-11	Cats	NNP	I-LOC
-11	nightclub	NN	O
-11	in	IN	O
-11	Manchester	NNP	B-LOC
-11	Street	NNP	I-LOC
-11	,	,	O
-11	where	WRB	O
-11	Ms	NNP	O
-11	Kingi	NNP	B-PERSON
-11	was	VBD	O
-11	seen	VBN	O
-11	alive	JJ	O
-11	shortly	RB	O
-11	after	IN	O
-11	midnight	NN	O
-11	on	IN	O
-11	the	DT	O
-11	morning	NN	O
-11	she	PRP	O
-11	died	VBD	O
-11	.	.	O
-
-12	People	NNS	O
-12	interviewed	VBN	O
-12	in	IN	O
-12	connection	NN	O
-12	with	IN	O
-12	the	DT	O
-12	murder	NN	O
-12	had	VBD	O
-12	cooperated	VBN	O
-12	with	IN	O
-12	police	NN	O
-12	.	.	O
-
-13	The	DT	O
-13	police	NN	O
-13	said	VBD	O
-13	Ms	NNP	O
-13	Kingi	NNP	B-PERSON
-13	was	VBD	O
-13	"	aO
-13	a	DT	O
-13	friendly	JJ	O
-13	,	,	O
-13	likeable	JJ	O
-13	person	NN	O
-13	who	WP	O
-13	was	VBD	O
-13	well	RB	O
-13	thought	VBN	O
-13	of	IN	O
-13	by	IN	O
-13	her	PRP$	O
-13	colleagues	NNS	O
-13	"	''	O
-14	.	.	O
-
-
-1	Rain	NN	O
-1	boosts	VBZ	O
-1	South	NNP	B-LOC
-1	Island	NNP	I-LOC
-1	lake	NN	O
-1	levels	NNS	O
-1	.	.	O
-
-2	DUNEDIN	NNP	B-LOC
-2	—	:	O
-2	Heavy	JJ	O
-2	rain	NN	O
-2	in	IN	O
-2	the	DT	O
-2	catchments	NNS	O
-2	of	IN	O
-2	the	DT	O
-2	South	NNP	B-LOC
-2	Island	NNP	I-LOC
-2	hydro-electric	JJ	O
-2	lakes	NNS	O
-2	has	VBZ	O
-2	helped	VBN	O
-2	ease	VB	O
-2	problems	NNS	O
-2	caused	VBN	O
-2	by	IN	O
-2	the	DT	O
-2	winter	NN	O
-2	dry	JJ	O
-2	spell	NN	O
-2	.	.	O
-
-3	The	DT	O
-3	Electricity	NNP	B-ORG
-3	Corporation	NNP	I-ORG
-3	's	POS	O
-3	communications	NN	O
-3	manager	NN	O
-3	,	,	O
-3	Mr	NNP	B-PERSON
-3	Bruce	NNP	I-PERSON
-3	Thompson	NNP	I-PERSON
-3	,	,	O
-3	said	VBD	O
-3	heavy	JJ	O
-3	rain	NN	O
-3	in	IN	O
-3	the	DT	O
-3	South	NNP	B-LOC
-3	Island	NNP	I-LOC
-3	ranges	NNS	O
-3	had	VBD	O
-3	led	VBN	O
-3	to	TO	O
-3	a	DT	O
-3	sharp	JJ	O
-3	rise	NN	O
-3	in	IN	O
-3	some	DT	O
-3	lake	NN	O
-3	levels	NNS	O
-3	during	IN	O
-3	the	DT	O
-3	last	JJ	O
-3	few	JJ	O
-3	days	NNS	B-DATE
-3	.	.	O
-
-4	Lake	NNP	O
-4	Pukaki	NNP	B-LOC
-4	,	,	O
-4	at	IN	O
-4	the	DT	O
-4	heart	NN	O
-4	of	IN	O
-4	the	DT	O
-4	Waitaki	NNP	B-LOC
-4	generation	NN	O
-4	system	NN	O
-4	,	,	O
-4	had	VBD	O
-4	shown	VBN	O
-4	an	DT	O
-4	"	``	O
-4	encouraging	JJ	O
-4	"	''	O
-4	rise	NN	O
-4	since	IN	O
-4	Monday	NNP	B-DATE
-4	.	.	O
-
-5	"	``	O
-5	It	PRP	O
-5	just	RB	O
-5	shows	VBZ	O
-5	how	WRB	O
-5	fickle	JJ	O
-5	our	PRP$	O
-5	weather	NN	O
-5	patterns	NNS	O
-5	can	MD	O
-5	be	VB	O
-5	.	.	O
-
-6	We	PRP	O
-6	have	VBP	O
-6	had	VBN	O
-6	a	DT	O
-6	significant	JJ	O
-6	recovery	NN	O
-6	,	,	O
-6	although	IN	O
-6	there	EX	O
-6	was	VBD	O
-6	never	RB	O
-6	any	DT	O
-6	need	NN	O
-6	for	IN	O
-6	the	DT	O
-6	public	NN	O
-6	to	TO	O
-6	be	VB	O
-6	concerned	JJ	O
-6	,	,	O
-6	"	''	O
-6	he	PRP	O
-6	said	VBD	O
-6	.	.	O
-
-7	Snow	NN	O
-7	melt	NN	O
-7	would	MD	O
-7	further	RB	O
-7	boost	VB	O
-7	lake	NN	O
-7	levels	NNS	O
-7	.	.	O
-
-8	About	IN	O
-8	half	NN	O
-8	the	DT	O
-8	usual	JJ	O
-8	amount	NN	O
-8	of	IN	O
-8	power	NN	O
-8	has	VBZ	O
-8	been	VBN	O
-8	sent	VBN	O
-8	north	RB	O
-8	through	IN	O
-8	the	DT	O
-8	Cook	NNP	B-LOC
-8	Strait	NNP	I-LOC
-8	cable	NN	O
-8	each	DT	O
-8	day	NN	O
-8	in	IN	O
-8	a	DT	O
-8	continuing	JJ	O
-8	effort	NN	O
-8	to	TO	O
-8	conserve	VB	O
-8	water	NN	O
-8	in	IN	O
-8	the	DT	O
-8	southern	JJ	O
-8	lakes	NNS	O
-8	,	,	O
-8	he	PRP	O
-8	said	VBD	O
-8	.	.	O
-
-9	Lake	NNP	O
-9	Pukaki	NNP	B-LOC
-9	stood	VBD	O
-9	at	IN	O
-9	519.85m	CD	O
-9	above	IN	O
-9	sea	NN	O
-9	level	NN	O
-9	yesterday	RB	B-DATE
-9	,	,	O
-9	a	DT	O
-9	rise	NN	O
-9	of	IN	O
-9	16cm	CD	O
-9	since	IN	O
-9	Monday	NNP	B-DATE
-9	.	.	O
-
-10	In	IN	O
-10	the	DT	O
-10	same	JJ	O
-10	period	NN	O
-10	,	,	O
-10	Lake	NNP	O
-10	Tekapo	NNP	B-LOC
-10	rose	VBD	O
-10	15cm	CD	O
-10	to	TO	O
-10	705.07m	CD	O
-10	.	.	O
-
-11	Lake	NNP	O
-11	Te	NNP	I-LOC
-11	Anau	NNP	I-LOC
-11	was	VBD	O
-11	at	IN	O
-11	202.5m	CD	O
-11	today	NNP	B-DATE
-11	,	,	O
-11	almost	RB	O
-11	1m	CD	O
-11	higher	JJR	O
-11	than	IN	O
-11	on	IN	O
-11	Monday	NNP	B-DATE
-11	.	.	O
-
-12	Lake	NNP	O
-12	Manapouri	NNP	B-LOC
-12	rose	VBD	O
-12	from	IN	O
-12	176.65m	CD	O
-12	to	TO	O
-12	177.53m	CD	O
-12	over	IN	O
-12	the	DT	O
-12	two	CD	O
-12	days	NNS	B-DATE
-12	.	.	O
-
-13	—	:	O
-13	NZPA	NNP	B-ORG
-
-Sentence #	Word	POS	Tag
-1	Risk	NN	O
-1	to	IN	O
-1	Chch	NNP	B-GPE
-1	art	NN	O
-1	treasures	NNS	O
-1	revealed	VBN	O
-1	in	IN	O
-1	council	NN	O
-1	report	NN	O
-2	by	IN	O
-2	Peter	NNP	B-PERSON
-2	Mathias	NNP	I-PERSON
-3	The	DT	O
-3	potential	JJ	O
-3	fire	NN	O
-3	and	CC	O
-3	earthquake	NN	O
-3	risks	NNS	O
-3	at	IN	O
-3	the	DT	O
-3	Robert	NNP	B-ORG
-3	McDougall	NNP	I-ORG
-3	Art	NNP	I-ORG
-3	Gallery	NNP	I-ORG
-3	are	VBP	O
-3	highlighted	VBN	O
-3	in	IN	O
-3	a	DT	O
-3	report	NN	O
-3	to	IN	O
-3	the	DT	O
-3	Christchurch	NNP	B-GPE
-3	City	NNP	I-GPE
-3	Council	NNP	I-GPE
-4	The	DT	O
-4	council	NN	O
-4	's	POS	O
-4	internal	JJ	O
-4	audit	NN	O
-4	unit	NN	O
-4	identified	VBD	O
-4	work	NN	O
-4	costing	VBG	O
-4	$	$	O
-4	169,000	CD	B-MONEY
-4	,	,	O
-4	including	VBG	O
-4	the	DT	O
-4	installation	NN	O
-4	of	IN	O
-4	a	DT	O
-4	sprinkler	NN	O
-4	system	NN	O
-4	and	CC	O
-4	smoke	NN	O
-4	detectors	NNS	O
-4	to	TO	O
-4	protect	VB	O
-4	the	DT	O
-4	$	$	O
-4	18	CD	B-MONEY
-4	million	CD	I-MONEY
-4	art	NN	O
-4	collection	NN	O
-5	The	DT	O
-5	report	NN	O
-5	said	VBD	O
-5	that	IN	O
-5	the	DT	O
-5	gallery	NN	O
-5	,	,	O
-5	and	CC	O
-5	particularly	RB	O
-5	its	PRP$	O
-5	south	JJ	O
-5	wing	NN	O
-5	,	,	O
-5	represented	VBD	O
-5	an	DT	O
-5	earthquake	NN	O
-5	risk	NN	O
-5	because	IN	O
-5	of	IN	O
-5	the	DT	O
-5	low	JJ	O
-5	amount	NN	O
-5	of	IN	O
-5	reinforcing	VBG	O
-5	steel	NN	O
-5	and	CC	O
-5	cement	NN	O
-5	used	VBN	O
-5	in	IN	O
-5	its	PRP$	O
-5	construction	NN	O
-5	in	IN	O
-5	1932	CD	B-DATE
-5	.	.	O
-6	The	DT	O
-6	gallery	NN	O
-6	used	VBD	O
-6	a	DT	O
-6	halon	NN	O
-6	gas	NN	O
-6	flooding	NN	O
-6	system	NN	O
-6	that	WDT	O
-6	was	VBD	O
-6	less	RBR	O
-6	effective	JJ	O
-6	than	IN	O
-6	a	DT	O
-6	sprinkler	NN	O
-6	system	NN	O
-6	,	,	O
-6	but	CC	O
-6	would	MD	O
-6	not	RB	O
-6	cause	VB	O
-6	water	NN	O
-6	damage	NN	O
-6	to	IN	O
-6	paintings	NNS	O
-6	.	.	O
-7	This	DT	O
-7	system	NN	O
-7	did	VBD	O
-7	not	RB	O
-7	cover	VB	O
-7	the	DT	O
-7	painting	NN	O
-7	storage	NN	O
-7	area	NN	O
-7	in	IN	O
-7	the	DT	O
-7	north	NN	O
-7	wing	NN	O
-7	.	.	O
-8	Nor	CC	O
-8	did	VBD	O
-8	the	DT	O
-8	gallery	NN	O
-8	have	VB	O
-8	any	DT	O
-8	fire	NN	O
-8	hose	NN	O
-8	reels	NNS	O
-8	,	,	O
-8	apparently	RB	O
-8	because	IN	O
-8	of	IN	O
-8	concern	NN	O
-8	over	IN	O
-8	potential	JJ	O
-8	water	NN	O
-8	damage	NN	O
-8	to	IN	O
-8	paintings	NNS	O
-8	.	.	O
-9	The	DT	O
-9	gallery	NN	O
-9	also	RB	O
-9	needed	VBD	O
-9	improvements	NNS	O
-9	costing	VBG	O
-9	$	$	O
-9	52,000	CD	B-MONEY
-9	to	TO	O
-9	meet	VB	O
-9	the	DT	O
-9	requirements	NNS	O
-9	of	IN	O
-9	new	JJ	O
-9	health	NN	O
-9	and	CC	O
-9	safety	NN	O
-9	legislation	NN	O
-9	,	,	O
-9	says	VBZ	O
-9	the	DT	O
-9	report	NN	O
-9	.	.	O
-10	It	PRP	O
-10	identified	VBD	O
-10	a	DT	O
-10	number	NN	O
-10	of	IN	O
-10	functional	JJ	O
-10	problems	NNS	O
-10	at	IN	O
-10	the	DT	O
-10	gallery	NN	O
-10	and	CC	O
-10	at	IN	O
-10	the	DT	O
-10	Art	NNP	B-ORG
-10	Annex	NNP	I-ORG
-10	in	IN	O
-10	the	DT	O
-10	Arts	NNP	B-ORG
-10	Centre	NNP	I-ORG
-10	,	,	O
-10	which	WDT	O
-10	it	PRP	O
-10	said	VBD	O
-10	represented	VBD	O
-10	a	DT	O
-10	'significant	JJ	O
-10	hazard	NN	O
-10	'	''	O
-10	in	IN	O
-10	terms	NNS	O
-10	of	IN	O
-10	the	DT	O
-10	Health	NNP	B-ORG
-10	and	CC	I-ORG
-10	Safety	NNP	I-ORG
-10	in	IN	O
-10	Employment	NNP	B-ORG
-10	Act	NNP	I-ORG
-10	.	.	O
-11	Expenditure	NN	O
-11	of	IN	O
-11	$	$	O
-11	52,000	CD	B-MONEY
-11	in	IN	O
-11	the	DT	O
-11	current	JJ	O
-11	financial	JJ	O
-11	year	NN	O
-11	to	TO	O
-11	rectify	VB	O
-11	the	DT	O
-11	problems	NNS	O
-11	,	,	O
-11	including	VBG	O
-11	$	$	O
-11	11,000	CD	B-MONEY
-11	for	IN	O
-11	emergency	JJ	O
-11	lighting	NN	O
-11	at	IN	O
-11	the	DT	O
-11	gallery	NN	O
-11	,	,	O
-11	was	VBD	O
-11	recommended	VBN	O
-11	by	IN	O
-11	the	DT	O
-11	chairman	NN	O
-11	of	IN	O
-11	the	DT	O
-11	council	NN	O
-11	's	POS	O
-11	cultural	JJ	O
-11	and	CC	O
-11	social	JJ	O
-11	services	NNS	O
-11	committee	NN	O
-11	,	,	O
-11	Cr	NNP	B-PERSON
-11	David	NNP	I-PERSON
-11	Close	NNP	I-PERSON
-11	.	.	O
-
-
-1	Researcher	NN	O
-1	looks	VBZ	O
-1	at	IN	O
-1	why	WRB	O
-1	criminals	NNS	O
-1	stop	VBP	O
-1	offending	VBG	O
-2	by	IN	O
-2	Nigel	NNP	B-PERSON
-2	Malthus	NNP	I-PERSON
-3	Criminals	NNS	O
-3	stop	VBP	O
-3	offending	VBG	O
-3	when	WRB	O
-3	they	PRP	O
-3	have	VBP	O
-3	something	NN	O
-3	of	IN	O
-3	value	NN	O
-3	they	PRP	O
-3	do	VBP	O
-3	not	RB	O
-3	want	VB	O
-3	to	TO	O
-3	risk	VB	O
-3	through	IN	O
-3	further	JJ	O
-3	crime	NN	O
-3	,	,	O
-3	according	VBG	O
-3	to	IN	O
-3	a	DT	O
-3	research	NN	O
-3	report	NN	O
-3	released	VBN	O
-3	yesterday	NN	B-DATE
-4	"	SYM	O
-4	Straight	NNP	B-TITLE
-4	to	TO	I-TITLE
-4	the	DT	I-TITLE
-4	Point	NNP	I-TITLE
-4	—	:	O
-4	Angles	NNP	I-TITLE
-4	on	IN	I-TITLE
-4	Giving	NNP	I-TITLE
-4	Up	NNP	I-TITLE
-4	Crime	NNP	I-TITLE
-4	"	SYM	O
-4	is	VBZ	O
-4	the	DT	O
-4	work	NN	O
-4	of	IN	O
-4	researcher	NN	O
-4	Dr	NNP	B-PERSON
-4	Julie	NNP	I-PERSON
-4	Leibrich	NNP	I-PERSON
-5	,	,	O
-5	who	WDT	O
-5	interviewed	VBD	O
-5	people	NNS	O
-5	who	WDT	O
-5	had	VBD	O
-5	offended	VBN	O
-5	,	,	O
-5	been	VBN	O
-5	sentenced	VBN	O
-5	to	IN	O
-5	supervision	NN	O
-5	,	,	O
-5	and	CC	O
-5	who	WDT	O
-5	still	RB	O
-5	had	VBD	O
-5	clean	JJ	O
-5	slates	NNS	O
-5	three	CD	B-DATE
-5	years	NNS	I-DATE
-5	later	RB	O
-6	"	''	O
-6	Offenders	NNS	O
-6	acknowledge	VBP	O
-6	that	IN	O
-6	giving	VBG	O
-6	up	RP	O
-6	a	DT	O
-6	life	NN	O
-6	of	IN	O
-6	crime	NN	O
-6	is	VBZ	O
-6	not	RB	O
-6	easy	JJ	O
-6	.	.	O
-7	Their	PRP$	O
-7	stories	NNS	O
-7	give	VBP	O
-7	us	PRP	O
-7	an	DT	O
-7	idea	NN	O
-7	of	IN	O
-7	what	WDT	O
-7	motivates	VBZ	O
-7	an	DT	O
-7	offender	NN	O
-7	and	CC	O
-7	what	WDT	O
-7	helps	VBZ	O
-7	or	CC	O
-7	hinders	VBZ	O
-7	them	PRP	O
-7	in	IN	O
-7	changing	VBG	O
-7	their	PRP$	O
-7	behaviour	NN	O
-7	,	,	O
-7	said	VBD	O
-7	Dr	NNP	B-PERSON
-7	Leibrich	NNP	I-PERSON
-8	.	.	O
-8	They	PRP	O
-8	stop	VBP	O
-8	offending	VBG	O
-8	when	WRB	O
-8	they	PRP	O
-8	have	VBP	O
-8	something	NN	O
-8	of	IN	O
-8	value	NN	O
-8	they	PRP	O
-8	do	VBP	O
-8	not	RB	O
-8	want	VB	O
-8	to	TO	O
-8	risk	VB	O
-9	,	,	O
-9	she	PRP	O
-9	said	VBD	O
-10	"	''	O
-10	They	PRP	O
-10	change	VBP	O
-10	when	WRB	O
-10	they	PRP	O
-10	come	VBP	O
-10	to	TO	O
-10	a	DT	O
-10	personal	JJ	O
-10	decision	NN	O
-10	that	IN	O
-10	offending	NN	O
-10	is	VBZ	O
-10	no	RB	O
-10	longer	RB	O
-10	worth	JJ	O
-10	while	NN	O
-10	.	.	O
-11	In	IN	O
-11	the	DT	O
-11	study	NN	O
-11	the	DT	O
-11	subjects	NNS	O
-11	speak	VBP	O
-11	of	IN	O
-11	their	PRP$	O
-11	lives	NNS	O
-11	in	IN	O
-11	their	PRP$	O
-11	own	JJ	O
-11	words	NNS	O
-11	,	,	O
-11	interspersed	VBN	O
-11	with	IN	O
-11	commentary	NN	O
-11	and	CC	O
-11	analysis	NN	O
-12	.	.	O
-12	Dr	NNP	B-PERSON
-12	Leibrich	NNP	I-PERSON
-12	is	VBZ	O
-12	the	DT	O
-12	Department	NNP	B-ORG
-12	of	IN	I-ORG
-12	Justice	NNP	I-ORG
-12	Centennial	NNP	I-ORG
-12	Research	NNP	I-ORG
-12	Fellow	NNP	I-ORG
-13	.	.	O
-13	Her	PRP$	O
-13	study	NN	O
-13	was	VBD	O
-13	published	VBN	O
-13	by	IN	O
-13	the	DT	O
-13	Otago	NNP	B-ORG
-13	University	NNP	I-ORG
-13	Press	NNP	I-ORG
-13	in	IN	O
-13	conjunction	NN	O
-13	with	IN	O
-13	the	DT	O
-13	department	NN	O
-13	,	,	O
-13	and	CC	O
-13	was	VBD	O
-13	launched	VBN	O
-13	by	IN	O
-13	Justice	NNP	B-PERSON
-13	Cartwright	NNP	I-PERSON
-13	in	IN	O
-13	Wellington	NNP	B-GPE
-13	last	JJ	O
-13	night	NN	O
-14	.	.	O
-14	The	DT	O
-14	department	NN	O
-14	's	POS	O
-14	general	JJ	O
-14	manager	NN	O
-14	for	IN	O
-14	criminal	JJ	O
-14	justice	NN	O
-14	development	NN	O
-14	,	,	O
-14	Mr	NNP	B-PERSON
-14	Mel	NNP	I-PERSON
-14	Smith	NNP	I-PERSON
-14	,	,	O
-14	said	VBD	O
-14	it	PRP	O
-14	was	VBD	O
-14	an	DT	O
-14	entirely	RB	O
-14	diffefent	JJ	O
-14	approach	NN	O
-14	to	TO	O
-14	gathering	VBG	O
-14	information	NN	O
-14	for	IN	O
-14	policy	NN	O
-14	development	NN	O
-14	,	,	O
-14	and	CC	O
-14	should	MD	O
-14	be	VB	O
-14	of	IN	O
-14	greater	JJR	O
-14	value	NN	O
-14	than	IN	O
-14	much	JJ	O
-14	international	JJ	O
-14	research	NN	O
-14	.	.	O
-15	Most	JJS	O
-15	research	NN	O
-15	was	VBD	O
-15	not	RB	O
-15	basic	JJ	O
-15	enough	RB	O
-15	for	IN	O
-15	policy-makers	NNS	O
-15	to	TO	O
-15	feel	VB	O
-15	confident	JJ	O
-15	about	IN	O
-15	it	PRP	O
-16	.	.	O
-
-
-1	TVNZ	NNP	B-ORG
-1	splitting	VBG	O
-1	off	IN	O
-1	news	NN	O
-1	as	IN	O
-1	a	DT	O
-1	separate	JJ	O
-1	business	NN	O
-1	section	NN	O
-2	WELLINGTON	NNP	B-GPE
-2	—	:	O
-2	Television	NNP	B-ORG
-2	New	NNP	I-ORG
-2	Zealand	NNP	I-ORG
-2	is	VBZ	O
-2	splitting	VBG	O
-2	off	IN	O
-2	its	PRP$	O
-2	news	NN	O
-2	and	CC	O
-2	current	NN	O
-2	affairs	NNS	O
-2	department	NN	O
-2	to	TO	O
-2	operate	VB	O
-2	as	IN	O
-2	a	DT	O
-2	separate	JJ	O
-2	business	NN	O
-2	arm	NN	O
-2	in	IN	O
-2	a	DT	O
-2	move	NN	O
-2	seen	VBN	O
-2	as	IN	O
-2	a	DT	O
-2	further	JJR	O
-2	step	NN	O
-2	towards	IN	O
-2	preparing	VBG	O
-2	the	DT	O
-2	Stateowned	NNP	B-ORG
-2	enterprise	NN	O
-2	for	IN	O
-2	eventual	JJ	O
-2	sale	NN	O
-3	The	DT	O
-3	new	JJ	O
-3	grouping	NN	O
-3	will	MD	O
-3	report	VB	O
-3	directly	RB	O
-3	to	IN	O
-3	TVNZ	NNP	B-ORG
-3	's	POS	O
-3	group	NN	O
-3	chief	JJ	O
-3	executive	NN	O
-3	,	,	O
-3	Brent	NNP	B-PERSON
-3	Harman	NNP	I-PERSON
-4	The	DT	O
-4	creation	NN	O
-4	of	IN	O
-4	a	DT	O
-4	stand-alone	JJ	O
-4	news	NN	O
-4	division	NN	O
-4	would	MD	O
-4	enable	VB	O
-4	new	JJ	O
-4	business	NN	O
-4	opportunities	NNS	O
-4	to	TO	O
-4	be	VB	O
-4	exploited	VBN	O
-4	,	,	O
-4	Mr	NNP	B-PERSON
-4	Harman	NNP	I-PERSON
-4	said	VBD	O
-5	As	IN	O
-5	part	NN	O
-5	of	IN	O
-5	the	DT	O
-5	change	NN	O
-5	,	,	O
-5	TVNZ	NNP	B-ORG
-5	's	POS	O
-5	director	NN	O
-5	of	IN	O
-5	news	NN	O
-5	and	CC	O
-5	current	NN	O
-5	affairs	NNS	O
-5	,	,	O
-5	Paul	NNP	B-PERSON
-5	Norris	NNP	I-PERSON
-5	,	,	O
-5	will	MD	O
-5	step	VB	O
-5	up	RP	O
-5	to	TO	O
-5	a	DT	O
-5	group	NN	O
-5	role	NN	O
-5	to	TO	O
-5	oversee	VB	O
-5	the	DT	O
-5	development	NN	O
-5	of	IN	O
-5	the	DT	O
-5	news	NN	O
-5	division	NN	O
-6	The	DT	O
-6	deputy	NN	O
-6	director	NN	O
-6	of	IN	O
-6	news	NN	O
-6	and	CC	O
-6	current	NN	O
-6	affairs	NNS	O
-6	,	,	O
-6	Shaun	NNP	B-PERSON
-6	Brown	NNP	I-PERSON
-6	,	,	O
-6	will	MD	O
-6	,	,	O
-6	meanwhile	RB	O
-6	,	,	O
-6	assume	VB	O
-6	day-to-day	JJ	O
-6	responsibility	NN	O
-6	for	IN	O
-6	news	NN	O
-6	and	CC	O
-6	current	NN	O
-6	affairs	NNS	O
-7	In	IN	O
-7	May	NNP	B-DATE
-7	,	,	O
-7	TVNZ	NNP	B-ORG
-7	announced	VBD	O
-7	a	DT	O
-7	40	CD	O
-7	per	NN	O
-7	cent	NN	O
-7	surge	NN	O
-7	in	IN	O
-7	profits	NNS	O
-7	to	TO	O
-7	$	$	O
-7	32.6	CD	B-MONEY
-7	million	CD	I-MONEY
-7	for	IN	O
-7	the	DT	O
-7	year	NN	O
-7	ending	VBG	O
-7	December	NNP	B-DATE
-8	Turnover	NN	O
-8	in	IN	O
-8	the	DT	O
-8	same	JJ	O
-8	period	NN	O
-8	was	VBD	O
-8	up	RB	O
-8	8	CD	O
-8	per	NN	O
-8	cent	NN	O
-8	,	,	O
-8	or	CC	O
-8	$	$	O
-8	29	CD	B-MONEY
-8	million	CD	I-MONEY
-8	,	,	O
-8	to	TO	O
-8	$	$	O
-8	372	CD	B-MONEY
-8	million	CD	I-MONEY
-9	This	DT	O
-9	strong	JJ	O
-9	performance	NN	O
-9	is	VBZ	O
-9	understood	VBN	O
-9	to	TO	O
-9	have	VB	O
-9	prompted	VBN	O
-9	the	DT	O
-9	interest	NN	O
-9	of	IN	O
-9	Australian	JJ	B-GPE
-9	media	NN	O
-9	magnate	NN	O
-9	Kerry	NNP	B-PERSON
-9	Packer	NNP	I-PERSON
-10	,	,	O
-10	who	WP	O
-10	is	VBZ	O
-10	seen	VBN	O
-10	as	IN	O
-10	a	DT	O
-10	potential	JJ	O
-10	buyer	NN	O
-10	for	IN	O
-10	TV2	NNP	B-ORG
-11	The	DT	O
-11	Government	NNP	B-ORG
-11	has	VBZ	O
-11	yet	RB	O
-11	to	TO	O
-11	give	VB	O
-11	formal	JJ	O
-11	consideration	NN	O
-11	to	TO	O
-11	the	DT	O
-11	ownership	NN	O
-11	of	IN	O
-11	TVNZ	NNP	B-ORG
-12	,	,	O
-12	though	IN	O
-12	Broadcasting	NNP	B-ORG
-12	Minister	NNP	O
-12	Maurice	NNP	B-PERSON
-12	Williamson	NNP	I-PERSON
-12	has	VBZ	O
-12	often	RB	O
-12	said	VBD	O
-12	he	PRP	O
-12	does	VBZ	O
-12	not	RB	O
-12	consider	VB	O
-12	the	DT	O
-12	Government	NNP	B-ORG
-12	as	IN	O
-12	a	DT	O
-12	long-term	JJ	O
-12	owner	NN	O
-12	of	IN	O
-12	TV2	NNP	B-ORG
-13	.	.	O
-13	TVNZ	NNP	B-ORG
-13	has	VBZ	O
-13	stated	VBN	O
-13	that	IN	O
-13	its	PRP$	O
-13	preferred	JJ	O
-13	choice	NN	O
-13	would	MD	O
-13	be	VB	O
-13	for	IN	O
-13	the	DT	O
-13	Government	NNP	B-ORG
-13	to	TO	O
-13	sell	VB	O
-13	TVNZ	NNP	B-ORG
-13	as	IN	O
-13	one	CD	O
-13	entity	NN	O
-13	instead	RB	O
-13	of	IN	O
-13	splitting	VBG	O
-13	ownership	NN	O
-13	of	IN	O
-13	TV1	NNP	B-ORG
-13	and	CC	O
-13	TV2	NNP	B-ORG
-14	.	.	O
-14	Mr	NNP	B-PERSON
-14	Harman	NNP	I-PERSON
-14	said	VBD	O
-14	TVNZ	NNP	B-ORG
-14	was	VBD	O
-14	positioning	VBG	O
-14	itself	PRP	O
-14	for	IN	O
-14	future	JJ	O
-14	developments	NNS	O
-14	in	IN	O
-14	the	DT	O
-14	ways	NNS	O
-14	that	WDT	O
-14	information	NN	O
-14	was	VBD	O
-14	provided	VBN	O
-14	,	,	O
-14	by	IN	O
-14	separating	VBG	O
-14	news	NN	O
-14	and	CC	O
-14	current	NN	O
-14	affairs	NNS	O
-15	.	.	O
-15	"	''	O
-15	Concepts	NNS	O
-15	like	IN	O
-15	convergence	NN	O
-15	,	,	O
-15	information	NN	O
-15	superhighways	NNS	O
-15	,	,	O
-15	and	CC	O
-15	news	NN	O
-15	on	IN	O
-15	demand	NN	O
-15	may	MD	O
-15	not	RB	O
-15	be	VB	O
-15	with	IN	O
-15	us	PRP	O
-15	yet	RB	O
-15	,	,	O
-15	but	CC	O
-15	we	PRP	O
-15	want	VBP	O
-15	to	TO	O
-15	be	VB	O
-15	ready	JJ	O
-15	.	.	O
-16	"	''	O
-16	The	DT	O
-16	change	NN	O
-16	would	MD	O
-16	not	RB	O
-16	affect	VB	O
-16	existing	JJ	O
-16	news	NN	O
-16	and	CC	O
-16	current	NN	O
-16	affairs	NNS	O
-16	programmes	NNS	O
-16	on	IN	O
-16	TVNZ	NNP	B-ORG
-16	channels	NNS	O
-16	,	,	O
-16	he	PRP	O
-16	said	VBD	O
-17	The	DT	O
-17	new	JJ	O
-17	news	NN	O
-17	division	NN	O
-17	would	MD	O
-17	continue	VB	O
-17	to	TO	O
-17	provide	VB	O
-17	its	PRP$	O
-17	present	JJ	O
-17	range	NN	O
-17	of	IN	O
-17	programmes	NNS	O
-17	to	TO	O
-17	TVNZ	NNP	B-ORG
-17	Television	NNP	I-ORG
-17	by	IN	O
-17	way	NN	O
-17	of	IN	O
-17	commercial	JJ	O
-17	contracts	NNS	O
-17	with	IN	O
-17	TV1	NNP	B-ORG
-17	and	CC	O
-17	TV2	NNP	B-ORG
-18	.	.	O
-18	Mr	NNP	B-PERSON
-18	Norris	NNP	I-PERSON
-18	will	MD	O
-18	also	RB	O
-18	have	VB	O
-18	specific	JJ	O
-18	group	NN	O
-18	responsibility	NN	O
-18	for	IN	O
-18	the	DT	O
-18	management	NN	O
-18	of	IN	O
-18	some	DT	O
-18	of	IN	O
-18	TVNZ	NNP	B-ORG
-18	's	POS	O
-18	international	JJ	O
-18	relationships	NNS	O
-18	with	IN	O
-18	other	JJ	O
-18	broadcasters	NNS	O
-18	,	,	O
-18	including	VBG	O
-18	the	DT	O
-18	BBC	NNP	B-ORG
-18	and	CC	O
-18	Australia	NNP	B-GPE
-18	's	POS	O
-18	Channel	NNP	B-ORG
-18	9	CD	I-ORG
-19	.	.	O
-19	Global	JJ	O
-19	alliances	NNS	O
-19	with	IN	O
-19	other	JJ	O
-19	broadcasters	NNS	O
-19	were	VBD	O
-19	becoming	VBG	O
-19	an	DT	O
-19	increasingly	RB	O
-19	important	JJ	O
-19	part	NN	O
-19	of	IN	O
-19	being	VBG	O
-19	a	DT	O
-19	credible	JJ	O
-19	news	NN	O
-19	organisation	NN	O
-19	,	,	O
-19	Mr	NNP	B-PERSON
-19	Norris	NNP	I-PERSON
-19	said	VBD	O
-20	—	:	O
-20	NZPA	NNP	B-ORG
-
-
-1	Economic	JJ	O
-1	reforms	NNS	O
-1	praised	VBN	O
-2	SYDNEY	NNP	B-GPE
-2	—	:	O
-2	Australia	NNP	B-GPE
-2	has	VBZ	O
-2	a	DT	O
-2	supeiiority	JJ	O
-2	complex	NN	O
-2	about	IN	O
-2	New	NNP	B-GPE
-2	Zealand	NNP	I-GPE
-2	and	CC	O
-2	New	NNP	B-GPE
-2	Zealand	NNP	I-GPE
-2	products	NNS	O
-2	,	,	O
-2	but	CC	O
-2	will	MD	O
-2	ignore	VB	O
-2	its	PRP$	O
-2	small	JJ	O
-2	trans-Tasman	JJ	O
-2	neighbour	NN	O
-2	at	IN	O
-2	its	PRP$	O
-2	peril	NN	O
-2	,	,	O
-2	says	VBZ	O
-2	the	DT	O
-2	worldwide	JJ	O
-2	boss	NN	O
-2	of	IN	O
-2	Heinz	NNP	B-ORG
-2	,	,	O
-2	Dr	NNP	B-PERSON
-2	Tony	NNP	I-PERSON
-2	O'Reilly	NNP	I-PERSON
-2	.	.	O
-3	In	IN	O
-3	an	DT	O
-3	aii	NN	O
-3	interview	NN	O
-3	in	IN	O
-3	the	DT	O
-3	"	''	O
-3	Weekend	NNP	B-ORG
-3	Australian	NNP	I-ORG
-3	"	''	O
-3	in	IN	O
-3	which	WDT	O
-3	he	PRP	O
-3	lavished	VBD	O
-3	praise	NN	O
-3	on	IN	O
-3	New	NNP	B-GPE
-3	Zealand	NNP	I-GPE
-3	's	POS	O
-3	economic	JJ	O
-3	reforms	NNS	O
-3	,	,	O
-3	Dr	NNP	B-PERSON
-3	O'Reilly	NNP	I-PERSON
-3	said	VBD	O
-3	its	PRP$	O
-3	Prime	NNP	B-PERSON
-3	Minister	NNP	I-PERSON
-3	,	,	O
-3	Mr	NNP	B-PERSON
-3	Bolger	NNP	I-PERSON
-3	,	,	O
-3	was	VBD	O
-3	"	''	O
-3	unashamedly	RB	O
-3	selling	VBG	O
-3	off	RP	O
-3	anything	NN	O
-3	.	.	O
-4	.	.	O
-4	.	.	O
-4	I	PRP	O
-4	'	''	O
-4	d	sell	VB	O
-4	he	PRP	O
-4	'	''	O
-4	d	sell	VB	O
-4	his	PRP$	O
-4	office	NN	O
-4	.	.	O
-5	This	DT	O
-5	is	VBZ	O
-5	a	DT	O
-5	very	RB	O
-5	pious	JJ	O
-5	and	CC	O
-5	virtuous	JJ	O
-5	thing	NN	O
-5	but	CC	O
-5	it	PRP	O
-5	is	VBZ	O
-5	not	RB	O
-5	necessarily	RB	O
-5	something	NN	O
-5	the	DT	O
-5	public	NN	O
-5	will	MD	O
-5	see	VB	O
-5	working	VBG	O
-5	immediately	RB	O
-5	.	.	O
-6	The	DT	O
-6	paper	NN	O
-6	described	VBD	O
-6	Dr	NNP	B-PERSON
-6	O'Reilly	NNP	I-PERSON
-6	as	IN	O
-6	a	DT	O
-6	"	''	O
-6	soulmate	NN	O
-6	of	IN	O
-6	(	(	O
-6	Australian	JJ	B-GPE
-6	Prime	NNP	O
-6	Minister	NNP	O
-6	)	)	O
-6	Paul	NNP	B-PERSON
-6	Keating	NNP	I-PERSON
-6	"	''	O
-6	.	.	O
-7	It	PRP	O
-7	said	VBD	O
-7	Dr	NNP	B-PERSON
-7	O'Reilly	NNP	I-PERSON
-7	had	VBD	O
-7	"	''	O
-7	whizzed	VBN	O
-7	"	''	O
-7	down	RB	O
-7	to	IN	O
-7	Canberra	NNP	B-GPE
-7	for	IN	O
-7	a	DT	O
-7	chat	NN	O
-7	with	IN	O
-7	Mr	NNP	B-PERSON
-7	Keating	NNP	I-PERSON
-7	during	IN	O
-7	the	DT	O
-7	week	NN	O
-7	but	CC	O
-7	Dr	NNP	B-PERSON
-7	O'Reilly	NNP	I-PERSON
-7	"	''	O
-7	may	MD	O
-7	have	VB	O
-7	spared	VBN	O
-7	Mr	NNP	B-PERSON
-7	Keating	NNP	I-PERSON
-7	his	PRP$	O
-7	thoughts	NNS	O
-7	on	IN	O
-7	the	DT	O
-7	runaway	JJ	O
-7	success	NN	O
-7	of	IN	O
-7	the	DT	O
-7	New	NNP	B-GPE
-7	Zealand	NNP	I-GPE
-7	economy	NN	O
-7	,	,	O
-7	for	IN	O
-7	which	WDT	O
-7	he	PRP	O
-7	has	VBZ	O
-7	unwavering	JJ	O
-7	admiration	NN	O
-7	"	''	O
-7	.	.	O
-8	The	DT	O
-8	paper	NN	O
-8	said	VBD	O
-8	Dr	NNP	B-PERSON
-8	O'Reilly	NNP	I-PERSON
-8	was	VBD	O
-8	one	CD	O
-8	of	IN	O
-8	the	DT	O
-8	world	NN	O
-8	's	POS	O
-8	highest-paid	JJ	O
-8	executives	NNS	O
-8	,	,	O
-8	earning	VBG	O
-8	$A54	CD	B-MONEY
-8	million	CD	I-MONEY
-8	(	(	O
-8	$	$	O
-8	65	CD	B-MONEY
-8	million	CD	I-MONEY
-8	)	)	O
-8	from	IN	O
-8	Heinz	NNP	B-ORG
-8	in	IN	O
-8	salary	NN	O
-8	and	CC	O
-8	bonuses	NNS	O
-8	last	JJ	O
-8	year	NN	O
-8	,	,	O
-8	on	IN	O
-8	top	NN	O
-8	of	IN	O
-8	about	IN	O
-8	$A110	CD	B-MONEY
-8	million	CD	I-MONEY
-8	in	IN	O
-8	a	DT	O
-8	bumper	JJ	O
-8	1991	CD	B-DATE
-8	year	NN	O
-8	.	.	O
-9	With	IN	O
-9	operations	NNS	O
-9	in	IN	O
-9	100	CD	O
-9	economies	NNS	O
-9	around	IN	O
-9	the	DT	O
-9	world	NN	O
-9	,	,	O
-9	Dr	NNP	B-PERSON
-9	O'Reilly	NNP	I-PERSON
-9	was	VBD	O
-9	most	RBS	O
-9	impressed	JJ	O
-9	with	IN	O
-9	the	DT	O
-9	transformation	NN	O
-9	of	IN	O
-9	the	DT	O
-9	New	NNP	B-GPE
-9	Zealand	NNP	I-GPE
-9	economy	NN	O
-9	since	IN	O
-9	the	DT	O
-9	mid1980s	CD	B-DATE
-9	and	CC	O
-9	would	MD	O
-9	eloquently	RB	O
-9	deliver	VB	O
-9	a	DT	O
-9	potted	JJ	O
-9	economic	JJ	O
-9	history	NN	O
-9	of	IN	O
-9	New	NNP	B-GPE
-9	Zealand	NNP	I-GPE
-9	's	POS	O
-9	abrupt	JJ	O
-9	end	NN	O
-9	to	IN	O
-9	life	NN	O
-9	as	IN	O
-9	Britain	NNP	B-GPE
-9	's	POS	O
-9	farm	NN	O
-9	to	IN	O
-9	its	PRP$	O
-9	embracing	VBG	O
-9	of	IN	O
-9	deregulation	NN	O
-9	and	CC	O
-9	privatisation	NN	O
-9	.	.	O
-10	"	''	O
-10	Australia	NNP	B-GPE
-10	will	MD	O
-10	ignore	VB	O
-10	New	NNP	B-GPE
-10	Zealand	NNP	I-GPE
-10	at	IN	O
-10	its	PRP$	O
-10	peril	NN	O
-10	,	,	O
-10	"	''	O
-10	Dr	NNP	B-PERSON
-10	O'Reilly	NNP	I-PERSON
-10	said	VBD	O
-10	.	.	O
-11	"	''	O
-11	I	PRP	O
-11	have	VBP	O
-11	always	RB	O
-11	felt	VBN	O
-11	that	IN	O
-11	Australia	NNP	B-GPE
-11	has	VBZ	O
-11	had	VBN	O
-11	a	DT	O
-11	certain	JJ	O
-11	superiority	NN	O
-11	complex	NN	O
-11	as	IN	O
-11	far	RB	O
-11	as	IN	O
-11	New	NNP	B-GPE
-11	Zealand	NNP	I-GPE
-11	and	CC	O
-11	New	NNP	B-GPE
-11	Zealand	NNP	I-GPE
-11	products	NNS	O
-11	are	VBP	O
-11	concerned	VBN	O
-11	.	.	O
-12	Heinz	NNP	B-ORG
-12	paid	VBD	O
-12	$A420	CD	B-MONEY
-12	million	CD	I-MONEY
-12	for	IN	O
-12	Wattie	NNP	B-ORG
-12	Foods	NNP	I-ORG
-12	from	IN	O
-12	the	DT	O
-12	Goodman	NNP	B-ORG
-12	Fielder	NNP	I-ORG
-12	group	NN	O
-12	last	JJ	O
-12	year	NN	O
-12	.	.	O
-13	"	''	O
-13	It	PRP	O
-13	'	''	O
-13	s	'	''	O
-13	doing	VBG	O
-13	so	RB	O
-13	well	RB	O
-13	I	PRP	O
-13	do	RBP	O
-13	not	RB	O
-13	know	VB	O
-13	why	WRB	O
-13	they	PRP	O
-13	sold	VBD	O
-13	it	PRP	O
-13	,	,	O
-13	"	''	O
-13	Dr	NNP	B-PERSON
-13	O'Reilly	NNP	I-PERSON
-13	said	VBD	O
-13	.	.	O
-14	Shortly	RB	O
-14	after	IN	O
-14	that	DT	O
-14	purchase	NN	O
-14	,	,	O
-14	industrial	JJ	O
-14	trouble	NN	O
-14	broke	VBD	O
-14	out	RP	O
-14	at	IN	O
-14	Heinz	NNP	B-ORG
-14	's	POS	O
-14	Dandenong	NNP	B-GPE
-14	plant	NN	O
-14	,	,	O
-14	near	IN	O
-14	Melbourne	NNP	B-GPE
-14	,	,	O
-14	with	IN	O
-14	constant	JJ	O
-14	rumours	NNS	O
-14	that	IN	O
-14	the	DT	O
-14	plant	NN	O
-14	would	MD	O
-14	be	VB	O
-14	shut	VBN	O
-14	and	CC	O
-14	its	PRP$	O
-14	operations	NNS	O
-14	moved	VBN	O
-14	to	IN	O
-14	New	NNP	B-GPE
-14	Zealand	NNP	I-GPE
-14	,	,	O
-14	which	WDT	O
-14	has	VBZ	O
-14	a	DT	O
-14	lower	JJR	O
-14	cost	NN	O
-14	base	NN	O
-14	and	CC	O
-14	a	DT	O
-14	more	RBR	O
-14	simple	JJ	O
-14	industrial-relations	JJ	O
-14	system	NN	O
-14	.	.	O
-15	—	:	O
-15	NZPA	NNP	B-ORG
-
-
-
-1	Bridge	NN	O
-1	closing	VBG	O
-1	should	MD	O
-1	not	RB	O
-1	hit	VB	O
-1	cinema	NN	O
-
-2	Plans	NNS	O
-2	to	TO	O
-2	close	VB	O
-2	the	DT	O
-2	Worcester	NNP	B-LOC
-2	Street	NNP	I-LOC
-2	bridge	NN	O
-2	over	IN	O
-2	the	DT	O
-2	Avon	NNP	B-LOC
-2	River	NNP	I-LOC
-2	to	TO	O
-2	cars	NNS	O
-2	should	MD	O
-2	not	RB	O
-2	threaten	VB	O
-2	proposals	NNS	O
-2	for	IN	O
-2	a	DT	O
-2	multiplex	NN	O
-2	cinema	NN	O
-2	in	IN	O
-2	Cathedral	NNP	B-LOC
-2	Square	NNP	I-LOC
-2	,	,	O
-2	says	VBZ	O
-2	a	DT	O
-2	report	NN	O
-2	to	TO	O
-2	the	DT	O
-2	Christchurch	NNP	B-GPE
-2	City	NNP	I-GPE
-2	Council	NNP	I-GPE
-2	.	.	O
-
-3	Vehicle	NN	O
-3	access	NN	O
-3	to	TO	O
-3	the	DT	O
-3	multiplex	NN	O
-3	would	MD	O
-3	remain	VB	O
-3	if	IN	O
-3	the	DT	O
-3	pedestrian-only	JJ	O
-3	plan	NN	O
-3	proceeded	VBD	O
-3	and	CC	O
-3	car-parking	NN	O
-3	was	VBD	O
-3	available	JJ	O
-3	.	.	O
-
-4	The	DT	O
-4	report	NN	O
-4	,	,	O
-4	by	IN	O
-4	a	DT	O
-4	council	NN	O
-4	planner	NN	O
-4	,	,	O
-4	Mr	NNP	O
-4	Ross	NNP	B-PERSON
-4	Moffatt	NNP	I-PERSON
-4	,	,	O
-4	said	VBD	O
-4	there	EX	O
-4	were	VBD	O
-4	examples	NNS	O
-4	of	IN	O
-4	successful	JJ	O
-4	city	NN	O
-4	centre	NN	O
-4	multiplex	NN	O
-4	developments	NNS	O
-4	even	RB	O
-4	where	WRB	O
-4	no	DT	O
-4	vehicle	NN	O
-4	access	NN	O
-4	or	CC	O
-4	car-parking	NN	O
-4	was	VBD	O
-4	provided	VBN	O
-4	.	.	O
-
-5	The	DT	O
-5	chairman	NN	O
-5	of	IN	O
-5	Auckland-based	JJ	B-LOC
-5	Everard	NNP	B-ORG
-5	Cinemas	NNP	I-ORG
-5	,	,	O
-5	Mr	NNP	O
-5	Barrie	NNP	B-PERSON
-5	Everard	NNP	I-PERSON
-5	,	,	O
-5	said	VBD	O
-5	last	JJ	O
-5	month	NN	O
-5	that	IN	O
-5	the	DT	O
-5	proposal	NN	O
-5	threatened	VBD	O
-5	his	PRP$	O
-5	company	NN	O
-5	'	POS	O
-5	s	NN	O
-5	plans	NNS	O
-5	to	TO	O
-5	convert	VB	O
-5	the	DT	O
-5	Regent	NNP	B-ORG
-5	and	CC	O
-5	Avon	NNP	B-ORG
-5	cinemas	NNS	O
-5	into	IN	O
-5	a	DT	O
-5	1500-seat	JJ	O
-5	,	,	O
-5	six-screen	JJ	O
-5	multiplex	NN	O
-5	cinema	NN	O
-5	,	,	O
-5	with	IN	O
-5	restaurants	NNS	O
-5	,	,	O
-5	speciality	JJ	O
-5	shops	NNS	O
-5	,	,	O
-5	and	CC	O
-5	possibly	RB	O
-5	apartments	NNS	O
-5	.	.	O
-
-6	The	DT	O
-6	council	NN	O
-6	will	MD	O
-6	re-hear	VB	O
-6	submissions	NNS	O
-6	on	IN	O
-6	the	DT	O
-6	pedestrian-only	JJ	O
-6	plan	NN	O
-6	at	IN	O
-6	a	DT	O
-6	special	JJ	O
-6	meeting	NN	O
-6	on	IN	O
-6	Friday	NNP	B-DATE
-6	.	.	O
-
-7	Submissions	NNS	O
-7	were	VBD	O
-7	heard	VBN	O
-7	by	IN	O
-7	a	DT	O
-7	sub-committee	NN	O
-7	last	JJ	O
-7	month	NN	O
-7	but	CC	O
-7	its	PRP$	O
-7	recommendation	NN	O
-7	that	IN	O
-7	the	DT	O
-7	plan	NN	O
-7	be	VB	O
-7	axed	VBN	O
-7	was	VBD	O
-7	thrown	VBN	O
-7	out	RP	O
-7	by	IN	O
-7	the	DT	O
-7	council	NN	O
-7	.	.	O
-
-8	A	DT	O
-8	report	NN	O
-8	to	TO	O
-8	Friday	NNP	B-DATE
-8	's	POS	O
-8	meeting	NN	O
-8	by	IN	O
-8	the	DT	O
-8	council	NN	O
-8	's	POS	O
-8	traffic	NN	O
-8	operations	NNS	O
-8	engineer	NN	O
-8	,	,	O
-8	Mr	NNP	O
-8	Brian	NNP	B-PERSON
-8	Neill	NNP	I-PERSON
-8	,	,	O
-8	said	VBD	O
-8	traffic	NN	O
-8	volumes	NNS	O
-8	on	IN	O
-8	the	DT	O
-8	bridge	NN	O
-8	had	VBD	O
-8	fallen	VBN	O
-8	from	IN	O
-8	4000	CD	O
-8	vehicles	NNS	O
-8	a	DT	O
-8	day	NN	O
-8	in	IN	O
-8	1986	CD	B-DATE
-8	to	TO	O
-8	fewer	JJR	O
-8	than	IN	O
-8	2500	CD	O
-8	in	IN	O
-8	February	NNP	B-DATE
-8	.	.	O
-
-9	Traffic	NN	O
-9	volumes	NNS	O
-9	on	IN	O
-9	the	DT	O
-9	Worcester	NNP	B-LOC
-9	Boulevard	NNP	I-LOC
-9	between	IN	O
-9	Rolleston	NNP	B-LOC
-9	Avenue	NNP	I-LOC
-9	and	CC	O
-9	Montreal	NNP	B-LOC
-9	Street	NNP	I-LOC
-9	were	VBD	O
-9	fewer	JJR	O
-9	than	IN	O
-9	900	CD	O
-9	vehicles	NNS	O
-9	a	DT	O
-9	day	NN	O
-9	,	,	O
-9	and	CC	O
-9	between	IN	O
-9	Cambridge	NNP	B-LOC
-9	Terrace	NNP	I-LOC
-9	and	CC	O
-9	Montreal	NNP	B-LOC
-9	Street	NNP	I-LOC
-9	fewer	JJR	O
-9	than	IN	O
-9	1700	CD	O
-9	vehicles	NNS	O
-9	a	DT	O
-9	day	NN	O
-9	.	.	O
-
-10	Traffic	NN	O
-10	volumes	NNS	O
-10	on	IN	O
-10	other	JJ	O
-10	roads	NNS	O
-10	in	IN	O
-10	the	DT	O
-10	area	NN	O
-10	ranged	VBD	O
-10	from	IN	O
-10	7300	CD	O
-10	to	TO	O
-10	more	JJR	O
-10	than	IN	O
-10	20000	CD	O
-10	vehicles	NNS	O
-10	a	DT	O
-10	day	NN	O
-10	.	.	O
-
-11	Mr	NNP	O
-11	Neill	NNP	B-PERSON
-11	said	VBD	O
-11	local	JJ	O
-11	and	CC	O
-11	business	NN	O
-11	people	NNS	O
-11	would	MD	O
-11	quickly	RB	O
-11	adapt	VB	O
-11	to	TO	O
-11	using	VBG	O
-11	alternative	JJ	O
-11	routes	NNS	O
-11	.	.	O
-
-12	Visitors	NNS	O
-12	would	MD	O
-12	be	VB	O
-12	guided	VBN	O
-12	by	IN	O
-12	signs	NNS	O
-12	,	,	O
-12	and	CC	O
-12	delivery	NN	O
-12	and	CC	O
-12	other	JJ	O
-12	commercial	JJ	O
-12	vehicles	NNS	O
-12	might	MD	O
-12	need	VB	O
-12	to	TO	O
-12	drive	VB	O
-12	an	DT	O
-12	extra	JJ	O
-12	block	NN	O
-12	.	.	O
-
-13	Provision	NN	O
-13	had	VBD	O
-13	been	VBN	O
-13	made	VBN	O
-13	for	IN	O
-13	tour	NN	O
-13	coach	NN	O
-13	and	CC	O
-13	other	JJ	O
-13	tourist	JJ	O
-13	transport	NN	O
-13	vehicles	NNS	O
-13	to	TO	O
-13	stop	VB	O
-13	,	,	O
-13	park	VB	O
-13	,	,	O
-13	and	CC	O
-13	load	VB	O
-13	.	.	O
